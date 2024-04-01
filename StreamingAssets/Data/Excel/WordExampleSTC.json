@@ -1,0 +1,5560 @@
+[
+   {
+      "stence_id":1,
+      "word_id":97,
+      "_word_name":"선생님",
+      "example":"마이클은 [선생님]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":2,
+      "word_id":97,
+      "_word_name":"선생님",
+      "example":"마이클은 한국어 [선생님]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":3,
+      "word_id":97,
+      "_word_name":"선생님",
+      "example":"제니는 대학생이고, 마이클은 [선생님]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":4,
+      "word_id":97,
+      "_word_name":"선생님",
+      "example":"린다는 선생님이고, 마이클도 [선생님]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":5,
+      "word_id":191,
+      "_word_name":"대학생",
+      "example":"제니는 [대학생]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":6,
+      "word_id":191,
+      "_word_name":"대학생",
+      "example":"제니는 [대학생]이고, 마이클은 선생님이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":7,
+      "word_id":191,
+      "_word_name":"대학생",
+      "example":"데니스는 대학생이고, 제니도 [대학생]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":8,
+      "word_id":192,
+      "_word_name":"학생",
+      "example":"저는 [학생]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":9,
+      "word_id":192,
+      "_word_name":"학생",
+      "example":"제니는 [학생]이고, 이학년이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":10,
+      "word_id":192,
+      "_word_name":"학생",
+      "example":"지수는 [학생]이고, 삼학년이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":11,
+      "word_id":192,
+      "_word_name":"학생",
+      "example":"제니는 [학생]이고, 마이클은 선생님이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":12,
+      "word_id":193,
+      "_word_name":"일학년",
+      "example":"제니는 [일학년]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":13,
+      "word_id":193,
+      "_word_name":"일학년",
+      "example":"린다는 올해 입학해서 [일학년]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":14,
+      "word_id":193,
+      "_word_name":"일학년",
+      "example":"미나는 일학년이고, 린다도 [일학년]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":15,
+      "word_id":194,
+      "_word_name":"이학년",
+      "example":"작년에 입학했고, 올해는 [이학년]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":16,
+      "word_id":194,
+      "_word_name":"이학년",
+      "example":"작년에 일학년이었고, 올해는 [이학년]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":17,
+      "word_id":194,
+      "_word_name":"이학년",
+      "example":"올해는 [이학년]이고, 내년에는 삼학년이 될 거에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":18,
+      "word_id":195,
+      "_word_name":"삼학년",
+      "example":"작년에 이학년이었고, 올해는 [삼학년]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":19,
+      "word_id":195,
+      "_word_name":"삼학년",
+      "example":"올해는 [삼학년]이고, 내년에는 사학년이 될 거에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":20,
+      "word_id":195,
+      "_word_name":"삼학년",
+      "example":"유이코는 삼학년이고, 데니스도 [삼학년]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":21,
+      "word_id":196,
+      "_word_name":"사학년",
+      "example":"작년에 삼학년이었고, 올해는 [사학년]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":22,
+      "word_id":196,
+      "_word_name":"사학년",
+      "example":"올해는 [사학년]이고, 내년에 졸업할거에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":23,
+      "word_id":196,
+      "_word_name":"사학년",
+      "example":"지민이는 사학년이고, 저도 [사학년]이에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":24,
+      "word_id":197,
+      "_word_name":"경영학도",
+      "example":"경영학을 배우는 사람을 [경영학도]라고 해요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":25,
+      "word_id":197,
+      "_word_name":"경영학도",
+      "example":"제니는 경영학을 전공하는 [경영학도]에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":26,
+      "word_id":197,
+      "_word_name":"경영학도",
+      "example":"경영학과 학생을 [경영학도]라고 합니다.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":27,
+      "word_id":198,
+      "_word_name":"미술학도",
+      "example":"미술을 전공하는 사람을 [미술학도]라고 합니다.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":28,
+      "word_id":198,
+      "_word_name":"미술학도",
+      "example":"정욱은 컴퓨터디자인을 공부하는 [미술학도]에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":29,
+      "word_id":198,
+      "_word_name":"미술학도",
+      "example":"제니는 공학도이고, 정욱은 [미술학도]에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":30,
+      "word_id":199,
+      "_word_name":"공학도",
+      "example":"공학을 전공하는 사람을 [공학도]라고 합니다.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":31,
+      "word_id":199,
+      "_word_name":"공학도",
+      "example":"저는 컴퓨터공학을 전공하는 [공학도]에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":32,
+      "word_id":199,
+      "_word_name":"공학도",
+      "example":"위첸은 전자공학을 전공하는 [공학도]에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":33,
+      "word_id":200,
+      "_word_name":"가수",
+      "example":"김정국은 [가수]에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":34,
+      "word_id":200,
+      "_word_name":"가수",
+      "example":"제이홉은 [가수]에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":35,
+      "word_id":200,
+      "_word_name":"가수",
+      "example":"제이홉은 가수이고, 정국도 [가수]에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":36,
+      "word_id":200,
+      "_word_name":"가수",
+      "example":"배두나는 영화배우이고, 정국은 [가수]에요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":40,
+      "word_id":202,
+      "_word_name":"라면",
+      "example":"미나는 [라면]을 좋아해요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":41,
+      "word_id":202,
+      "_word_name":"라면",
+      "example":"미나는 라면을 좋아하고, 린다는 [라면]을 싫어해요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":42,
+      "word_id":202,
+      "_word_name":"라면",
+      "example":"미나는 라면을 좋아하고, 지수도 [라면]을 좋아해요.",
+      "example_mean":"Not yet entered"
+   },
+   {
+      "stence_id":43,
+      "word_id":61,
+      "_word_name":"떡볶이",
+      "example":"[떡볶이]는 매운게 있고, 안매운게 있어요. 어떤걸 좋아해요?",
+      "example_mean":"[Tteokbokki] comes in spicy and non-spicy versions. Which do you like?"
+   },
+   {
+      "stence_id":44,
+      "word_id":61,
+      "_word_name":"떡볶이",
+      "example":"저는 [떡볶이]요. 떡볶이 먹을래요.",
+      "example_mean":"My choice is [Tteokbokki]. I'll have Tteokbokki."
+   },
+   {
+      "stence_id":45,
+      "word_id":61,
+      "_word_name":"떡볶이",
+      "example":"[떡볶이]는 빨개요.",
+      "example_mean":"[Tteokbokki] is red."
+   },
+   {
+      "stence_id":46,
+      "word_id":203,
+      "_word_name":"오뎅",
+      "example":"[오뎅]은 꼬치에 꿰어 국물에 담가 익힌 음식이에요.",
+      "example_mean":"Let's eat hot [oden] soup."
+   },
+   {
+      "stence_id":47,
+      "word_id":203,
+      "_word_name":"오뎅",
+      "example":"[오뎅]국물 줄까?",
+      "example_mean":"[Oden] Do you want some soup?"
+   },
+   {
+      "stence_id":48,
+      "word_id":203,
+      "_word_name":"오뎅",
+      "example":"[오뎅]국물 먹을래요?",
+      "example_mean":"[Oden] soup is good when it's cold."
+   },
+   {
+      "stence_id":49,
+      "word_id":204,
+      "_word_name":"순대",
+      "example":"저는 [순대] 싫어해요.",
+      "example_mean":"[Sundae] is tteokbokki."
+   },
+   {
+      "stence_id":50,
+      "word_id":204,
+      "_word_name":"순대",
+      "example":"미나는 순대 싫어하고, 저도 [순대] 싫어해요.",
+      "example_mean":"Mina doesn't like sundae, and I don't like [sundae]."
+   },
+   {
+      "stence_id":51,
+      "word_id":204,
+      "_word_name":"순대",
+      "example":"[순대]를 먹을 줄은 아는데, 할 줄은 몰라요.",
+      "example_mean":"I know how to eat sundae, but I don't know how to cook it."
+   },
+   {
+      "stence_id":52,
+      "word_id":205,
+      "_word_name":"찹쌀",
+      "example":"[찹쌀]떠억 ~ 메밀 ~ 무욱.",
+      "example_mean":"[glutinous rice] Teouk ~ Buckwheat ~ Radish"
+   },
+   {
+      "stence_id":53,
+      "word_id":205,
+      "_word_name":"찹쌀",
+      "example":"와 [찹쌀]밥 진짜 잘됐다.",
+      "example_mean":"Wow, the [sticky rice] rice was really good."
+   },
+   {
+      "stence_id":54,
+      "word_id":205,
+      "_word_name":"찹쌀",
+      "example":"요즘 [찹쌀] 가격이 금 값이야.",
+      "example_mean":"The price of [glutinous rice] these days is the price of gold"
+   },
+   {
+      "stence_id":55,
+      "word_id":28,
+      "_word_name":"김밥",
+      "example":"저는 [김밥]과 라면을 먹을래요.",
+      "example_mean":"What [gimbap] do you want to eat?"
+   },
+   {
+      "stence_id":56,
+      "word_id":28,
+      "_word_name":"김밥",
+      "example":"[김밥]은 김 위에 밥을 펴서 여러 재료를 말아 썰어 먹는 음식이에요.",
+      "example_mean":"[Kimbap] is a dish made with kim(nori seaweed), rice, and rolled ingredients."
+   },
+   {
+      "stence_id":57,
+      "word_id":28,
+      "_word_name":"김밥",
+      "example":"[김밥]은 먹기 편해서 도시락으로 인기있어요.",
+      "example_mean":"What [gimbap] do you want to eat?"
+   },
+   {
+      "stence_id":58,
+      "word_id":28,
+      "_word_name":"김밥",
+      "example":"[김밥]은 쇠고기 김밥, 참치김밥 등 여러 종류가 있어요.",
+      "example_mean":"[Gimbab] Kkongdari is a true delicacy"
+   },
+   {
+      "stence_id":59,
+      "word_id":28,
+      "_word_name":"김밥",
+      "example":"김밥천국은 [김밥]이 유명해요.",
+      "example_mean":"Shall we roll [gimbap] after a long time?"
+   },
+   {
+      "stence_id":60,
+      "word_id":206,
+      "_word_name":"호떡",
+      "example":"겨울이면 따뜻하고 납작한 [호떡]이 생각나죠.",
+      "example_mean":"It's winter, [Hotteok] Can't you see a house?"
+   },
+   {
+      "stence_id":61,
+      "word_id":206,
+      "_word_name":"호떡",
+      "example":"요즘엔 뿌링클 [호떡]이 대세야.",
+      "example_mean":"These days, prinkle [hotteok] is the trend"
+   },
+   {
+      "stence_id":62,
+      "word_id":206,
+      "_word_name":"호떡",
+      "example":"무슨 소리 [호떡]은 '오리지널'이 최고다.",
+      "example_mean":"As for [Hotteok], 'original' is the best"
+   },
+   {
+      "stence_id":63,
+      "word_id":207,
+      "_word_name":"쫄면",
+      "example":"[쫄면]은 매운 양념에 비빈 국수에요.",
+      "example_mean":"Ma'am, just roll two [Jjolmyeon] here."
+   },
+   {
+      "stence_id":64,
+      "word_id":207,
+      "_word_name":"쫄면",
+      "example":"라면은 국물이 있고, [쫄면]은 국물이 없어요.",
+      "example_mean":"Are you scared? If you're scared, go and eat [Jjolmyeon]"
+   },
+   {
+      "stence_id":65,
+      "word_id":207,
+      "_word_name":"쫄면",
+      "example":"쫄쫄 굶다가 [쫄면]을 먹었더니 너무 맛있었어.",
+      "example_mean":"At that time, [Jjolmyeon], which I ate after starving, tasted heavenly."
+   },
+   {
+      "stence_id":66,
+      "word_id":208,
+      "_word_name":"만두",
+      "example":"김치만두랑 고기[만두]도 먹을래요.",
+      "example_mean":"I want to eat kimchi dumplings and meat [dumplings]."
+   },
+   {
+      "stence_id":67,
+      "word_id":208,
+      "_word_name":"만두",
+      "example":"얼마나 자주 [만두]를 먹어요?",
+      "example_mean":"No, this king [mandu] is only 3,000 won?"
+   },
+   {
+      "stence_id":68,
+      "word_id":208,
+      "_word_name":"만두",
+      "example":"베트남에서 먹었던 물[만두] 진짜 맛있었는데.",
+      "example_mean":"The water [mandu] I ate in Vietnam was really good."
+   },
+   {
+      "stence_id":69,
+      "word_id":209,
+      "_word_name":"튀김",
+      "example":"오징이[튀김] 하나랑, 고구마[튀김] 두 개 주세요.",
+      "example_mean":"One squid [tempura] and two sweet potatoes [tempura], please."
+   },
+   {
+      "stence_id":70,
+      "word_id":209,
+      "_word_name":"튀김",
+      "example":"[튀김]반죽은 밀가루 한 컵 물 한 컵 섞어주면 돼.",
+      "example_mean":"[Frying] For the dough, mix one cup of flour and one cup of water."
+   },
+   {
+      "stence_id":71,
+      "word_id":209,
+      "_word_name":"튀김",
+      "example":"뭘 하든 [튀김]으로 만들면 맛있어.",
+      "example_mean":"Whatever you do, if you make it with [Tempura], it's delicious"
+   },
+   {
+      "stence_id":72,
+      "word_id":209,
+      "_word_name":"튀김",
+      "example":"일단 [튀김]으로 만들자 가져와.",
+      "example_mean":"Let's make it [tempura] for now. Bring it."
+   },
+   {
+      "stence_id":73,
+      "word_id":209,
+      "_word_name":"튀김",
+      "example":"여기 치킨은 [튀김]옷 반 고기 반이네.",
+      "example_mean":"The chicken here is half [fried] clothes and half meat."
+   },
+   {
+      "stence_id":74,
+      "word_id":210,
+      "_word_name":"백반",
+      "example":"흰 쌀밥이 기본으로 나오는 한 상 메뉴가 [백반]이에요.",
+      "example_mean":"One menu item that comes with white rice is [Baekban]."
+   },
+   {
+      "stence_id":75,
+      "word_id":210,
+      "_word_name":"백반",
+      "example":"가정식 [백반]은 집에서 해먹는 밥처럼 나와요.",
+      "example_mean":"Home-style [Baekban] comes out like rice cooked at home."
+   },
+   {
+      "stence_id":76,
+      "word_id":210,
+      "_word_name":"백반",
+      "example":"[백반]은 흰 쌀밥이라는 뜻이에요.",
+      "example_mean":"[Baekban] means white rice."
+   },
+   {
+      "stence_id":77,
+      "word_id":211,
+      "_word_name":"김치찌개",
+      "example":"[김치찌개]끓일거니 김치좀 사와라.",
+      "example_mean":"[Kimchi Jjigae] I'm going to boil it, so buy some kimchi"
+   },
+   {
+      "stence_id":78,
+      "word_id":211,
+      "_word_name":"김치찌개",
+      "example":"이야 칼칼하네. 이게 [김치찌개]지.",
+      "example_mean":"Hey, you’re sharp. This is [Kimchi Jjigae]"
+   },
+   {
+      "stence_id":79,
+      "word_id":211,
+      "_word_name":"김치찌개",
+      "example":"[김치찌개]가 맛있으려면 김칫국물을 좀 넣어야 해.",
+      "example_mean":"For [Kimchi Jjigae] to be delicious, you need to add some kimchi soup."
+   },
+   {
+      "stence_id":80,
+      "word_id":212,
+      "_word_name":"된장찌개",
+      "example":"된장으로 끓인걸 [된장찌개]라고 해요.",
+      "example_mean":"[Doenjang-jjigae] is made with soybean paste(doenjang) as an ingredient."
+   },
+   {
+      "stence_id":81,
+      "word_id":212,
+      "_word_name":"된장찌개",
+      "example":"[된장찌개]에는 여러가지 야채가 들어가요.",
+      "example_mean":"[Doenjang-jjigae] has a lot of vegetables in it."
+   },
+   {
+      "stence_id":82,
+      "word_id":212,
+      "_word_name":"된장찌개",
+      "example":"[된장찌개]랑 김치찌개는 유명한 한국음식이에요.",
+      "example_mean":"[Doenjang-jjigae] and Kimchi-jjigae are famous Korean dishes."
+   },
+   {
+      "stence_id":83,
+      "word_id":212,
+      "_word_name":"된장찌개",
+      "example":"김치찌개도 좋아하고, [된장찌개]도 좋아해요.",
+      "example_mean":"I love Kimchi-jjigae, I love [Doenjang-jjigae]."
+   },
+   {
+      "stence_id":84,
+      "word_id":212,
+      "_word_name":"된장찌개",
+      "example":"[된장찌개] 만들 줄 알아요.",
+      "example_mean":"I know how to make [Doenjang-jjigae]."
+   },
+   {
+      "stence_id":85,
+      "word_id":213,
+      "_word_name":"돈가스",
+      "example":"자고로 남자란 [돈가스]다.",
+      "example_mean":"Since ancient times, a man is [pork cutlet]"
+   },
+   {
+      "stence_id":86,
+      "word_id":213,
+      "_word_name":"돈가스",
+      "example":"[돈가스] 좋아해요?",
+      "example_mean":"[Pork cutlet] Do you like it?"
+   },
+   {
+      "stence_id":87,
+      "word_id":213,
+      "_word_name":"돈가스",
+      "example":"제육볶음? 아니면 [돈가스]? 빨리 정해.",
+      "example_mean":"Stir-fried pork? Or [pork cutlet]? decide quickly"
+   },
+   {
+      "stence_id":88,
+      "word_id":214,
+      "_word_name":"갈비탕",
+      "example":"[갈비탕] 탕탕.",
+      "example_mean":"[Galbitang] Tangtang"
+   },
+   {
+      "stence_id":89,
+      "word_id":214,
+      "_word_name":"갈비탕",
+      "example":"이렇게 으슬으슬 추운 날에는 [갈비탕] 한그릇 땡겨야 하는데.",
+      "example_mean":"On a frigidly cold day like this, I need to crave for a bowl of [Galbi-tang]."
+   },
+   {
+      "stence_id":90,
+      "word_id":214,
+      "_word_name":"갈비탕",
+      "example":"우리 앞집에 [갈비탕] 진짜 잘하는 집 있는데.",
+      "example_mean":"There is a restaurant in front of us that does [Galbi-tang] really well."
+   },
+   {
+      "stence_id":91,
+      "word_id":215,
+      "_word_name":"제육볶음",
+      "example":"마늘 [제육볶음]먹어 봤냐?",
+      "example_mean":"Have you tried garlic [stir-fried meat]?"
+   },
+   {
+      "stence_id":92,
+      "word_id":215,
+      "_word_name":"제육볶음",
+      "example":"이 집 [제육볶음]잘해요. 그냥 제육 먹어요.",
+      "example_mean":"This house [Stir-fried pork] is good. I just eat pork."
+   },
+   {
+      "stence_id":93,
+      "word_id":215,
+      "_word_name":"제육볶음",
+      "example":"[제육 볶음], 아아 그건 남자의 소울 푸드.",
+      "example_mean":"[Stir-fried meat] Ah, that's a man's soul food"
+   },
+   {
+      "stence_id":94,
+      "word_id":216,
+      "_word_name":"냉면",
+      "example":"고기는 꼭 [냉면]이랑 먹어야지.",
+      "example_mean":"You must eat meat with [Naengmyeon]"
+   },
+   {
+      "stence_id":95,
+      "word_id":216,
+      "_word_name":"냉면",
+      "example":"뭔 한겨울에 [냉면]이야 라면이나 먹어.",
+      "example_mean":"[Naengmyeon] in the middle of winter, eat ramen"
+   },
+   {
+      "stence_id":96,
+      "word_id":216,
+      "_word_name":"냉면",
+      "example":"북한의 평양[냉면]은 독특한 맛이 난다던데.",
+      "example_mean":"North Korea's Pyongyang [naengmyeon] is said to have a unique taste."
+   },
+   {
+      "stence_id":97,
+      "word_id":217,
+      "_word_name":"김치볶음밥",
+      "example":"어이 한국인 친구 [김치볶음밥]이 뭐야?",
+      "example_mean":"Hey Korean friend, what is [Kimchi Fried Rice]?"
+   },
+   {
+      "stence_id":98,
+      "word_id":217,
+      "_word_name":"김치볶음밥",
+      "example":"[김치볶음밥]은 그냥 [김치볶음밥]이야.",
+      "example_mean":"[Kimchi Fried Rice] is just [Kimchi Fried Rice]"
+   },
+   {
+      "stence_id":99,
+      "word_id":217,
+      "_word_name":"김치볶음밥",
+      "example":"음 [김치볶음밥]을 더 쉽게 설명하면 김치에 밥을 볶은 거야.",
+      "example_mean":"Well, to explain [kimchi fried rice] more simply, it is stir-fried rice with kimchi."
+   },
+   {
+      "stence_id":100,
+      "word_id":218,
+      "_word_name":"오무라이스",
+      "example":"개인적으로 [오므라이스]는 내 취향이 아니야.",
+      "example_mean":"Personally, [Omurice] is not my taste."
+   },
+   {
+      "stence_id":101,
+      "word_id":218,
+      "_word_name":"오무라이스",
+      "example":"그거 알아? [오므라이스]는 일본이 원조야.",
+      "example_mean":"I know that? [Omurice] is the origin of Japan"
+   },
+   {
+      "stence_id":102,
+      "word_id":218,
+      "_word_name":"오무라이스",
+      "example":"곰 모양으로 [오므라이스]만들어 줄까?",
+      "example_mean":"Shall I make [Omurice] in the shape of a bear?"
+   },
+   {
+      "stence_id":103,
+      "word_id":219,
+      "_word_name":"삼계탕",
+      "example":"백숙과 [삼계탕]은 다른 요리란다.",
+      "example_mean":"Baeksuk and [Samgyetang] are different dishes."
+   },
+   {
+      "stence_id":104,
+      "word_id":219,
+      "_word_name":"삼계탕",
+      "example":"아니 내가 [삼계탕] 말고 백숙 먹자 했잖아.",
+      "example_mean":"No, I said let's eat Baeksuk instead of [Samgyetang]"
+   },
+   {
+      "stence_id":105,
+      "word_id":219,
+      "_word_name":"삼계탕",
+      "example":"[삼계탕]의 저 다리는 내가 가져간다.",
+      "example_mean":"I'll take that leg of [Samgyetang]."
+   },
+   {
+      "stence_id":106,
+      "word_id":170,
+      "_word_name":"카레",
+      "example":"[카레]에 초콜릿 한 조각을 넣으면 단맛이 자연스러워진단다.",
+      "example_mean":"If you put a piece of chocolate in [Curry], the sweetness is natural."
+   },
+   {
+      "stence_id":107,
+      "word_id":170,
+      "_word_name":"카레",
+      "example":"양파를 굉장히 오래 볶으면 [카레]가 더 맛있어 질 거야.",
+      "example_mean":"If you stir-fry the onion for a very long time, the [curry] will be more delicious."
+   },
+   {
+      "stence_id":108,
+      "word_id":170,
+      "_word_name":"카레",
+      "example":"일본인들이 의외로 [카레]를 엄청 좋아해.",
+      "example_mean":"Unexpectedly, Japanese people really like [curry]."
+   },
+   {
+      "stence_id":109,
+      "word_id":220,
+      "_word_name":"국밥",
+      "example":"이모 여기 뜨끈한 [국밥]한 그릇 주쇼.",
+      "example_mean":"Auntie, give me a bowl of hot [gukbap] here"
+   },
+   {
+      "stence_id":110,
+      "word_id":220,
+      "_word_name":"국밥",
+      "example":"이 돈 주고 김밥 먹을 바에 뜨끈한 [국밥] 한 그릇 먹고 말지.",
+      "example_mean":"Spend this money and eat a bowl of hot [gukbap] at the bar where you can eat gimbap"
+   },
+   {
+      "stence_id":111,
+      "word_id":220,
+      "_word_name":"국밥",
+      "example":"[국밥], [국밥] 이 몸의 피엔 국밥이 흐른다.",
+      "example_mean":"[Gukbap], [Gukbap] Soup flows through the blood of my body."
+   },
+   {
+      "stence_id":112,
+      "word_id":221,
+      "_word_name":"파닭",
+      "example":"와 저기 날아가는 새 좀 봐 [파닭],[파닭],[파닭]",
+      "example_mean":"Wow look at the birds flying over there [green onion chicken], [green onion chicken], [green onion chicken]"
+   },
+   {
+      "stence_id":113,
+      "word_id":221,
+      "_word_name":"파닭",
+      "example":"[파닭]보단 양파 닭이 훨씬 맛있어 좀 더 비싸지만.",
+      "example_mean":"The onion chicken is much better than the [green onion chicken]. It's a bit more expensive, but"
+   },
+   {
+      "stence_id":114,
+      "word_id":221,
+      "_word_name":"파닭",
+      "example":"그런데도, [파닭]을 시켜야겠다면 이곳이 너의 무덤이다.",
+      "example_mean":"Even so, if you have to order [green onion chicken], this is your grave."
+   },
+   {
+      "stence_id":115,
+      "word_id":222,
+      "_word_name":"순살치킨",
+      "example":"형 뼈 치킨 시킬까? [순살치킨] 시킬까?",
+      "example_mean":"Shall I order bone-in chicken? [Boneless Chicken] Shall I order it?"
+   },
+   {
+      "stence_id":116,
+      "word_id":222,
+      "_word_name":"순살치킨",
+      "example":"오우 [순살치킨]은, 이 부드러운 맛에 먹는 거지.",
+      "example_mean":"Oh, [Boneless Chicken] is eaten for its mild taste."
+   },
+   {
+      "stence_id":117,
+      "word_id":222,
+      "_word_name":"순살치킨",
+      "example":"오늘은 [순살치킨] 파티다.",
+      "example_mean":"Today is the [Boneless Chicken] party."
+   },
+   {
+      "stence_id":118,
+      "word_id":222,
+      "_word_name":"순살치킨",
+      "example":"치킨을 [순살치킨]으로 먹지 않는다? 그건 범죄야.",
+      "example_mean":"Don't eat chicken as [boneless chicken]? that's a crime"
+   },
+   {
+      "stence_id":119,
+      "word_id":222,
+      "_word_name":"순살치킨",
+      "example":"[순살치킨]은 먹기 편해서 좋네.",
+      "example_mean":"[Boneless Chicken] is good because it is easy to eat."
+   },
+   {
+      "stence_id":120,
+      "word_id":223,
+      "_word_name":"양념치킨",
+      "example":"[양념치킨]의 맵기 정도는 몇 단계로 해드릴까요?",
+      "example_mean":"How many levels of spiciness would you like for [Seasoned Chicken]?"
+   },
+   {
+      "stence_id":121,
+      "word_id":223,
+      "_word_name":"양념치킨",
+      "example":"오랜만에 [양념치킨]좀 뜯어 볼까?",
+      "example_mean":"Shall we try [seasoned chicken] after a long time?"
+   },
+   {
+      "stence_id":122,
+      "word_id":223,
+      "_word_name":"양념치킨",
+      "example":"이 [양념치킨]은 왜 다리가 세 개냐? 삼족오냐?",
+      "example_mean":"Why does this [seasoned chicken] have three legs? Are you three-legged?"
+   },
+   {
+      "stence_id":123,
+      "word_id":224,
+      "_word_name":"마늘닭",
+      "example":"아버지가 어렸을 때 항상 시장에서 [마늘 닭]을 사 오셨지.",
+      "example_mean":"When my father was little, he always bought [garlic chicken] from the market."
+   },
+   {
+      "stence_id":124,
+      "word_id":224,
+      "_word_name":"마늘닭",
+      "example":"고든렘지 식 [마늘 닭]을 보여주마.",
+      "example_mean":"I'll show you Gordon Lemsey's [Garlic Chicken]"
+   },
+   {
+      "stence_id":125,
+      "word_id":224,
+      "_word_name":"마늘닭",
+      "example":"한국인들 정말 독하지 않냐? [마늘 닭]까지 만들 정도라니.",
+      "example_mean":"Aren't Koreans really poisonous? It's enough to make [garlic chicken]"
+   },
+   {
+      "stence_id":126,
+      "word_id":225,
+      "_word_name":"후라이드치킨",
+      "example":"한강에서 [후라이드치킨] 먹으면서 데이트할까?",
+      "example_mean":"Shall we go on a date while eating [fried chicken] at the Han River?"
+   },
+   {
+      "stence_id":127,
+      "word_id":225,
+      "_word_name":"후라이드치킨",
+      "example":"오랜만에 [후라이드치킨] 말고 시장 통닭 먹을까?",
+      "example_mean":"Shall we eat whole chicken instead of [fried chicken] after a long time?"
+   },
+   {
+      "stence_id":128,
+      "word_id":225,
+      "_word_name":"후라이드치킨",
+      "example":"[후라이드치킨] 집에서 튀기면 진짜 주방 난리나. ",
+      "example_mean":"[Fried Chicken] If you fry it at home, the kitchen goes crazy."
+   },
+   {
+      "stence_id":129,
+      "word_id":226,
+      "_word_name":"반반치킨",
+      "example":"오빠 우리 뭐 먹을까? [반반치킨] 어때?",
+      "example_mean":"Brother, what shall we eat? [Half and half chicken] How is it?"
+   },
+   {
+      "stence_id":130,
+      "word_id":226,
+      "_word_name":"반반치킨",
+      "example":"[반반치킨]시키려 하는데 맛은 뭐 뭐로 시킬까?",
+      "example_mean":"I want to order [half and half chicken], but what flavor should I order?"
+   },
+   {
+      "stence_id":131,
+      "word_id":226,
+      "_word_name":"반반치킨",
+      "example":"[반반치킨] 덕에 우리는 항상 싸우지 않을 수 있었어요.",
+      "example_mean":"Thanks to [Half and Half Chicken], we were able to avoid fighting all the time."
+   },
+   {
+      "stence_id":132,
+      "word_id":227,
+      "_word_name":"핫윙",
+      "example":"저는 [핫윙] 꼭 먹고 싶습니다!",
+      "example_mean":"I really want to eat [Hot Wings]!"
+   },
+   {
+      "stence_id":133,
+      "word_id":227,
+      "_word_name":"핫윙",
+      "example":"[핫윙] 제발 주문 목록에 넣어주시면 감사하겠습니다.",
+      "example_mean":"[Hot Wing] I would appreciate it if you could put it on the order list."
+   },
+   {
+      "stence_id":134,
+      "word_id":227,
+      "_word_name":"핫윙",
+      "example":"[핫윙]이다!!!!!!!!!!!!!!!!!!",
+      "example_mean":"It's [Hot Wing]!!!!!!!!!!!!!!!!!!!!"
+   },
+   {
+      "stence_id":135,
+      "word_id":228,
+      "_word_name":"맵떡치킨",
+      "example":"[맵떡치킨] 이런 걸 누가 먹어?",
+      "example_mean":"[Matteteok Chicken] Who eats this?"
+   },
+   {
+      "stence_id":136,
+      "word_id":228,
+      "_word_name":"맵떡치킨",
+      "example":"맵찔이들은 [맵떡치킨] 못 먹긴 하지.",
+      "example_mean":"Spicy people can't eat [Spicy Tteok Chicken]"
+   },
+   {
+      "stence_id":137,
+      "word_id":228,
+      "_word_name":"맵떡치킨",
+      "example":"뭐? [맵떡치킨]이 매워봤자 얼마나 맵다고 부심부리지 마라.",
+      "example_mean":"what? Even if [Matteok Chicken] is spicy, don't brag about how spicy it is."
+   },
+   {
+      "stence_id":138,
+      "word_id":229,
+      "_word_name":"닭개장",
+      "example":"그 친구가 참 [닭개장]을 좋아했는데 이렇게 먼저 갈 줄이야.",
+      "example_mean":"He really liked [Chicken Gaejang], but I never thought he would go first like this."
+   },
+   {
+      "stence_id":139,
+      "word_id":229,
+      "_word_name":"닭개장",
+      "example":"[닭개장]은 말이야 사실 육개장에서 파생된 음식이라네.",
+      "example_mean":"[Dakgaejang] is actually a food derived from broiler chicken."
+   },
+   {
+      "stence_id":140,
+      "word_id":229,
+      "_word_name":"닭개장",
+      "example":"[닭개장]과 닭계장의 차이를 주의하시게.",
+      "example_mean":"Pay attention to the difference between [chicken gaejang] and chicken gyejang"
+   },
+   {
+      "stence_id":141,
+      "word_id":230,
+      "_word_name":"찜닭",
+      "example":"[찜닭]? 그 밍숭맹숭한걸 뭔 맛으로 먹냐.",
+      "example_mean":"[Jjimdak]? What flavor do you eat that muddy thing?"
+   },
+   {
+      "stence_id":142,
+      "word_id":230,
+      "_word_name":"찜닭",
+      "example":"그 밍숭맹숭한 맛으로 먹는 게[찜닭]이야.",
+      "example_mean":"[Steamed chicken] is what you eat with that mild taste."
+   },
+   {
+      "stence_id":143,
+      "word_id":230,
+      "_word_name":"찜닭",
+      "example":"우리 조상들이 먹던 [찜닭]도 이런 맛이었을까?",
+      "example_mean":"Did the [Jjimdak] that our ancestors ate taste like this?"
+   },
+   {
+      "stence_id":144,
+      "word_id":231,
+      "_word_name":"닭도리탕",
+      "example":"어우 이 [닭도리탕] 생각보다 많이 매운데?",
+      "example_mean":"Uh, this [Dakdoritang] is a lot spicier than I thought."
+   },
+   {
+      "stence_id":145,
+      "word_id":231,
+      "_word_name":"닭도리탕",
+      "example":"야 [닭토리탕] 땡기지 않냐?",
+      "example_mean":"Hey [Daktori soup] Aren't you craving it?"
+   },
+   {
+      "stence_id":146,
+      "word_id":231,
+      "_word_name":"닭도리탕",
+      "example":"아니 어떻게 [닭도리탕]에 감자가 없을 수 있냐.",
+      "example_mean":"No, how could [Dakdoritang] not have potatoes?"
+   },
+   {
+      "stence_id":147,
+      "word_id":232,
+      "_word_name":"닭봉조림",
+      "example":"너희 어머니가 해주신[닭봉조림] 진짜 맛있었는데.",
+      "example_mean":"The [braised chicken stick] that your mother made was really delicious."
+   },
+   {
+      "stence_id":148,
+      "word_id":232,
+      "_word_name":"닭봉조림",
+      "example":"[닭봉조림] 어떻게 만드는지 레시피 알려줄 수 있어?",
+      "example_mean":"[Simmered chicken] Can you tell me the recipe for how to make it?"
+   },
+   {
+      "stence_id":149,
+      "word_id":232,
+      "_word_name":"닭봉조림",
+      "example":"이 [닭봉조림]은 실패했다.",
+      "example_mean":"This [braised chicken stick] was a failure."
+   },
+   {
+      "stence_id":150,
+      "word_id":233,
+      "_word_name":"샐러드",
+      "example":"다이어트엔 역시 [샐러드]지.",
+      "example_mean":"Diet is also [salad]"
+   },
+   {
+      "stence_id":151,
+      "word_id":233,
+      "_word_name":"샐러드",
+      "example":"야 내가 먹으려 산 [샐러드]야 그 포크 내려놔.",
+      "example_mean":"Hey, the [salad] I bought to eat, put down that fork"
+   },
+   {
+      "stence_id":152,
+      "word_id":233,
+      "_word_name":"샐러드",
+      "example":"[샐러드]는 그냥 풀때기지.",
+      "example_mean":"[Salad] is just a seasoning base"
+   },
+   {
+      "stence_id":153,
+      "word_id":234,
+      "_word_name":"샌드위치",
+      "example":"날도 좋은데 [샌드위치]좀 싸서 피크닉좀 나갈까?",
+      "example_mean":"It's a nice day. Shall we pack a [sandwich] and go on a picnic?"
+   },
+   {
+      "stence_id":154,
+      "word_id":234,
+      "_word_name":"샌드위치",
+      "example":"편의점 [샌드위치] 요즘 너무 비싸더라.",
+      "example_mean":"Convenience store [Sandwich] These days, it's too expensive"
+   },
+   {
+      "stence_id":155,
+      "word_id":234,
+      "_word_name":"샌드위치",
+      "example":"어렸을 때 엄마가[샌드위치] 많이 해주셨는데.",
+      "example_mean":"When I was young, my mom made me a lot of [sandwiches]."
+   },
+   {
+      "stence_id":156,
+      "word_id":235,
+      "_word_name":"피자",
+      "example":"저놈에게 하와이안[피자] 형벌을 내리노라.",
+      "example_mean":"Give him Hawaiian [pizza] punishment"
+   },
+   {
+      "stence_id":157,
+      "word_id":235,
+      "_word_name":"피자",
+      "example":"고구마[피자] 3판 사와.",
+      "example_mean":"Sweet Potato [Pizza] 3 Sour"
+   },
+   {
+      "stence_id":158,
+      "word_id":235,
+      "_word_name":"피자",
+      "example":"[피자]가 좋아? 치킨이 좋아?",
+      "example_mean":"Do you like [Pizza]? do you like chicken?"
+   },
+   {
+      "stence_id":159,
+      "word_id":236,
+      "_word_name":"스파게티",
+      "example":"[스파게티]는 사실 한국 요리다. 사실 거짓말이다.",
+      "example_mean":"[Spaghetti] is actually a Korean dish. It's actually a lie."
+   },
+   {
+      "stence_id":160,
+      "word_id":236,
+      "_word_name":"스파게티",
+      "example":"너도 날아다니는 [스파게티]교에 가입할 생각 없니?",
+      "example_mean":"Wouldn't you like to join the flying [spaghetti] school?"
+   },
+   {
+      "stence_id":161,
+      "word_id":236,
+      "_word_name":"스파게티",
+      "example":"크림 [스파게티]를 먹을까? 토마토[스파게티]를 먹을까?",
+      "example_mean":"Should I eat cream [spaghetti] or tomato [spaghetti]?"
+   },
+   {
+      "stence_id":162,
+      "word_id":237,
+      "_word_name":"베이글",
+      "example":"요새 인스타에 [베이글]이 그렇게 맛있다던데?",
+      "example_mean":"I heard [Bagel] is so delicious on Yose's Instagram?"
+   },
+   {
+      "stence_id":163,
+      "word_id":237,
+      "_word_name":"베이글",
+      "example":"베이식? 노노 [베이글].",
+      "example_mean":"basic? No no [Bagel]"
+   },
+   {
+      "stence_id":164,
+      "word_id":237,
+      "_word_name":"베이글",
+      "example":"빵 좀 사자 [베이글]도 몇 개 좀 사고.",
+      "example_mean":"Buy some bread and some [bagels]"
+   },
+   {
+      "stence_id":165,
+      "word_id":238,
+      "_word_name":"스테이크",
+      "example":"오늘 저녁은 [스테이크]다.",
+      "example_mean":"Tonight's dinner is [Steak]."
+   },
+   {
+      "stence_id":166,
+      "word_id":238,
+      "_word_name":"스테이크",
+      "example":"외식 나가서 [스테이크]좀 썰어볼까?",
+      "example_mean":"Shall we go out to eat and cut [steak]?"
+   },
+   {
+      "stence_id":167,
+      "word_id":238,
+      "_word_name":"스테이크",
+      "example":"내가[스테이크] 진짜 잘굽는 데 미디움 레어로 구워줄까?",
+      "example_mean":"I [steak] really well done, should I grill it medium rare?"
+   },
+   {
+      "stence_id":168,
+      "word_id":238,
+      "_word_name":"스테이크",
+      "example":"어이 애송이 T본[스테이크]라고 들어봤나.",
+      "example_mean":"Hey, have you heard of T-Bone [Steak]?"
+   },
+   {
+      "stence_id":169,
+      "word_id":238,
+      "_word_name":"스테이크",
+      "example":"[스테이크]는 너무 비싸서 못 먹겠다.",
+      "example_mean":"[Steak] is too expensive, so I can't eat it."
+   },
+   {
+      "stence_id":170,
+      "word_id":239,
+      "_word_name":"햄버거",
+      "example":"맥도날드에 [햄버거]좀 때리러 갈까?",
+      "example_mean":"Shall we go to McDonald's to get some [hamburgers]?"
+   },
+   {
+      "stence_id":171,
+      "word_id":239,
+      "_word_name":"햄버거",
+      "example":"뭔 버거킹이야 [햄버거]는 롯데리아지.",
+      "example_mean":"What is Burger King? [Hamburger] is Lotteria."
+   },
+   {
+      "stence_id":172,
+      "word_id":239,
+      "_word_name":"햄버거",
+      "example":"오랜만에 수제[햄버거]가 땡기네.",
+      "example_mean":"I've been craving homemade [hamburger] for the first time in a while"
+   },
+   {
+      "stence_id":173,
+      "word_id":172,
+      "_word_name":"커피",
+      "example":"아 [커피] 마렵네.",
+      "example_mean":"Ah [Coffee] I'm running out"
+   },
+   {
+      "stence_id":174,
+      "word_id":172,
+      "_word_name":"커피",
+      "example":"[커피], [커피] 수혈이 시급하다.",
+      "example_mean":"[Coffee], [Coffee] Blood transfusion is urgent."
+   },
+   {
+      "stence_id":175,
+      "word_id":172,
+      "_word_name":"커피",
+      "example":"점심 먹고 다 같이 [커피] 한잔 어때요?",
+      "example_mean":"How about a [coffee] together after lunch?"
+   },
+   {
+      "stence_id":176,
+      "word_id":172,
+      "_word_name":"커피",
+      "example":"한국인은 [커피]가 없었으면 아마 멸종했을 거야.",
+      "example_mean":"Koreans would probably have gone extinct without [coffee]."
+   },
+   {
+      "stence_id":177,
+      "word_id":172,
+      "_word_name":"커피",
+      "example":"[커피]중 최고봉은 아이스아메리카노다.",
+      "example_mean":"[Coffee] The highest peak is ice americano."
+   },
+   {
+      "stence_id":178,
+      "word_id":240,
+      "_word_name":"나물",
+      "example":"역시 봄에는 [나물]을 먹어야 해.",
+      "example_mean":"You should eat [Namul] in spring."
+   },
+   {
+      "stence_id":179,
+      "word_id":240,
+      "_word_name":"나물",
+      "example":"입맛이 없을 때는 [나물]에 밥을 비벼 먹으면 제격이야.",
+      "example_mean":"It's perfect to mix rice with [Namul] when you don't have an appetite."
+   },
+   {
+      "stence_id":180,
+      "word_id":240,
+      "_word_name":"나물",
+      "example":"이 [나물] 집밥 생각나네.",
+      "example_mean":"This [Namul] reminds me of home-cooked meals."
+   },
+   {
+      "stence_id":181,
+      "word_id":241,
+      "_word_name":"깍두기",
+      "example":"국밥집은 [깍두기]로 결정되지.",
+      "example_mean":"Gukbap restaurant is decided by [Kkakdugi]."
+   },
+   {
+      "stence_id":182,
+      "word_id":241,
+      "_word_name":"깍두기",
+      "example":"우리 애가 먹기에는 [깍두기]가 너무 커요.",
+      "example_mean":"This [Kkakdugi] is too big for my child to eat."
+   },
+   {
+      "stence_id":183,
+      "word_id":241,
+      "_word_name":"깍두기",
+      "example":"[깍두기]가 너무 익어서 다 물렀네.",
+      "example_mean":"The [Kkakdugi] is over ripe and it's too soft."
+   },
+   {
+      "stence_id":184,
+      "word_id":29,
+      "_word_name":"김치",
+      "example":"나는 [김치]를 먹어봐야 맛집인지 확신할 수 있어.",
+      "example_mean":"I have to eat [Kimchi] to be sure that it is a good restaurant."
+   },
+   {
+      "stence_id":185,
+      "word_id":29,
+      "_word_name":"김치",
+      "example":"찌개에 들어가는 [김치]는 푹 익은 걸 써야해.",
+      "example_mean":"Jjigae tastes better when put fully riped [Kimchi] in the Jjigae."
+   },
+   {
+      "stence_id":186,
+      "word_id":29,
+      "_word_name":"김치",
+      "example":"[김치]가 너무 맵다면 하얀 [김치]도 있으니 먹어봐.",
+      "example_mean":"If [Kimchi] is too spicy, there is white [Kimchi], so try it."
+   },
+   {
+      "stence_id":187,
+      "word_id":242,
+      "_word_name":"반찬",
+      "example":"이 식당은 메인은 별로고 [반찬]만 가득이네.",
+      "example_mean":"This restaurant doesn't have a good main dish, but it's full of [Banchan]."
+   },
+   {
+      "stence_id":188,
+      "word_id":242,
+      "_word_name":"반찬",
+      "example":"오늘 [반찬] 가게에서 할인 행사가 있어서 많이 샀어.",
+      "example_mean":"There was a discount event at the [Banchan] store today, so I bought a lot."
+   },
+   {
+      "stence_id":189,
+      "word_id":242,
+      "_word_name":"반찬",
+      "example":"배달음식 말고 엄마가 해주는 [반찬]이 먹고 싶어.",
+      "example_mean":"I want to eat my mom's [Banchan] instead of delivery food."
+   },
+   {
+      "stence_id":190,
+      "word_id":243,
+      "_word_name":"떡국",
+      "example":"새해가 됐으니 [떡국]을 먹을 거야.",
+      "example_mean":"Since it's the new year, I'm going to eat [Tteokguk]."
+   },
+   {
+      "stence_id":191,
+      "word_id":243,
+      "_word_name":"떡국",
+      "example":"너 [떡국]에 후추를 너무 많이 뿌렸어",
+      "example_mean":"You put too much pepper on the [Tteokguk]!"
+   },
+   {
+      "stence_id":192,
+      "word_id":243,
+      "_word_name":"떡국",
+      "example":"[떡국] 한 그릇에 한살이면, 난 벌써 5살 더 먹었어.",
+      "example_mean":"If a bowl of [Tteokguk] is one year old, I'm already five years older now."
+   },
+   {
+      "stence_id":193,
+      "word_id":244,
+      "_word_name":"삼겹살",
+      "example":"퇴근하고 [삼겹살]에 소주 한잔 할래?",
+      "example_mean":"Would you like to have [Samgyeopsal] and soju after work?"
+   },
+   {
+      "stence_id":194,
+      "word_id":244,
+      "_word_name":"삼겹살",
+      "example":"[삼겹살] 한근 주세요.",
+      "example_mean":"I'd like 600g of [Samgyeopsal], please."
+   },
+   {
+      "stence_id":195,
+      "word_id":244,
+      "_word_name":"삼겹살",
+      "example":"냉삼 콜? 냉동 삼겹살 완전 땡기는데.",
+      "example_mean":"How about Nangsam? I really want frozen [Samgyeopsal]."
+   },
+   {
+      "stence_id":196,
+      "word_id":245,
+      "_word_name":"맥주",
+      "example":"편의점 [맥주]가 4캔에 11,000원까지 올랐습니다.",
+      "example_mean":"It went up to 11,000 won for 4 cans of [Beer] at the convenience store."
+   },
+   {
+      "stence_id":197,
+      "word_id":245,
+      "_word_name":"맥주",
+      "example":"독일 [맥주]가 최고야.",
+      "example_mean":"German [Beer] is the best."
+   },
+   {
+      "stence_id":198,
+      "word_id":245,
+      "_word_name":"맥주",
+      "example":"이젠 집에서도 기계로 [맥주]를 만들 수 있다고?",
+      "example_mean":"Now I can make [Beer] with a machine at home?"
+   },
+   {
+      "stence_id":199,
+      "word_id":246,
+      "_word_name":"소주",
+      "example":"난 [소주]는 왜 먹는지 모르겠어.",
+      "example_mean":"I don't understand why people drink [Soju]."
+   },
+   {
+      "stence_id":200,
+      "word_id":246,
+      "_word_name":"소주",
+      "example":"넌 [소주]가 쓰냐? 난 [소주]가 달다.",
+      "example_mean":"Do you think [Soju] is bitter? [Soju] is sweet for me."
+   },
+   {
+      "stence_id":201,
+      "word_id":246,
+      "_word_name":"소주",
+      "example":"[소주]는 빨간 뚜껑을 마셔야지.",
+      "example_mean":"You need to drink [Soju] with a red lid."
+   },
+   {
+      "stence_id":202,
+      "word_id":247,
+      "_word_name":"막걸리",
+      "example":"공주에 밤 [막걸리]가 얼마나 맛있는지 알아?",
+      "example_mean":"Do you know how delicious chestnut [Makgeolli] is in Gongju?"
+   },
+   {
+      "stence_id":203,
+      "word_id":247,
+      "_word_name":"막걸리",
+      "example":"막걸리랑 사이다를 섞어서 마시는 걸 추천할게.",
+      "example_mean":"I recommend mixing [Makgeolli] with sprite."
+   },
+   {
+      "stence_id":204,
+      "word_id":247,
+      "_word_name":"막걸리",
+      "example":"막걸리는 마시기 전에 잘 섞어줘야해, 하지만 흔들면 안돼!",
+      "example_mean":"You have to mix [Makgeolli] well before you drink it, but don't shake it!"
+   },
+   {
+      "stence_id":205,
+      "word_id":248,
+      "_word_name":"소맥",
+      "example":"내 혈관에는 [소맥]이 흘러.",
+      "example_mean":"There's [Somaek] in my veins."
+   },
+   {
+      "stence_id":206,
+      "word_id":248,
+      "_word_name":"소맥",
+      "example":"[소맥]을 마시면 더 빨리 취하니까 조심해.",
+      "example_mean":"If you drink [Somaek], you'll get drunk faster, so be careful."
+   },
+   {
+      "stence_id":207,
+      "word_id":248,
+      "_word_name":"소맥",
+      "example":"내가 [소맥]을 끝내주게 말 줄 알아.",
+      "example_mean":"I know how to make [Somaek] awesome."
+   },
+   {
+      "stence_id":208,
+      "word_id":249,
+      "_word_name":"힙합",
+      "example":"느슨해진 [힙합]씬에 긴장감을 줘.",
+      "example_mean":"Give tension to the loose [Hiphop] scene."
+   },
+   {
+      "stence_id":209,
+      "word_id":249,
+      "_word_name":"힙합",
+      "example":"어느새부터 [힙합]은 안멋져.",
+      "example_mean":"[Hiphop] isn't cool anymore."
+   },
+   {
+      "stence_id":210,
+      "word_id":249,
+      "_word_name":"힙합",
+      "example":"이번 여름 열리는 [힙합] 콘서트에는 인기 래퍼들이 많이 나온대.",
+      "example_mean":"Many popular rappers will appear at this summer's [Hiphop] concert."
+   },
+   {
+      "stence_id":211,
+      "word_id":250,
+      "_word_name":"케이팝",
+      "example":"이제 [케이팝]은 전세계인의 문화야.",
+      "example_mean":"Now [K-pop] is the culture of the whole world."
+   },
+   {
+      "stence_id":212,
+      "word_id":250,
+      "_word_name":"케이팝",
+      "example":"네가 좋아하는 [케이팝] 아티스트는 누구야?",
+      "example_mean":"Who is your favorite [K-pop] artist?"
+   },
+   {
+      "stence_id":213,
+      "word_id":250,
+      "_word_name":"케이팝",
+      "example":"[케이팝] 아이돌은 퀄리티가 너무 좋아서 내 눈이 호강해 ",
+      "example_mean":"[K-pop] idols are so high quality that my eyes are happy."
+   },
+   {
+      "stence_id":214,
+      "word_id":251,
+      "_word_name":"애교",
+      "example":"고양이 [애교] 영상이 너무 귀여워!!",
+      "example_mean":"The cat's [Aegyo] video is so cute!!"
+   },
+   {
+      "stence_id":215,
+      "word_id":251,
+      "_word_name":"애교",
+      "example":"매번 새 [애교]가 생기는 걸 보면 놀라울 지경이야.",
+      "example_mean":"It's amazing to see a new [Aegyo] every time."
+   },
+   {
+      "stence_id":216,
+      "word_id":251,
+      "_word_name":"애교",
+      "example":"우리 아들 [애교] 한번 볼까? 예쁜짓 해주세요.",
+      "example_mean":"My son, Shall we see [Aegyo]? Please do something pretty."
+   },
+   {
+      "stence_id":217,
+      "word_id":252,
+      "_word_name":"고시원",
+      "example":"내 [고시원] 옆방의 소음이 너무 심해!",
+      "example_mean":"My [Goshiwon] next door is making so much noise!"
+   },
+   {
+      "stence_id":218,
+      "word_id":252,
+      "_word_name":"고시원",
+      "example":"[고시원]은 너무 좁고 답답해서 우울해지는 것 같아.",
+      "example_mean":"[Goshiwon] Is so narrow and stuffy that I feel depressed."
+   },
+   {
+      "stence_id":219,
+      "word_id":252,
+      "_word_name":"고시원",
+      "example":"[고시원] 냉장고에 넣어둔 내 간식이 사라졌어, 도둑인가?",
+      "example_mean":"My snack in the [Goshiwon]  fridge disappeared. Is it a thief?"
+   },
+   {
+      "stence_id":220,
+      "word_id":253,
+      "_word_name":"고수",
+      "example":"님 혹시 [고수]?",
+      "example_mean":"R U [Gosu]?"
+   },
+   {
+      "stence_id":221,
+      "word_id":253,
+      "_word_name":"고수",
+      "example":"[고수]의 능력을 보여주도록 하지.",
+      "example_mean":"I'll show you what a [Gosu] can do."
+   },
+   {
+      "stence_id":222,
+      "word_id":253,
+      "_word_name":"고수",
+      "example":"한국인 고수 게이머가 또 게임을 출시하자마자 클리어 했어!",
+      "example_mean":"The Korean [Gosu] gamer clear the game as soon as it released, again!"
+   },
+   {
+      "stence_id":223,
+      "word_id":254,
+      "_word_name":"팬",
+      "example":"나는 한국 아이돌 [팬]이야.",
+      "example_mean":"I'm a [Fan] of Korean idols."
+   },
+   {
+      "stence_id":224,
+      "word_id":254,
+      "_word_name":"팬",
+      "example":"작년에 윔블던에 갔다가 테니스 [팬]이 됐어.",
+      "example_mean":"I went to Wimbledon last year and became a big [Fan] of tennis."
+   },
+   {
+      "stence_id":225,
+      "word_id":254,
+      "_word_name":"팬",
+      "example":"콘서트에 갔을 때 [팬]들이 다같이 구호 외치는 게 너무 멋졌어!",
+      "example_mean":"When I went to the concert, it was so cool to see the [fans] shouting the chant together!"
+   },
+   {
+      "stence_id":226,
+      "word_id":255,
+      "_word_name":"팬클럽",
+      "example":"올해는 [팬클럽]에 가입하는 건 어때?",
+      "example_mean":"How about joining the [Fan club] this year?"
+   },
+   {
+      "stence_id":227,
+      "word_id":255,
+      "_word_name":"팬클럽",
+      "example":"[팬클럽] 가입비가 너무 비싸.",
+      "example_mean":"The [Fan club] membership fee is too expensive."
+   },
+   {
+      "stence_id":228,
+      "word_id":255,
+      "_word_name":"팬클럽",
+      "example":"이번 콘서트도 [팬클럽] 선예매 혜택이 있을 거래.",
+      "example_mean":"There will be pre-purchase benefits for the [Fan club] at this concert."
+   },
+   {
+      "stence_id":229,
+      "word_id":113,
+      "_word_name":"아이돌",
+      "example":"4세대 [아이돌]은 걸그룹이 이끌고 있다.",
+      "example_mean":"The 4th generation [Idols] are led by girl groups."
+   },
+   {
+      "stence_id":230,
+      "word_id":113,
+      "_word_name":"아이돌",
+      "example":"노력과 재능, 운 모든 것이 갖춰져야 성곡한 [아이돌]이 될 수 있어.",
+      "example_mean":"You can become a successful [Idol] only when you have all your hard work, talent, and luck."
+   },
+   {
+      "stence_id":231,
+      "word_id":113,
+      "_word_name":"아이돌",
+      "example":"내 꿈은 [아이돌]이야.",
+      "example_mean":"My dream is to be an [Idol]"
+   },
+   {
+      "stence_id":232,
+      "word_id":256,
+      "_word_name":"본진",
+      "example":"[본진]이 난리나서 갈아타려고.",
+      "example_mean":"My [Ult] is going crazy, so I'm going to transfer."
+   },
+   {
+      "stence_id":233,
+      "word_id":256,
+      "_word_name":"본진",
+      "example":"다른 아이돌에 관심이 생겼었는데, [본진]이 컴백하고 나서 완전히 사라졌어.",
+      "example_mean":"I became interested in other idols, but after the [Ult] comeback, my interest completely disappeared."
+   },
+   {
+      "stence_id":234,
+      "word_id":256,
+      "_word_name":"본진",
+      "example":"오늘 제 본진의 데뷔 기념일입니다! 이벤트 열게요!",
+      "example_mean":"Today is my [Ult's] debut anniversary! I'm going to open an event!"
+   },
+   {
+      "stence_id":235,
+      "word_id":257,
+      "_word_name":"최애",
+      "example":"최최차차 몰라? [최애]는 [최애]고 차은우는 차은우지.",
+      "example_mean":"Don't you know 'Choi Choi Cha Cha'? [Bias] is [Bias], ChaEunwoo is ChaEunwoo.(Whoever Bias is, likes Cha Eunwoo because he is handsome.)"
+   },
+   {
+      "stence_id":236,
+      "word_id":257,
+      "_word_name":"최애",
+      "example":"왜 걔가 네 [최애]야?",
+      "example_mean":"Why is she your [Bias]?"
+   },
+   {
+      "stence_id":237,
+      "word_id":257,
+      "_word_name":"최애",
+      "example":"당연히 가창력 때문이지. 완전 [최애] 얼굴이야.",
+      "example_mean":"Of course, it's because of her singing ability. It's my [Bias] voice."
+   },
+   {
+      "stence_id":238,
+      "word_id":258,
+      "_word_name":"차애",
+      "example":"내 최애는 그대로인데, [차애]는 매번 바뀌어.",
+      "example_mean":"My Bias remains the same, but my [second Bias] changes every time."
+   },
+   {
+      "stence_id":239,
+      "word_id":258,
+      "_word_name":"차애",
+      "example":"[차애] 고르는 게 더 어려워.",
+      "example_mean":"It's harder to choose the [second Bias]."
+   },
+   {
+      "stence_id":240,
+      "word_id":258,
+      "_word_name":"차애",
+      "example":"[차애]는 최애와의 케미로 정해지는 거지.",
+      "example_mean":"The [second Bias] is choose based on chemistry with Bias."
+   },
+   {
+      "stence_id":241,
+      "word_id":259,
+      "_word_name":"입덕",
+      "example":"그 무대를 보고나서 [입덕]했어!",
+      "example_mean":"Ever since that stage, I had a [crush] on them!"
+   },
+   {
+      "stence_id":242,
+      "word_id":259,
+      "_word_name":"입덕",
+      "example":"네가 걔한테 [입덕]한거 알아. 그냥 인정해.",
+      "example_mean":"I know you have a [crush] on him. Just admit it."
+   },
+   {
+      "stence_id":243,
+      "word_id":259,
+      "_word_name":"입덕",
+      "example":"내가 만든 팬 영상으로 [입덕] 하는 사람이 늘었대!",
+      "example_mean":"The number of people who had a [crush] on them increased with the video I made!"
+   },
+   {
+      "stence_id":244,
+      "word_id":260,
+      "_word_name":"안티팬",
+      "example":"그녀는 립싱크 논란으로 [안티팬]에게 비난을 받고 있다.",
+      "example_mean":"She is being criticized by [anti-fans] for her lip-sync controversy."
+   },
+   {
+      "stence_id":245,
+      "word_id":260,
+      "_word_name":"안티팬",
+      "example":"조사에 따르면, 많은 아이돌들이 [안티 팬]들 때문에 정신적인 고통을 호소하고 있다고 합니다.",
+      "example_mean":"According to the survey, many idols are complaining of mental pain due to [anti-fans]."
+   },
+   {
+      "stence_id":246,
+      "word_id":260,
+      "_word_name":"안티팬",
+      "example":"오늘 안티팬이랑 엄청 싸웠어. 걔는 할 일이 없나봐!",
+      "example_mean":"I had a hell of a fight with an [anti-fan] today. I guess he has nothing to do!"
+   },
+   {
+      "stence_id":247,
+      "word_id":261,
+      "_word_name":"주접",
+      "example":"아이돌을 좋아하면서 [주접] 실력이 점점 늘고 있어.",
+      "example_mean":"Since I started liking idols, my [Jujup]skills are getting better."
+   },
+   {
+      "stence_id":248,
+      "word_id":261,
+      "_word_name":"주접",
+      "example":"언니가 내 [주접]에 당황하는 게 너무 귀여워!",
+      "example_mean":"It's so cute to see Unnie flustered by my [Jujup]!"
+   },
+   {
+      "stence_id":249,
+      "word_id":261,
+      "_word_name":"주접",
+      "example":"[주접] 배우는 학원이라도 있는거 아니에요?",
+      "example_mean":"Isn't there an academy where you learn [Jujups]?"
+   },
+   {
+      "stence_id":250,
+      "word_id":262,
+      "_word_name":"음반 깡패",
+      "example":"형들은 노래를 내면 항상 1위를 하는 [음반 깡패]야.",
+      "example_mean":"They're [digital monster] who always win first place when they release songs."
+   },
+   {
+      "stence_id":251,
+      "word_id":262,
+      "_word_name":"음반 깡패",
+      "example":"[음반 깡패]의 등장으로 우리 아이돌의 1위는 실패했어.",
+      "example_mean":"With the advent of [digital monster], our idol's first place failed."
+   },
+   {
+      "stence_id":252,
+      "word_id":262,
+      "_word_name":"음반 깡패",
+      "example":"무대 방송도 없이 상위권에 있는 [음반 깡패]가 있어.",
+      "example_mean":"There's a [digital monster] at the top without stage broadcasts."
+   },
+   {
+      "stence_id":253,
+      "word_id":263,
+      "_word_name":"연습생",
+      "example":"그 남자 아이돌은 [연습생] 시절부터 열심히 하기로 소문 났었어.",
+      "example_mean":"The boy idol has been rumored to work hard since his [trainee] days."
+   },
+   {
+      "stence_id":254,
+      "word_id":263,
+      "_word_name":"연습생",
+      "example":"3년 동안 [연습생] 생활을 했지만, 데뷔를 하지 못했어.",
+      "example_mean":"I've been a [trainee] for three years, but I haven't made a debut."
+   },
+   {
+      "stence_id":255,
+      "word_id":263,
+      "_word_name":"연습생",
+      "example":"이번 경연을 마지막으로 데뷔하지 못한다면 [연습생]을 그만 둘거야.",
+      "example_mean":"If I don't make my debut for the last time in this competition, I'll quit being a [trainee.]"
+   },
+   {
+      "stence_id":256,
+      "word_id":264,
+      "_word_name":"데뷔",
+      "example":"금요일 마감되는 국내, 해외 투표를 합산해서 이번 시즌의 [데뷔] 멤버가 결정됩니다!",
+      "example_mean":"This season's [debut] members will be determined by adding up the domestic and international voting that closes on Friday!"
+   },
+   {
+      "stence_id":257,
+      "word_id":264,
+      "_word_name":"데뷔",
+      "example":"4세대 걸그룹들이 [데뷔]부터 큰 이슈가 되고 있어.",
+      "example_mean":"The 4th generation girl groups have been a big issue since their [debut.]"
+   },
+   {
+      "stence_id":258,
+      "word_id":264,
+      "_word_name":"데뷔",
+      "example":"그 보이그룹은 데뷔 당시에는 인기가 전혀 없었지만, 세 번째 싱글로 대박을 터뜨렸어.",
+      "example_mean":"That boy group was not popular at all when they debuted, but it hit the jackpot with their third single."
+   },
+   {
+      "stence_id":259,
+      "word_id":265,
+      "_word_name":"컴백",
+      "example":"우리 오빠들 [컴백]한대! 이번 컨셉은 하이틴인가 봐.",
+      "example_mean":"My oppas are making a [comeback]! I guess this concept is high-teen."
+   },
+   {
+      "stence_id":260,
+      "word_id":265,
+      "_word_name":"컴백",
+      "example":"[컴백]을 3일 앞두고 이런 소식을 전해 드려 죄송합니다.",
+      "example_mean":"I'm sorry to tell you this news three days before our comeback."
+   },
+   {
+      "stence_id":261,
+      "word_id":265,
+      "_word_name":"컴백",
+      "example":"뮤비를 보니까 [컴백] 무대도 장난 아닐거야.",
+      "example_mean":"After watching the music video, I thought the [Comeback] performance will be crazy. "
+   },
+   {
+      "stence_id":262,
+      "word_id":266,
+      "_word_name":"엔딩요정",
+      "example":"이번주 [엔딩요정]은 너어어무 귀여웠어.",
+      "example_mean":"This week [Ending Fairy] was sooo cute."
+   },
+   {
+      "stence_id":263,
+      "word_id":266,
+      "_word_name":"엔딩요정",
+      "example":"걔 무슨 [엔딩요정] 학원 다니는거 아니야?",
+      "example_mean":"Isn't she going to an [Endinf Fairy] academy?"
+   },
+   {
+      "stence_id":264,
+      "word_id":266,
+      "_word_name":"엔딩요정",
+      "example":"[엔딩요정]이 쓴 쪽지 봤어? '요정 파업'이래.",
+      "example_mean":"Did you see [Ending fairy]'s handwritten letter? It says, "
+   },
+   {
+      "stence_id":265,
+      "word_id":267,
+      "_word_name":"리더",
+      "example":"보통 [리더]는 나이가 제일 많은 사람이 하지.",
+      "example_mean":"Usually, the oldest person is the [leader]."
+   },
+   {
+      "stence_id":266,
+      "word_id":267,
+      "_word_name":"리더",
+      "example":"[리더]가 팀 구호를 외치는건 아이돌의 전통이야.",
+      "example_mean":"It's an idol tradition for a [leader] to shout team slogan."
+   },
+   {
+      "stence_id":267,
+      "word_id":267,
+      "_word_name":"리더",
+      "example":"우리 언니는 연습생을 오래해서 [리더]를 하고 있어.",
+      "example_mean":"My  Unnie has been a trainee for a long time, so she's a [leader]."
+   },
+   {
+      "stence_id":268,
+      "word_id":268,
+      "_word_name":"비주얼",
+      "example":"나는 다른거 다 필요없어, 무조건 [비주얼] 멤버만 봐.",
+      "example_mean":"I don't need anything else, just look at the [visual] member."
+   },
+   {
+      "stence_id":269,
+      "word_id":268,
+      "_word_name":"비주얼",
+      "example":"거기 [비주얼]이 누구야?",
+      "example_mean":"Who's the [visual] there?"
+   },
+   {
+      "stence_id":270,
+      "word_id":268,
+      "_word_name":"비주얼",
+      "example":"그 그룹에는 [비주얼] 밖에 없어.",
+      "example_mean":"There are only [visuals] in the group."
+   },
+   {
+      "stence_id":271,
+      "word_id":269,
+      "_word_name":"센터",
+      "example":"데뷔 무대는 무조건 [비주얼]이 센터지.",
+      "example_mean":"The [visual] is the center for the debut performance."
+   },
+   {
+      "stence_id":272,
+      "word_id":269,
+      "_word_name":"센터",
+      "example":"데뷔 [센터]는 그룹 컨셉 잘 보여주는 사람이 해야지.",
+      "example_mean":"The debut [center] should be someone who shows the group concept well."
+   },
+   {
+      "stence_id":273,
+      "word_id":269,
+      "_word_name":"센터",
+      "example":"걔는 춤도 못추는데 어떻게 [센터]를 하냐.",
+      "example_mean":"He can't even dance. How can he be the [center]."
+   },
+   {
+      "stence_id":274,
+      "word_id":270,
+      "_word_name":"성덕",
+      "example":"나 [성덕] 됐어!",
+      "example_mean":"I became a [Seongdeok]!"
+   },
+   {
+      "stence_id":275,
+      "word_id":270,
+      "_word_name":"성덕",
+      "example":"[성덕]이 되려면 [성덕]이 되려고 하지 말아야 해.",
+      "example_mean":"To became a [Seongdeok], You should not try to be the [Seongdeok]."
+   },
+   {
+      "stence_id":276,
+      "word_id":270,
+      "_word_name":"성덕",
+      "example":"제일 부러운 [성덕]은 아이돌이 기억해주는 팬이야.",
+      "example_mean":"The most envious [Seongdeok] is a fan that idols remember."
+   },
+   {
+      "stence_id":277,
+      "word_id":271,
+      "_word_name":"탈덕",
+      "example":"걔 태도에 정 떨어졌어, [탈덕]하려고.",
+      "example_mean":"His terrible attitude turned me off, I'll [taldeok]."
+   },
+   {
+      "stence_id":278,
+      "word_id":271,
+      "_word_name":"탈덕",
+      "example":"[탈덕] 어떻게 해?",
+      "example_mean":"How can I [taldeok]?"
+   },
+   {
+      "stence_id":279,
+      "word_id":271,
+      "_word_name":"탈덕",
+      "example":"얘네는 내 운명이야, 절대 [탈덕] 안해!",
+      "example_mean":"They're my destiny, I'll never [taldeok]!"
+   },
+   {
+      "stence_id":280,
+      "word_id":272,
+      "_word_name":"직캠",
+      "example":"언니가 내가 찍은 [직캠]을 봤대!",
+      "example_mean":"Unnie said she saw my [fancam]!"
+   },
+   {
+      "stence_id":281,
+      "word_id":272,
+      "_word_name":"직캠",
+      "example":"걔는 [직캠]에 찍힌 윙크로 많은 팬이 생겼어.",
+      "example_mean":"He got a many fans by winking on the [fancam]."
+   },
+   {
+      "stence_id":282,
+      "word_id":272,
+      "_word_name":"직캠",
+      "example":"넌 [직캠] 찍어주는 팬이 있다는 걸 감사해야해.",
+      "example_mean":"You have to be thankful that you have a fan who takes [fancams]."
+   },
+   {
+      "stence_id":283,
+      "word_id":273,
+      "_word_name":"소속사",
+      "example":"[소속사]에서 데뷔 5년차부터 연애를 허용한다는 소문이 돌고 있어.",
+      "example_mean":"There is a rumor that the [agency] allows their dating from the 5th year of debut."
+   },
+   {
+      "stence_id":284,
+      "word_id":273,
+      "_word_name":"소속사",
+      "example":"[소속사]가 연예인 관리를 안하네!",
+      "example_mean":"The [agency] does not manage celebrities!"
+   },
+   {
+      "stence_id":285,
+      "word_id":273,
+      "_word_name":"소속사",
+      "example":"[소속사]가 돈 벌려고 자꾸 아이돌을 해외투어 돌린다.",
+      "example_mean":"The [agency] is making idols tour abroad to make money."
+   },
+   {
+      "stence_id":286,
+      "word_id":274,
+      "_word_name":"음방",
+      "example":"[음방]에서 무대가 뒷순서 일 수록 인정 받은 아이돌인거지.",
+      "example_mean":"The later idol perform on a [Eumbang], the more recognized idol is."
+   },
+   {
+      "stence_id":287,
+      "word_id":274,
+      "_word_name":"음방",
+      "example":"[음방]에서 관객이 2천명 있는건 처음이라 귀한 경험이었어.",
+      "example_mean":"It was a valuable experience because it was the first time that there were 2,000 audiences on a [Eumbang]."
+   },
+   {
+      "stence_id":288,
+      "word_id":274,
+      "_word_name":"음방",
+      "example":"요즘은 [음방]에서 직접 AR로 노래 보정을 하더라.",
+      "example_mean":"These days, [Eumbang] directly edit songs with AR."
+   },
+   {
+      "stence_id":289,
+      "word_id":275,
+      "_word_name":"공방",
+      "example":"[공방]은 처음 가는 건데, 준비할 게 있나요?",
+      "example_mean":"It's my first time going to a [Gongbang], do I have anything to prepare?"
+   },
+   {
+      "stence_id":290,
+      "word_id":275,
+      "_word_name":"공방",
+      "example":"[공방]에 키 제한이 있다는 거 알고 있어?",
+      "example_mean":"Did you know that there's a height limit at the [Gongbang]?"
+   },
+   {
+      "stence_id":291,
+      "word_id":275,
+      "_word_name":"공방",
+      "example":"나 [공방] 당첨됐어!",
+      "example_mean":"I got chosen for the [Gongbang]!"
+   },
+   {
+      "stence_id":292,
+      "word_id":276,
+      "_word_name":"스밍",
+      "example":"가족들 계정을 써서 [스밍]하고 있어요.",
+      "example_mean":"I used up my family's account and I'm [seuming] it."
+   },
+   {
+      "stence_id":293,
+      "word_id":276,
+      "_word_name":"스밍",
+      "example":"이번에는 인기 아이돌이 많으니까 [스밍]을 더 열심히 돌려야해.",
+      "example_mean":"There are a lot of popular idols this time, so I have to [seuming] it harder."
+   },
+   {
+      "stence_id":294,
+      "word_id":276,
+      "_word_name":"스밍",
+      "example":"밤새 [스밍]을 돌렸더니 효과가 있는 것 같아",
+      "example_mean":"I've been [seuming] all night and it seems to be working."
+   },
+   {
+      "stence_id":295,
+      "word_id":277,
+      "_word_name":"총공",
+      "example":"음원 공개 직후 [총공] 들어갑니다!",
+      "example_mean":"We're going to [chonggong] right after the release of the song!"
+   },
+   {
+      "stence_id":296,
+      "word_id":277,
+      "_word_name":"총공",
+      "example":"스밍 [총공] 가이드는 게시물에 있습니다.",
+      "example_mean":"The streaming [chonggong] guide is in the post."
+   },
+   {
+      "stence_id":297,
+      "word_id":277,
+      "_word_name":"총공",
+      "example":"생일 해시태그 [총공] 해주세요.",
+      "example_mean":"Please do [chongong] birthday hashtag."
+   },
+   {
+      "stence_id":298,
+      "word_id":278,
+      "_word_name":"남돌",
+      "example":"[남돌]이 춤을 파워풀하게 춰서 좋아.",
+      "example_mean":"I like [Namdol] because he dances so powerfully."
+   },
+   {
+      "stence_id":299,
+      "word_id":278,
+      "_word_name":"남돌",
+      "example":"그의 비주얼은 [남돌] 최고입니다.",
+      "example_mean":"His visul is the best in [Namdol]."
+   },
+   {
+      "stence_id":300,
+      "word_id":278,
+      "_word_name":"남돌",
+      "example":"내 사촌 동생 [남돌] 시켜야 할 것 같아.",
+      "example_mean":"I think I should let my cousin do a [Namdol]."
+   },
+   {
+      "stence_id":301,
+      "word_id":279,
+      "_word_name":"여돌",
+      "example":"4세대는 거의 [여돌] 전쟁이지.",
+      "example_mean":"The fourth generation is almost like a war of [Yeodol]."
+   },
+   {
+      "stence_id":302,
+      "word_id":279,
+      "_word_name":"여돌",
+      "example":"[여돌]의 스타일링이 여학생들에게 많은 영향을 미쳐.",
+      "example_mean":"The styling of [Yeodol] has a lot of influence on girls."
+   },
+   {
+      "stence_id":303,
+      "word_id":279,
+      "_word_name":"여돌",
+      "example":"[여돌]들이 명품의 앰버서더가 되는건 이제 흔한 일이야.",
+      "example_mean":"It is now common for [Yeodol] to become ambassadors for luxury goods."
+   },
+   {
+      "stence_id":304,
+      "word_id":280,
+      "_word_name":"음식",
+      "example":"어떤 [음식] 좋아하세요?",
+      "example_mean":"What kind of [food] do you like?"
+   },
+   {
+      "stence_id":305,
+      "word_id":280,
+      "_word_name":"음식",
+      "example":"먹어보고 싶은 한국 [음식] 있어?",
+      "example_mean":"Is there any Korean [food] you want to try?"
+   },
+   {
+      "stence_id":306,
+      "word_id":280,
+      "_word_name":"음식",
+      "example":"한국 [음식]은 다양해서 좋아.",
+      "example_mean":"I like Korean [food] because it is various."
+   },
+   {
+      "stence_id":307,
+      "word_id":281,
+      "_word_name":"불고기",
+      "example":"우리 엄마가 한 [불고기]가 제일 맛있어.",
+      "example_mean":"My mom's [bulgogi] is the best."
+   },
+   {
+      "stence_id":308,
+      "word_id":281,
+      "_word_name":"불고기",
+      "example":"[불고기]하려고 했는데 간장이 없네.",
+      "example_mean":"I was going to make [bulgogi], but there's no ganjang."
+   },
+   {
+      "stence_id":309,
+      "word_id":281,
+      "_word_name":"불고기",
+      "example":"[불고기] 좀 먹어볼래?",
+      "example_mean":"Would you like some [bulgogi]?"
+   },
+   {
+      "stence_id":310,
+      "word_id":282,
+      "_word_name":"비빔밥",
+      "example":"매울수도 있으니까 [비빔밥]에 고추장은 조금만 넣어봐.",
+      "example_mean":"It might be spicy, so add a little bit of gochujang to the [bibimbap]."
+   },
+   {
+      "stence_id":311,
+      "word_id":282,
+      "_word_name":"비빔밥",
+      "example":"[비빔밥]에 참기름 넣는 걸 깜빡했어!",
+      "example_mean":"I forgot to put sesame oil in [bibimbap]!"
+   },
+   {
+      "stence_id":312,
+      "word_id":282,
+      "_word_name":"비빔밥",
+      "example":"[비빔밥]에는 채소가 많을수록 좋습니다.",
+      "example_mean":"The more vegetables is better in [bibimbap]."
+   },
+   {
+      "stence_id":313,
+      "word_id":283,
+      "_word_name":"식재료",
+      "example":"[식재료]는 어디에서 살 수 있나요?",
+      "example_mean":"Where can I buy [ingredients]?"
+   },
+   {
+      "stence_id":314,
+      "word_id":283,
+      "_word_name":"식재료",
+      "example":"[식재료] 코너는 이쪽입니다.",
+      "example_mean":"The [ingredients] section is over here."
+   },
+   {
+      "stence_id":315,
+      "word_id":283,
+      "_word_name":"식재료",
+      "example":"올해들어 [식재료] 값이 많이 올랐어.",
+      "example_mean":"The price of [ingredients] has gone up a lot this year."
+   },
+   {
+      "stence_id":316,
+      "word_id":284,
+      "_word_name":"양파",
+      "example":"[양파]가 갈색이 될 때까지 볶습니다.",
+      "example_mean":"Fry [onions] until they are brown."
+   },
+   {
+      "stence_id":317,
+      "word_id":284,
+      "_word_name":"양파",
+      "example":"[양파]가 익으면 단맛이 나.",
+      "example_mean":"When [onions] are cooked, they taste sweet."
+   },
+   {
+      "stence_id":318,
+      "word_id":284,
+      "_word_name":"양파",
+      "example":"물이 끓으면, [양파]를 넣어.",
+      "example_mean":"When the water boils, add the [onions.]"
+   },
+   {
+      "stence_id":319,
+      "word_id":285,
+      "_word_name":"마늘",
+      "example":"[마늘]을 너무 많이 넣는거 아니야?",
+      "example_mean":"Aren't you putting in too much [garlic]?"
+   },
+   {
+      "stence_id":320,
+      "word_id":285,
+      "_word_name":"마늘",
+      "example":"한국인은 [마늘]에 미쳤어.",
+      "example_mean":"Koreans are crazy about [garlic]."
+   },
+   {
+      "stence_id":321,
+      "word_id":285,
+      "_word_name":"마늘",
+      "example":"다진 [마늘]을 넣어서 풍미를 올려주세요.",
+      "example_mean":"Add minced garlic to add flavor."
+   },
+   {
+      "stence_id":322,
+      "word_id":286,
+      "_word_name":"파",
+      "example":"라면에 [파]를 썰어 넣는 걸 추천할게.",
+      "example_mean":"I recommend put cutting [spring onions] into ramen."
+   },
+   {
+      "stence_id":323,
+      "word_id":286,
+      "_word_name":"파",
+      "example":"치킨에 [파]를 곁들여 먹어 봤어?",
+      "example_mean":"Have you tried fried chicken with [spring onions]?"
+   },
+   {
+      "stence_id":324,
+      "word_id":286,
+      "_word_name":"파",
+      "example":"장 볼 때 [파]를 깜빡했어.",
+      "example_mean":"I forgot [spring onions] when I went grocery shopping."
+   },
+   {
+      "stence_id":325,
+      "word_id":287,
+      "_word_name":"고추",
+      "example":"[고추]를 고추장에 찍어 먹어.",
+      "example_mean":"Dip the [chili] in the gochujang."
+   },
+   {
+      "stence_id":326,
+      "word_id":287,
+      "_word_name":"고추",
+      "example":"그 [고추] 매운 거니까 먹지마!",
+      "example_mean":"Don't eat that [chili], it's spicy!"
+   },
+   {
+      "stence_id":327,
+      "word_id":287,
+      "_word_name":"고추",
+      "example":"작은 [고추]가 맵다.",
+      "example_mean":"The little [chili] is spicy."
+   },
+   {
+      "stence_id":328,
+      "word_id":4,
+      "_word_name":"감자",
+      "example":"봄[감자]가 맛있단다.",
+      "example_mean":"Spring potatoes are delicious."
+   },
+   {
+      "stence_id":329,
+      "word_id":4,
+      "_word_name":"감자",
+      "example":"강원도에서는 돈 대신 [감자]를 사용한다고 들었어.",
+      "example_mean":"I heard [potatoes] are used instead of money in Gangwon-do."
+   },
+   {
+      "stence_id":330,
+      "word_id":4,
+      "_word_name":"감자",
+      "example":"[감자]인 줄 알았는데 당근이잖아!",
+      "example_mean":"I thought it was a [potato], but it's a carrot!"
+   },
+   {
+      "stence_id":331,
+      "word_id":288,
+      "_word_name":"당근",
+      "example":"감자인 줄 알았는데 [당근]이잖아!",
+      "example_mean":"I thought it was a potato, but it's a [carrot]!"
+   },
+   {
+      "stence_id":332,
+      "word_id":288,
+      "_word_name":"당근",
+      "example":"왜 [당근] 케이크에서 [당근] 맛이 안 나?",
+      "example_mean":"Why doesn't the [carrot] cake taste like [carrots]?"
+   },
+   {
+      "stence_id":333,
+      "word_id":289,
+      "_word_name":"고구마",
+      "example":"어머니 [고구마]호박이 아니라 호박[고구마] 겠죠.",
+      "example_mean":"It's not [sweet potato] pumpkin. It's pumpkin [sweet potato]."
+   },
+   {
+      "stence_id":334,
+      "word_id":289,
+      "_word_name":"고구마",
+      "example":"한국에는 [고구마] 피자가 있어.",
+      "example_mean":"There is [sweet potato] pizza in Korea."
+   },
+   {
+      "stence_id":335,
+      "word_id":290,
+      "_word_name":"채소",
+      "example":"내 남친은 아직도 [채소]를 편식해.",
+      "example_mean":"My boyfriend is still picky about [vegetables]."
+   },
+   {
+      "stence_id":336,
+      "word_id":290,
+      "_word_name":"채소",
+      "example":"난 평생 [채소]만 먹고 살 수도 있을 것 같아.",
+      "example_mean":"I think I can only eat [vegetables] for the rest of my life."
+   },
+   {
+      "stence_id":337,
+      "word_id":291,
+      "_word_name":"과일",
+      "example":"넌 무슨 [과일]을 제일 좋아해?",
+      "example_mean":"What is your favorite [fruit]?"
+   },
+   {
+      "stence_id":338,
+      "word_id":291,
+      "_word_name":"과일",
+      "example":"한국 [과일] 중에서는 딸기, 사과, 배를 추천해.",
+      "example_mean":"I recommend strawberries, apples, and pears among Korean [fruits]."
+   },
+   {
+      "stence_id":339,
+      "word_id":292,
+      "_word_name":"양상추",
+      "example":"제공되는 샐러드 중에서는 [양상추] 샐러드가 제일 기본적입니다.",
+      "example_mean":"Among the salads served, [lettuce] salad is the most basic."
+   },
+   {
+      "stence_id":340,
+      "word_id":292,
+      "_word_name":"양상추",
+      "example":"[양상추]를 이용한 색다른 요리가 없을까?",
+      "example_mean":"Is there any unique dish using [lettuce]?"
+   },
+   {
+      "stence_id":341,
+      "word_id":293,
+      "_word_name":"양배추",
+      "example":"[양배추]를 쪄서 쌈장과 함께 먹으면 정말 맛있어.",
+      "example_mean":"It's really delicious if you steam [cabbage] and eat it with ssamjang."
+   },
+   {
+      "stence_id":342,
+      "word_id":293,
+      "_word_name":"양배추",
+      "example":"[양배추], 케첩, 마요네즈만 있으면 간단한 샐러드를 만들 수 있어.",
+      "example_mean":"You can make a simple salad with [cabbage], ketchup, and mayonnaise."
+   },
+   {
+      "stence_id":343,
+      "word_id":294,
+      "_word_name":"딸기",
+      "example":"한국 과일 중에서는 [딸기], 사과, 배를 추천해.",
+      "example_mean":"I recommend [strawberries], apples, and pears among Korean [fruits]."
+   },
+   {
+      "stence_id":344,
+      "word_id":294,
+      "_word_name":"딸기",
+      "example":"요즘 [딸기]가 너무 비싼 것 같아.",
+      "example_mean":"I think [strawberries] are too expensive these days."
+   },
+   {
+      "stence_id":345,
+      "word_id":295,
+      "_word_name":"복숭아",
+      "example":"딱딱한 [복숭아]랑 물렁한 [복숭아] 중에 뭐가 좋아?",
+      "example_mean":"Which one do you like better, hard [peach] or soft [peach]?"
+   },
+   {
+      "stence_id":346,
+      "word_id":295,
+      "_word_name":"복숭아",
+      "example":"[복숭아]가 전혀 없는데 알레르기가 올라오더라니까. ",
+      "example_mean":"There weren't any [peaches] there, but I got allergies."
+   },
+   {
+      "stence_id":347,
+      "word_id":90,
+      "_word_name":"사과",
+      "example":"비록 내일 지구의 종말이 온다 하여도, 나는 오늘 한 그루의 [사과]나무를 심겠다",
+      "example_mean":"Even if I knew that tomorrow the world would go to pieces, I would still plant my [apple] tree."
+   },
+   {
+      "stence_id":348,
+      "word_id":90,
+      "_word_name":"사과",
+      "example":"하루에 [사과] 한 개를 먹으면 의사가 필요 없다.",
+      "example_mean":" An [apple] a day keeps the doctor away."
+   },
+   {
+      "stence_id":349,
+      "word_id":296,
+      "_word_name":"귤",
+      "example":"제주도 사람들은 [귤]을 안 사먹어.",
+      "example_mean":"People in Jeju Island don't buy [tangerines]."
+   },
+   {
+      "stence_id":350,
+      "word_id":296,
+      "_word_name":"귤",
+      "example":"겨울에는 [귤]은 먹어야지!",
+      "example_mean":"You have to eat [tangerines] in winter!"
+   },
+   {
+      "stence_id":351,
+      "word_id":297,
+      "_word_name":"포도",
+      "example":"[포도] 종류가 엄청 많다는 거 알고 있어?",
+      "example_mean":"Do you know that there are so many kinds of [grapes]?"
+   },
+   {
+      "stence_id":352,
+      "word_id":297,
+      "_word_name":"포도",
+      "example":"[포도]가 좀 신 것 같지 않아?",
+      "example_mean":"Don't you think this [grape] is sour?"
+   },
+   {
+      "stence_id":353,
+      "word_id":298,
+      "_word_name":"고기",
+      "example":"우리 딸은 [고기] 반찬이 없으면 밥을 안 먹어.",
+      "example_mean":"My daughter doesn't eat without [meat] Banchans."
+   },
+   {
+      "stence_id":354,
+      "word_id":298,
+      "_word_name":"고기",
+      "example":"오늘 [고기] 먹으러 갈래?",
+      "example_mean":"Would you like to go eat [meat] today?"
+   },
+   {
+      "stence_id":355,
+      "word_id":299,
+      "_word_name":"소고기",
+      "example":"[소고기]를 한국식으로 구워 먹는다면 마블링이 많은 부위를 추천합니다.",
+      "example_mean":"If you eat beef in Korean BBQ style, I recommend the part with a lot of marbling."
+   },
+   {
+      "stence_id":356,
+      "word_id":299,
+      "_word_name":"소고기",
+      "example":"나는 [소고기] 미역국을 더 좋아해. ",
+      "example_mean":"I prefer [beef] seaweed soup."
+   },
+   {
+      "stence_id":357,
+      "word_id":300,
+      "_word_name":"돼지고기",
+      "example":"[돼지고기] 한 근 주세요.",
+      "example_mean":"Give me 600g of [pork], please."
+   },
+   {
+      "stence_id":358,
+      "word_id":300,
+      "_word_name":"돼지고기",
+      "example":"김치찌개에는 역시 [돼지고기]가 들어가야 맛있어.",
+      "example_mean":"Kimchi Jjigae tastes better with [pork]."
+   },
+   {
+      "stence_id":359,
+      "word_id":301,
+      "_word_name":"닭고기",
+      "example":"한국 사람들은 [닭고기]를 치킨으로 제일 많이 먹는다.",
+      "example_mean":"Koreans eat [chicken] the most as fried [chicken]."
+   },
+   {
+      "stence_id":360,
+      "word_id":301,
+      "_word_name":"닭고기",
+      "example":"[닭고기]를 양념에 골고루 버무리세요.",
+      "example_mean":"Mix the [chicken] evenly with the seasoning."
+   },
+   {
+      "stence_id":361,
+      "word_id":302,
+      "_word_name":"생선",
+      "example":"[생선]회를 좋아하세요?",
+      "example_mean":"Do you like raw [fish]?"
+   },
+   {
+      "stence_id":362,
+      "word_id":302,
+      "_word_name":"생선",
+      "example":"[생선] 살 중에 머리가 제일 맛있다는 말이 있어.",
+      "example_mean":"There's a saying that the head is the best out of all the [fish] meat."
+   },
+   {
+      "stence_id":363,
+      "word_id":303,
+      "_word_name":"계란",
+      "example":"할머니는 삶은 [계란]을 좋아하셨지.",
+      "example_mean":"Grandma liked boiled [eggs]."
+   },
+   {
+      "stence_id":364,
+      "word_id":303,
+      "_word_name":"계란",
+      "example":"[계란] 프라이는 반숙으로 부탁드려요.",
+      "example_mean":"I'd like a sunny side up for the fried [eggs], please."
+   },
+   {
+      "stence_id":365,
+      "word_id":304,
+      "_word_name":"간장",
+      "example":"먹기 전에 파전을 [간장]에 찍어.",
+      "example_mean":"Dip the green onion jeon in the [ganjang] before eating."
+   },
+   {
+      "stence_id":366,
+      "word_id":304,
+      "_word_name":"간장",
+      "example":"밥에 [간장]을 넣고 비벼서 드세요.",
+      "example_mean":"Put [ganjang] in the rice and mix it."
+   },
+   {
+      "stence_id":367,
+      "word_id":305,
+      "_word_name":"고추장",
+      "example":"반찬이 없어서 [고추장]에 밥을 비벼 먹었어.",
+      "example_mean":"There were no Banchans, so I mixed rice with [Gochujang]."
+   },
+   {
+      "stence_id":368,
+      "word_id":305,
+      "_word_name":"고추장",
+      "example":"우리 엄마는 [고추장]을 직접 담구셔.",
+      "example_mean":"My mom makes [Gochujang] herself."
+   },
+   {
+      "stence_id":369,
+      "word_id":99,
+      "_word_name":"소금",
+      "example":"혹시 [소금] 있나요?",
+      "example_mean":"Do you have [salt]?"
+   },
+   {
+      "stence_id":370,
+      "word_id":99,
+      "_word_name":"소금",
+      "example":"[소금]인 줄 알고 실수로 설탕을 넣었어!",
+      "example_mean":"I accidentally added sugar because I thought it was [salt]!"
+   },
+   {
+      "stence_id":371,
+      "word_id":306,
+      "_word_name":"설탕",
+      "example":"소금인 줄 알고 실수로 [설탕]을 넣었어!",
+      "example_mean":"I accidentally added [sugar] because I thought it was salt!"
+   },
+   {
+      "stence_id":372,
+      "word_id":306,
+      "_word_name":"설탕",
+      "example":"한국 음식에는 [설탕]이 많이 들어가는 편이야.",
+      "example_mean":"Usually, Korean food has a lot of [sugar]."
+   },
+   {
+      "stence_id":373,
+      "word_id":307,
+      "_word_name":"식용유",
+      "example":"판매 중인 [식용유]는 대부분이 콩기름입니다.",
+      "example_mean":"Most of the [cooking oil] we sell is soybean oil."
+   },
+   {
+      "stence_id":374,
+      "word_id":307,
+      "_word_name":"식용유",
+      "example":"[식용유] 가격이 올라서 치킨 가격을 올린대.",
+      "example_mean":"The price of [cooking oil] has gone up, so it's going to increase the price of fride chicken."
+   },
+   {
+      "stence_id":375,
+      "word_id":308,
+      "_word_name":"밀가루",
+      "example":"[밀가루] 반죽으로 칼국수를 만들까?",
+      "example_mean":"Should I make Kalguksu with [flour] dough?"
+   },
+   {
+      "stence_id":376,
+      "word_id":308,
+      "_word_name":"밀가루",
+      "example":"남은 [밀가루]로 빵을 만들어야겠어.",
+      "example_mean":"I should make bread with leftover [flour]."
+   },
+   {
+      "stence_id":377,
+      "word_id":309,
+      "_word_name":"땅콩",
+      "example":"[땅콩] 알러지가 있어요.",
+      "example_mean":"I'm allergic to [peanuts]."
+   },
+   {
+      "stence_id":378,
+      "word_id":309,
+      "_word_name":"땅콩",
+      "example":"[땅콩] 소스를 빼주실 수 있나요?",
+      "example_mean":"Can you take out the [peanut] sauce?"
+   },
+   {
+      "stence_id":379,
+      "word_id":135,
+      "_word_name":"우유",
+      "example":"오늘 학교에서 간식으로 바나나 [우유]가 나왔어요.",
+      "example_mean":"Banana [milk] was served as a snack at school today."
+   },
+   {
+      "stence_id":380,
+      "word_id":135,
+      "_word_name":"우유",
+      "example":"[우유]에 유통기한 대신 소비기한이 표시될 것이라고 발표했습니다.",
+      "example_mean":"It has been announced that milk will show the consumption period instead of the expiration date."
+   },
+   {
+      "stence_id":381,
+      "word_id":310,
+      "_word_name":"고춧가루",
+      "example":"[고춧가루]가 매워서 올해 김치는 많이 매워.",
+      "example_mean":"This year's kimchi is very spicy because [red pepper powder] is spicy."
+   },
+   {
+      "stence_id":382,
+      "word_id":310,
+      "_word_name":"고춧가루",
+      "example":"[고춧가루]를 조금 더 넣어야겠어.",
+      "example_mean":"I need to add some more [red pepper powder]."
+   },
+   {
+      "stence_id":383,
+      "word_id":311,
+      "_word_name":"된장",
+      "example":"이런, [된장]이 떨어졌네.",
+      "example_mean":"Oh, we're out of [doenjang]."
+   },
+   {
+      "stence_id":384,
+      "word_id":311,
+      "_word_name":"된장",
+      "example":"돼지고기를 삶을 때 [된장]을 조금 넣도록 해.",
+      "example_mean":"Add some [doenjang] when boiling pork."
+   },
+   {
+      "stence_id":385,
+      "word_id":312,
+      "_word_name":"쌈장",
+      "example":"삼겹살을 [쌈장]에 찍어 상추와 함께 드세요.",
+      "example_mean":"Dip Samgyeopsal in [Ssamjang] and eat it with lettuce."
+   },
+   {
+      "stence_id":386,
+      "word_id":312,
+      "_word_name":"쌈장",
+      "example":"간식 대신 야채에 [쌈장]을 찍어 먹었어.",
+      "example_mean":"I ate vegetables with [Ssamjang] instead of snacks."
+   },
+   {
+      "stence_id":387,
+      "word_id":313,
+      "_word_name":"후추",
+      "example":"뭐가 빠졌나 했더니 [후추]였어.",
+      "example_mean":"I wondered what was missing, and it was [pepper]."
+   },
+   {
+      "stence_id":388,
+      "word_id":313,
+      "_word_name":"후추",
+      "example":"[후추] 때문에 자꾸 재채기가 나온다.",
+      "example_mean":"I keep sneezing because of the [pepper]."
+   },
+   {
+      "stence_id":389,
+      "word_id":183,
+      "_word_name":"한국",
+      "example":"[한국]에 어서오세요.",
+      "example_mean":"Welcome to [Korea]."
+   },
+   {
+      "stence_id":390,
+      "word_id":183,
+      "_word_name":"한국",
+      "example":"[한국]에 와본 적 있어?",
+      "example_mean":"Have you ever been to [Korea]?"
+   },
+   {
+      "stence_id":391,
+      "word_id":314,
+      "_word_name":"미국",
+      "example":"전 [미국]에서 왔어요.",
+      "example_mean":"I'm from [America]."
+   },
+   {
+      "stence_id":392,
+      "word_id":314,
+      "_word_name":"미국",
+      "example":"[미국]에는 언제 가나요?",
+      "example_mean":"When do you go to [America]?"
+   },
+   {
+      "stence_id":393,
+      "word_id":315,
+      "_word_name":"영국",
+      "example":"[영국] 여행은 어땠니?",
+      "example_mean":"How was your trip to the [England]?"
+   },
+   {
+      "stence_id":394,
+      "word_id":315,
+      "_word_name":"영국",
+      "example":"[영국]에서 피시 앤 칩스는 먹어봤어?",
+      "example_mean":"Have you tried fish and chips in [England]?"
+   },
+   {
+      "stence_id":395,
+      "word_id":316,
+      "_word_name":"중국",
+      "example":"[중국]에 가면 만리장성에 꼭 가봐.",
+      "example_mean":"If you go to [China], make sure to visit the Great Wall."
+   },
+   {
+      "stence_id":396,
+      "word_id":316,
+      "_word_name":"중국",
+      "example":"[중국]은 베이징만 가봤어.",
+      "example_mean":"I've only been to Beijing in [China]."
+   },
+   {
+      "stence_id":397,
+      "word_id":317,
+      "_word_name":"일본",
+      "example":"[일본]과 한국에는 비슷한 문화가 많아.",
+      "example_mean":"There are many similar cultures in [Japan] and Korea."
+   },
+   {
+      "stence_id":398,
+      "word_id":317,
+      "_word_name":"일본",
+      "example":"[일본]은 섬나라입니다.",
+      "example_mean":"Japan is an [insular] country."
+   },
+   {
+      "stence_id":399,
+      "word_id":318,
+      "_word_name":"사람",
+      "example":"그 [사람]은 왜 그런대?",
+      "example_mean":"What's wrong with [him]?"
+   },
+   {
+      "stence_id":400,
+      "word_id":318,
+      "_word_name":"사람",
+      "example":"[사람]을 존중해 주세요.",
+      "example_mean":"Please respect [people]."
+   },
+   {
+      "stence_id":401,
+      "word_id":319,
+      "_word_name":"학년",
+      "example":"몇 [학년]이니?",
+      "example_mean":"What [grade] are you in?"
+   },
+   {
+      "stence_id":402,
+      "word_id":319,
+      "_word_name":"학년",
+      "example":"올해로 2[학년]이 됐어요.",
+      "example_mean":"I'm in the second [grade] this year."
+   },
+   {
+      "stence_id":403,
+      "word_id":320,
+      "_word_name":"경영학",
+      "example":"우리 엄마는 [경영학] 교수에요.",
+      "example_mean":"My mother is a [business] professor."
+   },
+   {
+      "stence_id":404,
+      "word_id":320,
+      "_word_name":"경영학",
+      "example":"나는 [경영학] 전공이야.",
+      "example_mean":"I major in [business] administration."
+   },
+   {
+      "stence_id":405,
+      "word_id":321,
+      "_word_name":"국제학",
+      "example":"[국제학]은 어려운 학문이야.",
+      "example_mean":"[International studies] are a difficult subject."
+   },
+   {
+      "stence_id":406,
+      "word_id":321,
+      "_word_name":"국제학",
+      "example":"[국제학]에서 어떤 걸 배워?",
+      "example_mean":"What do you learn about [international studies]?"
+   },
+   {
+      "stence_id":407,
+      "word_id":322,
+      "_word_name":"생물학",
+      "example":"[생물학] 교수님이 악명 높다고 하던데?",
+      "example_mean":"I heard the [biology] professor is notorious?"
+   },
+   {
+      "stence_id":408,
+      "word_id":322,
+      "_word_name":"생물학",
+      "example":"내가 제일 못하는 게 [생물학]이었어.",
+      "example_mean":"The thing I'm the worst at was [biology]."
+   },
+   {
+      "stence_id":409,
+      "word_id":323,
+      "_word_name":"심리학",
+      "example":"[심리학]은 실험 과학의 하나입니다.",
+      "example_mean":"[Psychology] is one of the experimental sciences."
+   },
+   {
+      "stence_id":410,
+      "word_id":323,
+      "_word_name":"심리학",
+      "example":"이 책은 처음 [심리학] 공부를 하는데 좋을 거야.",
+      "example_mean":"This book will be good for studying [psychology] for the first time."
+   },
+   {
+      "stence_id":411,
+      "word_id":324,
+      "_word_name":"대학원생",
+      "example":"한국에 [대학원생]은 노예라는 말이 있는데, 너희 나라는 어때?",
+      "example_mean":"There is a meme in Korea that [graduate students] are slaves, how about your country?"
+   },
+   {
+      "stence_id":412,
+      "word_id":324,
+      "_word_name":"대학원생",
+      "example":"[대학원생]들이 연구를 하는 모습이 인상적이네요.",
+      "example_mean":"It's impressive to see [graduate students] doing research."
+   },
+   {
+      "stence_id":413,
+      "word_id":325,
+      "_word_name":"문화",
+      "example":"예능 프로그램으로 한국 [문화]를 많이 접했어.",
+      "example_mean":"I encountered a lot of Korean [culture] through entertainment tv programs."
+   },
+   {
+      "stence_id":414,
+      "word_id":325,
+      "_word_name":"문화",
+      "example":"이태원에서 다양한 [문화]를 볼 수 있어 ",
+      "example_mean":"You can see various [cultures] in Itaewon"
+   },
+   {
+      "stence_id":415,
+      "word_id":326,
+      "_word_name":"서울",
+      "example":"[서울]을 관광할 수 있는 투어 버스가 항상 운영되고 있어.",
+      "example_mean":"There is always a tour bus for sightseeing in [Seoul]."
+   },
+   {
+      "stence_id":416,
+      "word_id":326,
+      "_word_name":"서울",
+      "example":"[서울] 어디에 살아?",
+      "example_mean":"Where in [Seoul] do you live?"
+   },
+   {
+      "stence_id":417,
+      "word_id":327,
+      "_word_name":"인천",
+      "example":"[인천] 공항 시설은 괜찮았어?",
+      "example_mean":"Were the facilities at [Incheon] Airport okay?"
+   },
+   {
+      "stence_id":418,
+      "word_id":327,
+      "_word_name":"인천",
+      "example":"[인천]에는 특별한 별명이 있어.",
+      "example_mean":"[Incheon] has a special nickname."
+   },
+   {
+      "stence_id":419,
+      "word_id":328,
+      "_word_name":"대전",
+      "example":"[대전]에 유명한 빵집 알아?",
+      "example_mean":"Do you know a famous bakery in [Daejeon]?"
+   },
+   {
+      "stence_id":420,
+      "word_id":328,
+      "_word_name":"대전",
+      "example":"[대전]까지 얼마나 걸려요?",
+      "example_mean":"How long does it take to [Daejeon]?"
+   },
+   {
+      "stence_id":421,
+      "word_id":329,
+      "_word_name":"광주",
+      "example":"오늘 아침 [광주]로 출발할거야.",
+      "example_mean":"I'm leaving for [Gwangju] this morning."
+   },
+   {
+      "stence_id":422,
+      "word_id":329,
+      "_word_name":"광주",
+      "example":"기회가 되면 [광주] 무등산에 한번 가봐!",
+      "example_mean":"If you have a chance, go to Mudeung Mountain in [Gwangju]!"
+   },
+   {
+      "stence_id":423,
+      "word_id":330,
+      "_word_name":"대구",
+      "example":"[대구]에 가면 뭉티기를 먹어봐.",
+      "example_mean":"Try Mungtigi when you go to [Daegu]."
+   },
+   {
+      "stence_id":424,
+      "word_id":330,
+      "_word_name":"대구",
+      "example":"[대구]와 부산은 비슷하지만 다른 억양을 가지고 있습니다.",
+      "example_mean":"Daegu and Busan have similar but different accents."
+   },
+   {
+      "stence_id":425,
+      "word_id":331,
+      "_word_name":"울산",
+      "example":"[울산]의 마스코트는 고래인 거 알고 있어?",
+      "example_mean":"Did you know that [Ulsan]'s mascot is a whale?"
+   },
+   {
+      "stence_id":426,
+      "word_id":331,
+      "_word_name":"울산",
+      "example":"대왕암은 [울산]의 주요 명소야.",
+      "example_mean":"Daewang-am is a major attraction in Ulsan."
+   },
+   {
+      "stence_id":427,
+      "word_id":332,
+      "_word_name":"부산",
+      "example":"대구와 [부산]은 비슷하지만 다른 억양을 가지고 있습니다.",
+      "example_mean":"Daegu and Busan have similar but different accents."
+   },
+   {
+      "stence_id":428,
+      "word_id":332,
+      "_word_name":"부산",
+      "example":"처음 [부산]에 갈 때는 해운대에 가도록해.",
+      "example_mean":"When you go to [Busan] for the first time, go to Haeundae."
+   },
+   {
+      "stence_id":429,
+      "word_id":333,
+      "_word_name":"수학",
+      "example":"저는 학교 다닐 때 모든 과목 중 [수학]의 성적이 가장 좋았습니다.",
+      "example_mean":"When I was in school, I had the best grades in [math] out of all subjects."
+   },
+   {
+      "stence_id":430,
+      "word_id":333,
+      "_word_name":"수학",
+      "example":"나는 [수학] 공부를 포기 했어.",
+      "example_mean":"I gave up studying [math]."
+   },
+   {
+      "stence_id":431,
+      "word_id":334,
+      "_word_name":"역사",
+      "example":"[역사] 교육은 미래를 위해서도 매우 중요합니다.",
+      "example_mean":"[History] education is also very important for the future."
+   },
+   {
+      "stence_id":432,
+      "word_id":334,
+      "_word_name":"역사",
+      "example":"걔는 [역사] 박사야.",
+      "example_mean":"He's a history doctor."
+   },
+   {
+      "stence_id":433,
+      "word_id":335,
+      "_word_name":"영어",
+      "example":"[영어]를 할 줄 아세요?",
+      "example_mean":"Can you speak [English]?"
+   },
+   {
+      "stence_id":434,
+      "word_id":335,
+      "_word_name":"영어",
+      "example":"내일 [영어] 시험이 있다는 걸 까먹었어.",
+      "example_mean":"I forgot that I have an [English] test tomorrow."
+   },
+   {
+      "stence_id":435,
+      "word_id":336,
+      "_word_name":"음악",
+      "example":"네가 좋아하는 [음악] 장르가 뭐야?",
+      "example_mean":"What is your favorite genre of [music]?"
+   },
+   {
+      "stence_id":436,
+      "word_id":336,
+      "_word_name":"음악",
+      "example":"[음악]은 세계 공통어지.",
+      "example_mean":"[Music] is a common language in the world."
+   },
+   {
+      "stence_id":437,
+      "word_id":337,
+      "_word_name":"일본어",
+      "example":"요즘 [일본어]를 공부하고 있어.",
+      "example_mean":"I've been studying [Japanese]."
+   },
+   {
+      "stence_id":438,
+      "word_id":337,
+      "_word_name":"일본어",
+      "example":"애니메이션을 많이 봐서 [일본어]가 늘었어.",
+      "example_mean":"I watched a lot of animations, so my [Japanese] improved."
+   },
+   {
+      "stence_id":439,
+      "word_id":338,
+      "_word_name":"정치학",
+      "example":"저는 [정치학]을 전공하고 있습니다.",
+      "example_mean":"I'm majoring in [political science]."
+   },
+   {
+      "stence_id":440,
+      "word_id":338,
+      "_word_name":"정치학",
+      "example":"우리 삼촌은 대학에서 학생들에게 [정치학]을 가르친다.",
+      "example_mean":"My uncle teaches [political science] to students in college."
+   },
+   {
+      "stence_id":441,
+      "word_id":339,
+      "_word_name":"중국어",
+      "example":"우리 매장은 [중국어]를 지원합니다.",
+      "example_mean":"Our store supports [Chinese]."
+   },
+   {
+      "stence_id":442,
+      "word_id":339,
+      "_word_name":"중국어",
+      "example":"성조가 있어서 [중국어]를 배우기 어려웠어.",
+      "example_mean":"It was difficult to learn [Chinese] because of the intonation."
+   },
+   {
+      "stence_id":443,
+      "word_id":340,
+      "_word_name":"한국어",
+      "example":"[한국어]는 배우기 어려운 언어야.",
+      "example_mean":"[Korean] is a difficult language to learn."
+   },
+   {
+      "stence_id":444,
+      "word_id":340,
+      "_word_name":"한국어",
+      "example":"영화 속 현지 농담이 [한국어]로 잘 번역되어 호평을 받았어.",
+      "example_mean":"The local joke in the movie was well translated into [Korean] and received positive reviews."
+   },
+   {
+      "stence_id":445,
+      "word_id":341,
+      "_word_name":"기숙사",
+      "example":"[기숙사] 생활이 불편하긴 하지만 재미있어.",
+      "example_mean":"Life in the [dorm] is uncomfortable, but it's fun."
+   },
+   {
+      "stence_id":446,
+      "word_id":341,
+      "_word_name":"기숙사",
+      "example":"[기숙사] 입사일이 언제라고 했지?",
+      "example_mean":"When do you join the [dormitory]?"
+   },
+   {
+      "stence_id":447,
+      "word_id":342,
+      "_word_name":"노래",
+      "example":"이번 [노래]는 내 최애가 될 것 같아.",
+      "example_mean":"I think this [song] will be my bias."
+   },
+   {
+      "stence_id":448,
+      "word_id":342,
+      "_word_name":"노래",
+      "example":"어떤 [노래]든 그가 부르면 더 아름답게 들려.",
+      "example_mean":"Any [song] sounds more beautiful when he sings it."
+   },
+   {
+      "stence_id":449,
+      "word_id":343,
+      "_word_name":"망고",
+      "example":"[망고] 젤라또가 저희 시그니처 메뉴에요.",
+      "example_mean":"[Mango] gelato is our signature menu."
+   },
+   {
+      "stence_id":450,
+      "word_id":343,
+      "_word_name":"망고",
+      "example":"[망고] 잼을 곁들인 디저트에요.",
+      "example_mean":"It's a dessert with [mango] jam."
+   },
+   {
+      "stence_id":451,
+      "word_id":344,
+      "_word_name":"바다",
+      "example":"[바다]에서 즐길 수 있는 스포츠가 뭐가 있지?",
+      "example_mean":"What sports can I enjoy in the [sea]?"
+   },
+   {
+      "stence_id":452,
+      "word_id":344,
+      "_word_name":"바다",
+      "example":"[바다]에 놀러가고 싶으면 속초에 가봐.",
+      "example_mean":"If you want to go to the [sea], go to Sokcho."
+   },
+   {
+      "stence_id":453,
+      "word_id":345,
+      "_word_name":"아이스크림",
+      "example":"[아이스크림]과 젤라또의 차이가 뭐야?",
+      "example_mean":"What's the difference between [ice cream] and gelato?"
+   },
+   {
+      "stence_id":454,
+      "word_id":345,
+      "_word_name":"아이스크림",
+      "example":"편의점 말고 [아이스크림] 할인 매장에 가자.",
+      "example_mean":"Let's go to the [ice cream] discount store instead of the convenience store."
+   },
+   {
+      "stence_id":455,
+      "word_id":346,
+      "_word_name":"언어",
+      "example":"그녀는 음악을 [언어]처럼 사용했어.",
+      "example_mean":"She used music like a [language]."
+   },
+   {
+      "stence_id":456,
+      "word_id":346,
+      "_word_name":"언어",
+      "example":"내 남편과는 같은 [언어]를 사용하지 않아도 통하는 게 많았어.",
+      "example_mean":"There were many things that worked without using the same [language] as my husband."
+   },
+   {
+      "stence_id":457,
+      "word_id":347,
+      "_word_name":"영화",
+      "example":"[영화] 속 현지 농담이 한국어로 잘 번역되어 호평을 받았어.",
+      "example_mean":"The local joke in the [movie] was well translated into Korean and received positive reviews."
+   },
+   {
+      "stence_id":458,
+      "word_id":347,
+      "_word_name":"영화",
+      "example":"드디어 감독의 [영화]가 이번 겨울 개봉합니다.",
+      "example_mean":"Finally, the director's [movie] will be released this winter."
+   },
+   {
+      "stence_id":459,
+      "word_id":348,
+      "_word_name":"이탈리아",
+      "example":"[이탈리아]에서는 아메리카노를 마시지 않는다고 하더라.",
+      "example_mean":"I heard that people don't drink americano in [Italy]."
+   },
+   {
+      "stence_id":460,
+      "word_id":348,
+      "_word_name":"이탈리아",
+      "example":"이건 [이탈리아] 시칠리아에서 만든 와인이야",
+      "example_mean":"It's a wine made in Sicily, [Italy]."
+   },
+   {
+      "stence_id":461,
+      "word_id":349,
+      "_word_name":"치즈",
+      "example":"한때 한국에서는 대부분의 음식에 [치즈]를 넣는 유행이 있었다.",
+      "example_mean":"There was once a trend of putting [cheese] in most foods in Korea."
+   },
+   {
+      "stence_id":462,
+      "word_id":349,
+      "_word_name":"치즈",
+      "example":"[치즈]를 많이 넣은 피자가 먹고싶어.",
+      "example_mean":"I want to eat pizza with a lot of [cheese]."
+   },
+   {
+      "stence_id":463,
+      "word_id":350,
+      "_word_name":"장소",
+      "example":"여긴 아내와의 추억이 담긴 [장소]입니다.",
+      "example_mean":"This is a [place] where I have memories with my wife."
+   },
+   {
+      "stence_id":464,
+      "word_id":350,
+      "_word_name":"장소",
+      "example":"경복궁은 한국 역사에서 의미가 깊은 [장소]입니다.",
+      "example_mean":"Gyeongbokgung Palace is a [place] with a deep meaning in Korean history."
+   },
+   {
+      "stence_id":465,
+      "word_id":80,
+      "_word_name":"병원",
+      "example":"오늘 오후에는 꼭 [병원]을 가야겠어.",
+      "example_mean":"I must go to the [hospital] this afternoon."
+   },
+   {
+      "stence_id":466,
+      "word_id":80,
+      "_word_name":"병원",
+      "example":"오늘 11시 진료이니, [병원] 방문 부탁드립니다.",
+      "example_mean":"You made a reservation for 11 o'clock today. Please come to the [hospital]."
+   },
+   {
+      "stence_id":467,
+      "word_id":351,
+      "_word_name":"법원",
+      "example":"[법원]의 판결은 우리에게 충격이었다.",
+      "example_mean":"The [court]'s decision was a surprise to us."
+   },
+   {
+      "stence_id":468,
+      "word_id":351,
+      "_word_name":"법원",
+      "example":"삼심 끝에 [법원]이 무죄를 선고했습니다.",
+      "example_mean":"After three trials, the [court] acquitted him."
+   },
+   {
+      "stence_id":469,
+      "word_id":352,
+      "_word_name":"경찰서",
+      "example":"[경찰서] 바로 앞에서 불법 주차를 하다니!",
+      "example_mean":"What an illegal parking right in front of the [police station]!"
+   },
+   {
+      "stence_id":470,
+      "word_id":352,
+      "_word_name":"경찰서",
+      "example":"술이 깰 때까지 [경찰서]에 내버려 뒀어.",
+      "example_mean":"I left him in a [police station] until he was sober."
+   },
+   {
+      "stence_id":471,
+      "word_id":353,
+      "_word_name":"소방서",
+      "example":"이번주 금요일 [소방서]에서 안전교육을 실시할 예정입니다.",
+      "example_mean":"This Friday, the [fire station] will conduct safety training."
+   },
+   {
+      "stence_id":472,
+      "word_id":353,
+      "_word_name":"소방서",
+      "example":"그는 [소방서]에서 일한다.",
+      "example_mean":"He works in a [fire station]."
+   },
+   {
+      "stence_id":473,
+      "word_id":182,
+      "_word_name":"학교",
+      "example":"너는 어디 [학교]에 다녀?",
+      "example_mean":"Which [school] do you go to?"
+   },
+   {
+      "stence_id":474,
+      "word_id":182,
+      "_word_name":"학교",
+      "example":"[학교] 생활은 어때?",
+      "example_mean":"How is your [school] life?"
+   },
+   {
+      "stence_id":475,
+      "word_id":354,
+      "_word_name":"초등학교",
+      "example":"최근 [초등학교] 학생 수가 매우 줄었습니다. ",
+      "example_mean":"The number of [elementary school] students has decreased a lot recently."
+   },
+   {
+      "stence_id":476,
+      "word_id":354,
+      "_word_name":"초등학교",
+      "example":"졸업한 [초등학교]에 가보려고 해.",
+      "example_mean":"I'm going to go to the [elementary school] that I graduated."
+   },
+   {
+      "stence_id":477,
+      "word_id":355,
+      "_word_name":"중학교",
+      "example":"올해로 우리 아들이 [중학교] 2학년이야.",
+      "example_mean":"My son is in the second grade of [middle school] this year."
+   },
+   {
+      "stence_id":478,
+      "word_id":355,
+      "_word_name":"중학교",
+      "example":"[중학교]에서 영어 교사를 하고 있어요.",
+      "example_mean":"I'm teaching English in [middle school]."
+   },
+   {
+      "stence_id":479,
+      "word_id":356,
+      "_word_name":"고등학교",
+      "example":"[고등학교] 동창회에 갔었어.",
+      "example_mean":"I was at the [high school] reunion."
+   },
+   {
+      "stence_id":480,
+      "word_id":356,
+      "_word_name":"고등학교",
+      "example":"[고등학교]에 오고 나니 공부하기 너무 어려워졌어.",
+      "example_mean":"After coming to [high school], it became too difficult to study."
+   },
+   {
+      "stence_id":481,
+      "word_id":357,
+      "_word_name":"미용실",
+      "example":"전 [미용실]에서 아르바이트를 하고있어요.",
+      "example_mean":"I'm working part-time at a [hair salon]."
+   },
+   {
+      "stence_id":482,
+      "word_id":357,
+      "_word_name":"미용실",
+      "example":"언니가 [미용실]에서 금발로 염색했어.",
+      "example_mean":"She dyed her hair blonde at the [hair salon]."
+   },
+   {
+      "stence_id":483,
+      "word_id":358,
+      "_word_name":"이발소",
+      "example":"아빠는 [이발소]에서 면도하셨다.",
+      "example_mean":"Dad got a shave at the [barbers shop]."
+   },
+   {
+      "stence_id":484,
+      "word_id":358,
+      "_word_name":"이발소",
+      "example":"미용실 보다는 [이발소]가 더 편하더라고.",
+      "example_mean":"[Barbershops] are more convenient than hair salons."
+   },
+   {
+      "stence_id":485,
+      "word_id":359,
+      "_word_name":"식당",
+      "example":"[식당]에 핸드폰을 두고왔나봐.",
+      "example_mean":"I must have left my cell phone at the [restaurant]."
+   },
+   {
+      "stence_id":486,
+      "word_id":359,
+      "_word_name":"식당",
+      "example":"[식당]이 몇 시부터 여나요?",
+      "example_mean":"What time does the [restaurant] open?"
+   },
+   {
+      "stence_id":487,
+      "word_id":360,
+      "_word_name":"공원",
+      "example":"[공원]에 산책하러 갈까?",
+      "example_mean":"Would you like to go to the [park] for walk?"
+   },
+   {
+      "stence_id":488,
+      "word_id":360,
+      "_word_name":"공원",
+      "example":"이번에 저희 [공원]이 새롭게 단장했습니다.",
+      "example_mean":"Our [park] has been renovated this time."
+   },
+   {
+      "stence_id":489,
+      "word_id":361,
+      "_word_name":"도서관",
+      "example":"시험기간이라 [도서관]에 사람이 많아.",
+      "example_mean":"There are a lot of people in the [library] because it's exam period."
+   },
+   {
+      "stence_id":490,
+      "word_id":361,
+      "_word_name":"도서관",
+      "example":"[도서관]에서는 조용히 해주세요.",
+      "example_mean":"Please be quiet in the [library]."
+   },
+   {
+      "stence_id":491,
+      "word_id":362,
+      "_word_name":"미술관",
+      "example":"[미술관]에는 오랜만에 왔다.",
+      "example_mean":"It's been a while since I came to the [art museum]."
+   },
+   {
+      "stence_id":492,
+      "word_id":362,
+      "_word_name":"미술관",
+      "example":"[미술관]에서 새로운 전시를 준비했습니다.",
+      "example_mean":"The [art museum] prepared a new exhibition."
+   },
+   {
+      "stence_id":493,
+      "word_id":363,
+      "_word_name":"박물관",
+      "example":"[박물관]이 복원을 마친 유물을 다음달에 공개한다고 전했습니다.",
+      "example_mean":"The [museum] said it will release the restored relics next month."
+   },
+   {
+      "stence_id":494,
+      "word_id":363,
+      "_word_name":"박물관",
+      "example":"이번 소풍은 [박물관]에 가기로 했어요.",
+      "example_mean":"I decided to go to the [museum] for this picnic."
+   },
+   {
+      "stence_id":495,
+      "word_id":364,
+      "_word_name":"영화관",
+      "example":"내가 가본 [영화관] 중에 여기가 제일 커.",
+      "example_mean":"This is the biggest [cinema] I've ever been to."
+   },
+   {
+      "stence_id":496,
+      "word_id":364,
+      "_word_name":"영화관",
+      "example":"[영화관]에서 데이트를 하기로 했어.",
+      "example_mean":"We decided to go on a date at the [cinema]."
+   },
+   {
+      "stence_id":497,
+      "word_id":365,
+      "_word_name":"극장",
+      "example":"[극장]을 꽉 채우는 노래가 뮤자컬의 매력이다.",
+      "example_mean":"The song that fills the [theater] is the charm of the musical."
+   },
+   {
+      "stence_id":498,
+      "word_id":365,
+      "_word_name":"극장",
+      "example":"[극장]의 냉방이 너무 강해요.",
+      "example_mean":"The air conditioning in the [theater] is too strong."
+   },
+   {
+      "stence_id":499,
+      "word_id":366,
+      "_word_name":"방향",
+      "example":"화장실은 어느 [방향]으로 가면 있나요?",
+      "example_mean":"Which [direction] is the restroom?"
+   },
+   {
+      "stence_id":500,
+      "word_id":366,
+      "_word_name":"방향",
+      "example":"[방향]을 바꿔!",
+      "example_mean":"Change the [direction]!"
+   },
+   {
+      "stence_id":501,
+      "word_id":367,
+      "_word_name":"위",
+      "example":"그런 서랍장 [위]에 있잖니.",
+      "example_mean":"It is [on] the drawers."
+   },
+   {
+      "stence_id":502,
+      "word_id":367,
+      "_word_name":"위",
+      "example":"[위]로 올라가면 다락방이 있어.",
+      "example_mean":"There's an attic [up] there."
+   },
+   {
+      "stence_id":503,
+      "word_id":368,
+      "_word_name":"아래",
+      "example":"저 [아래]에 있는 거 좀 집어 줄래요?",
+      "example_mean":"Can you pick up the one [down] there?"
+   },
+   {
+      "stence_id":504,
+      "word_id":368,
+      "_word_name":"아래",
+      "example":"이 [아래]에는 뭐가 있나요?",
+      "example_mean":"What's [down] here?"
+   },
+   {
+      "stence_id":505,
+      "word_id":369,
+      "_word_name":"왼쪽",
+      "example":"여기에서 [왼쪽]으로 돌아가면 식당이 나와요.",
+      "example_mean":"Turn left from here, you'll find the restaurant."
+   },
+   {
+      "stence_id":506,
+      "word_id":369,
+      "_word_name":"왼쪽",
+      "example":"[왼쪽]의 두 번째 건물에 치과가 있습니다.",
+      "example_mean":"There is a dentist in the second building on the [left]."
+   },
+   {
+      "stence_id":507,
+      "word_id":370,
+      "_word_name":"오른쪽",
+      "example":"[오른쪽]에 있는 접시 좀 줄래?",
+      "example_mean":"Can you give me the plate on the [right]?"
+   },
+   {
+      "stence_id":508,
+      "word_id":370,
+      "_word_name":"오른쪽",
+      "example":"여기서 [오른쪽]으로 가면 된대!",
+      "example_mean":"We can go to the [right] from here!"
+   },
+   {
+      "stence_id":509,
+      "word_id":127,
+      "_word_name":"옆",
+      "example":"액자를 [옆]으로 더 옮겨야 균형이 맞을 것 같아.",
+      "example_mean":"I think it'll be balanced if we move the frame to the [side]."
+   },
+   {
+      "stence_id":510,
+      "word_id":127,
+      "_word_name":"옆",
+      "example":"어머니 [옆]에 서니 흘러간 세월을 느낄 수 있다.",
+      "example_mean":"Standing [next to] my mother, I can feel the time passed."
+   },
+   {
+      "stence_id":511,
+      "word_id":371,
+      "_word_name":"뒤",
+      "example":"나는 키가 커서 항상 [뒤]에 있는 자리에 앉았어.",
+      "example_mean":"I was tall, so I always sat in the [back] seat."
+   },
+   {
+      "stence_id":512,
+      "word_id":371,
+      "_word_name":"뒤",
+      "example":"동굴을 나갈 때 까지 절대 [뒤]를 돌아보지마.",
+      "example_mean":"Never look [back] until you leave the cave."
+   },
+   {
+      "stence_id":513,
+      "word_id":372,
+      "_word_name":"앞",
+      "example":"학교 [앞]에는 작은 가게가 있다.",
+      "example_mean":"There is a small shop [in front of] the school."
+   },
+   {
+      "stence_id":514,
+      "word_id":372,
+      "_word_name":"앞",
+      "example":"그녀가 내 [앞]에 섰다.",
+      "example_mean":"She stood [in front of] me."
+   },
+   {
+      "stence_id":515,
+      "word_id":373,
+      "_word_name":"월요일",
+      "example":"벌써 [월요일]이라니 말도 안돼.",
+      "example_mean":"It's ridiculous that it's already [Monday]."
+   },
+   {
+      "stence_id":516,
+      "word_id":373,
+      "_word_name":"월요일",
+      "example":"다음주 [월요일]까지 휴가를 쓰겠어.",
+      "example_mean":"I'll take a vacation until next [Monday]."
+   },
+   {
+      "stence_id":517,
+      "word_id":374,
+      "_word_name":"화요일",
+      "example":"이번주 [화요일]이 내 생일이야.",
+      "example_mean":"This [Tuesday] is my birthday."
+   },
+   {
+      "stence_id":518,
+      "word_id":374,
+      "_word_name":"화요일",
+      "example":"[화요일] 저녁 시간은 어때?",
+      "example_mean":"How about [Tuesday] evening?"
+   },
+   {
+      "stence_id":519,
+      "word_id":375,
+      "_word_name":"수요일",
+      "example":"[수요일]이니까 이틀만 더 있으면 주말이야.",
+      "example_mean":"It's [Wednesday], so it's the weekend in two more days."
+   },
+   {
+      "stence_id":520,
+      "word_id":375,
+      "_word_name":"수요일",
+      "example":"[수요일]은 조금 애매하지 않아?",
+      "example_mean":"Isn't [Wednesday] a little ambiguous?"
+   },
+   {
+      "stence_id":521,
+      "word_id":376,
+      "_word_name":"목요일",
+      "example":"과제 제출은 [목요일]까지 입니다.",
+      "example_mean":"The assignment is due on [Thursday]."
+   },
+   {
+      "stence_id":522,
+      "word_id":376,
+      "_word_name":"목요일",
+      "example":"[목요일]은 그냥 왠지 싫어.",
+      "example_mean":"I just hate [Thursday] for some reason."
+   },
+   {
+      "stence_id":523,
+      "word_id":377,
+      "_word_name":"금요일",
+      "example":"이번주 [금요일]에 시간 어때요?",
+      "example_mean":"Are you free this [Friday]?"
+   },
+   {
+      "stence_id":524,
+      "word_id":377,
+      "_word_name":"금요일",
+      "example":"[금요일]이니까 즐겁게 보내야지!",
+      "example_mean":"It's [Friday], so you must have good time."
+   },
+   {
+      "stence_id":525,
+      "word_id":378,
+      "_word_name":"토요일",
+      "example":"[토요일] 약속 잊지 않았지?",
+      "example_mean":"You didn't forget your [Saturday] appointment, did you?"
+   },
+   {
+      "stence_id":526,
+      "word_id":378,
+      "_word_name":"토요일",
+      "example":"엄마랑 [토요일]에 공원에 소풍 가기로 했어요.",
+      "example_mean":"I'm going on a picnic with my mom at the park on [Saturday]."
+   },
+   {
+      "stence_id":527,
+      "word_id":379,
+      "_word_name":"일요일",
+      "example":"[일요일]이 벌써 끝나고 있잖아!",
+      "example_mean":"[Sunday] is coming to an end!"
+   },
+   {
+      "stence_id":528,
+      "word_id":379,
+      "_word_name":"일요일",
+      "example":"[일요일]에는 교회에 다녀왔어요.",
+      "example_mean":"I went to church on [Sunday]."
+   },
+   {
+      "stence_id":529,
+      "word_id":380,
+      "_word_name":"가족",
+      "example":"여름방학 동안 [가족]들과 여행을 갔어.",
+      "example_mean":"I went on a trip with my [family] during the summer vacation."
+   },
+   {
+      "stence_id":530,
+      "word_id":380,
+      "_word_name":"가족",
+      "example":"우리 [가족]은 총 5명이야.",
+      "example_mean":"There are five people in my [family]."
+   },
+   {
+      "stence_id":531,
+      "word_id":381,
+      "_word_name":"엄마",
+      "example":"[엄마]가 잘 지내고 있냐고 편지를 써주셨어.",
+      "example_mean":"My [mom] wrote me a letter asking if I was doing well."
+   },
+   {
+      "stence_id":532,
+      "word_id":381,
+      "_word_name":"엄마",
+      "example":"내 눈은 [엄마]의 눈 색을 닮았어.",
+      "example_mean":"My eyes look like the color of my [mom]'s eyes."
+   },
+   {
+      "stence_id":533,
+      "word_id":382,
+      "_word_name":"아빠",
+      "example":"체리는 [아빠]가 좋아하시는 과일이야.",
+      "example_mean":"Cherry is my [dad]'s favorite fruit."
+   },
+   {
+      "stence_id":534,
+      "word_id":382,
+      "_word_name":"아빠",
+      "example":"네 [아빠]의 젊었을 때 사진이야.",
+      "example_mean":"It's a picture of your [dad] when he was young."
+   },
+   {
+      "stence_id":535,
+      "word_id":383,
+      "_word_name":"어머니",
+      "example":"[어머니], 불편하신 곳은 없으세요?",
+      "example_mean":"[Mother], is there any discomfort?"
+   },
+   {
+      "stence_id":536,
+      "word_id":383,
+      "_word_name":"어머니",
+      "example":"[어머니]께 안부 전해주세요.",
+      "example_mean":"Mother, please say hello to your [mother]."
+   },
+   {
+      "stence_id":537,
+      "word_id":384,
+      "_word_name":"아버지",
+      "example":"바흐는 음악의 [아버지라고 불린다.",
+      "example_mean":"Bach is called the [father] of music."
+   },
+   {
+      "stence_id":538,
+      "word_id":384,
+      "_word_name":"아버지",
+      "example":"[아버지]가 방에 들어가신다.",
+      "example_mean":"My [father] enters the room."
+   },
+   {
+      "stence_id":539,
+      "word_id":385,
+      "_word_name":"딸",
+      "example":"우리 [딸]은 남편을 닮아서 정말 예뻐.",
+      "example_mean":"My [daughter] is really pretty because she looks like my husband."
+   },
+   {
+      "stence_id":540,
+      "word_id":385,
+      "_word_name":"딸",
+      "example":"[딸]이 공부하기를 싫어해서요.",
+      "example_mean":"My [daughter] doesn't want to study."
+   },
+   {
+      "stence_id":541,
+      "word_id":112,
+      "_word_name":"아들",
+      "example":"엄친아는 엄마 친구 [아들]이란 뜻이야.",
+      "example_mean":"Um-Chin-A means mother friend's [son]."
+   },
+   {
+      "stence_id":542,
+      "word_id":112,
+      "_word_name":"아들",
+      "example":"올해로 우리 [아들]이 중학교 2학년이야.",
+      "example_mean":"My [son] is in the second grade of middle school this year."
+   },
+   {
+      "stence_id":543,
+      "word_id":386,
+      "_word_name":"언니",
+      "example":"[언니]가 있었으면 좋겠어!",
+      "example_mean":"I wish I had an [Unnie]!"
+   },
+   {
+      "stence_id":544,
+      "word_id":386,
+      "_word_name":"언니",
+      "example":"나는 [언니]가 물려준 옷을 자주 입어. ",
+      "example_mean":"I often wear clothes that my [Unnie] left me."
+   },
+   {
+      "stence_id":545,
+      "word_id":387,
+      "_word_name":"오빠",
+      "example":"너희 [오빠]라고? 전혀 안닮았잖아!",
+      "example_mean":"He's your [Oppa]? He doesn't look anything like you at all!"
+   },
+   {
+      "stence_id":546,
+      "word_id":387,
+      "_word_name":"오빠",
+      "example":"이번달 말에 우리 [오빠]는 군대를 간다.",
+      "example_mean":"My [Oppa] is going to the army at the end of this month."
+   },
+   {
+      "stence_id":547,
+      "word_id":388,
+      "_word_name":"누나",
+      "example":"내가 말썽을 피우면 [누나]가 그 노래를 틀었었어.",
+      "example_mean":"My [Nuna] played the song when I made the problem."
+   },
+   {
+      "stence_id":548,
+      "word_id":388,
+      "_word_name":"누나",
+      "example":"나는 [누나]랑 나이 차이가 꽤 많이 나.",
+      "example_mean":"I have a pretty big age gap with my [Nuna]."
+   },
+   {
+      "stence_id":549,
+      "word_id":389,
+      "_word_name":"형",
+      "example":"[형]이랑 보통 무슨 대화를 해?",
+      "example_mean":"What do you usually talk about with your [Hyung]?"
+   },
+   {
+      "stence_id":550,
+      "word_id":389,
+      "_word_name":"형",
+      "example":"앞으로 [형]으로 모시겠습니다.",
+      "example_mean":"I'll treat you as a [Hyung] from now on."
+   },
+   {
+      "stence_id":551,
+      "word_id":390,
+      "_word_name":"여동생",
+      "example":"[여동생]이 있어서 행복해.",
+      "example_mean":"I'm happy to have a [younger sister]."
+   },
+   {
+      "stence_id":552,
+      "word_id":390,
+      "_word_name":"여동생",
+      "example":"걔는 그냥 내 [여동생] 같은 애야.",
+      "example_mean":"She's like a [younger sister] to me."
+   },
+   {
+      "stence_id":553,
+      "word_id":391,
+      "_word_name":"남동생",
+      "example":"엄마가 내게 [남동생]이 생길 거라고 알려주셨다.",
+      "example_mean":"My mom told me I'll have a [younger brother]."
+   },
+   {
+      "stence_id":554,
+      "word_id":391,
+      "_word_name":"남동생",
+      "example":"내 [남동생]은 학교에서 유명하다.",
+      "example_mean":"My [younger brother] is famous at school."
+   },
+   {
+      "stence_id":555,
+      "word_id":392,
+      "_word_name":"막내",
+      "example":"나는 우리 집에서 [막내]야. ",
+      "example_mean":"I'm [the youngest] in my family."
+   },
+   {
+      "stence_id":556,
+      "word_id":392,
+      "_word_name":"막내",
+      "example":"[막내] 조카는 겨우 3살이다.",
+      "example_mean":"My [youngest] nephew is only three years old."
+   },
+   {
+      "stence_id":557,
+      "word_id":393,
+      "_word_name":"할머니",
+      "example":"[할머니] 오랜만이에요!",
+      "example_mean":"Long time no see, [grandma]!"
+   },
+   {
+      "stence_id":558,
+      "word_id":393,
+      "_word_name":"할머니",
+      "example":"네가 벌써 [할머니]가 되다니 믿을 수 없어.",
+      "example_mean":"I can't believe you're already a [grandma]."
+   },
+   {
+      "stence_id":559,
+      "word_id":394,
+      "_word_name":"할아버지",
+      "example":"[할아버지], 식사는 입에 맞으세요?",
+      "example_mean":"[Grandpa], do you like your meal?"
+   },
+   {
+      "stence_id":560,
+      "word_id":394,
+      "_word_name":"할아버지",
+      "example":"우리 [할아버지]는 아직 정정하셔요.",
+      "example_mean":"My [grandpa] still fit as a fiddle."
+   },
+   {
+      "stence_id":561,
+      "word_id":395,
+      "_word_name":"이모",
+      "example":"오늘은 [이모]를 만나기로 했어.",
+      "example_mean":"I'm meeting my [Imo] today."
+   },
+   {
+      "stence_id":562,
+      "word_id":395,
+      "_word_name":"이모",
+      "example":"엄마와 [이모]는 할머니를 닮으셨어.",
+      "example_mean":"My mother and [Imo] look like my grandmother."
+   },
+   {
+      "stence_id":563,
+      "word_id":396,
+      "_word_name":"이모부",
+      "example":"[이모부]께서 용돈을 주셨어.",
+      "example_mean":"My [Imobu] gave me pocket money."
+   },
+   {
+      "stence_id":564,
+      "word_id":396,
+      "_word_name":"이모부",
+      "example":"집에 가는 길에 [이모부]가 데리러 오신대.",
+      "example_mean":"My [Imobu] is coming to pick me up on my way home."
+   },
+   {
+      "stence_id":565,
+      "word_id":397,
+      "_word_name":"삼촌",
+      "example":"우리 [삼촌]은 경찰관이야.",
+      "example_mean":"My [Samchon] is a police officer."
+   },
+   {
+      "stence_id":566,
+      "word_id":397,
+      "_word_name":"삼촌",
+      "example":"[삼촌]이 크리스마스 선물로 장난감을 주셨어.",
+      "example_mean":"My [Samchon] gave me a toy for Christmas."
+   },
+   {
+      "stence_id":567,
+      "word_id":398,
+      "_word_name":"고모",
+      "example":"아빠랑 [고모]는 엄청 친하셔.",
+      "example_mean":"My dad and [Gomo] are very close."
+   },
+   {
+      "stence_id":568,
+      "word_id":398,
+      "_word_name":"고모",
+      "example":"[고모]는 내가 10살 때부터 길러주셨어. ",
+      "example_mean":"My [Gomo] has raised me since I was 10 years old."
+   },
+   {
+      "stence_id":569,
+      "word_id":399,
+      "_word_name":"고모부",
+      "example":"준비해, [고모부]가 저녁 사주신대.",
+      "example_mean":"Get ready, [Gomobu] is going to buy us dinner."
+   },
+   {
+      "stence_id":570,
+      "word_id":399,
+      "_word_name":"고모부",
+      "example":"[고모부]가 고모에게 한 청혼 이벤트는 유명해.",
+      "example_mean":"My [Gomobu]'s proposal event to Gomo is famous."
+   },
+   {
+      "stence_id":571,
+      "word_id":400,
+      "_word_name":"아내",
+      "example":"[아내]가 밖에서 기다리고 있어서요.",
+      "example_mean":"My [wife] is waiting outside."
+   },
+   {
+      "stence_id":572,
+      "word_id":400,
+      "_word_name":"아내",
+      "example":"제 [아내]에게 무슨 일이시죠?",
+      "example_mean":"What's the matter with my [wife]?"
+   },
+   {
+      "stence_id":573,
+      "word_id":401,
+      "_word_name":"남편",
+      "example":"[남편]을 잘 부탁드려요.",
+      "example_mean":"Please take care of your [husband]."
+   },
+   {
+      "stence_id":574,
+      "word_id":401,
+      "_word_name":"남편",
+      "example":"이건 우리 [남편] 젊었을 때 사진이야.",
+      "example_mean":"This is a picture of my [husband] when he was young."
+   },
+   {
+      "stence_id":575,
+      "word_id":402,
+      "_word_name":"조카",
+      "example":"10월에 [조카]가 생겨.",
+      "example_mean":"I'll have a [nephew] in October."
+   },
+   {
+      "stence_id":576,
+      "word_id":402,
+      "_word_name":"조카",
+      "example":"[조카] 크리스마스 선물로 뭘 주면 좋을까?",
+      "example_mean":"What should I give my [nephew] for Christmas?"
+   },
+   {
+      "stence_id":577,
+      "word_id":403,
+      "_word_name":"손주",
+      "example":"어머니, [손주] 보고 싶지 않으세요?",
+      "example_mean":"Mother, don't you want to see your [grandchild]?"
+   },
+   {
+      "stence_id":578,
+      "word_id":403,
+      "_word_name":"손주",
+      "example":"그 영감은 [손주]가 많더라고.",
+      "example_mean":"The old man had many [grandchild]."
+   },
+   {
+      "stence_id":579,
+      "word_id":404,
+      "_word_name":"손녀",
+      "example":"[손녀]가 어렸을 때 만들어줬던 목도리를 아직도 하고 다녀.",
+      "example_mean":"I still wear the scarf my [granddaughter] made me when I was young."
+   },
+   {
+      "stence_id":580,
+      "word_id":404,
+      "_word_name":"손녀",
+      "example":"오른쪽에 있는 애가 내 [손녀]란다.",
+      "example_mean":"The one on the right is my [granddaughter]."
+   },
+   {
+      "stence_id":581,
+      "word_id":405,
+      "_word_name":"손자",
+      "example":"반년만에 [손자]들을 보러가요. ",
+      "example_mean":"I'm going to see my [grandson] for first time in half year."
+   },
+   {
+      "stence_id":582,
+      "word_id":405,
+      "_word_name":"손자",
+      "example":"할아버지께서는 모든 손자를 귀여워하셨어.",
+      "example_mean":"Grandfather adored all his [grandson]."
+   },
+   {
+      "stence_id":583,
+      "word_id":156,
+      "_word_name":"직업",
+      "example":"[직업]이 뭐에요?",
+      "example_mean":"What's your [job]?"
+   },
+   {
+      "stence_id":584,
+      "word_id":156,
+      "_word_name":"직업",
+      "example":"전 [직업]에서 전공을 살리고 싶어요.",
+      "example_mean":"I want to use my major in my [job]."
+   },
+   {
+      "stence_id":585,
+      "word_id":143,
+      "_word_name":"의사",
+      "example":"[의사]가 되는 게 얼마나 어려운지 알아?",
+      "example_mean":"Do you know how hard it is to be a [doctor]?"
+   },
+   {
+      "stence_id":586,
+      "word_id":143,
+      "_word_name":"의사",
+      "example":"[의사] 선생님이 회진하러 오실 거예요.",
+      "example_mean":"The [doctor] will come to make the rounds."
+   },
+   {
+      "stence_id":587,
+      "word_id":406,
+      "_word_name":"간호사",
+      "example":"[간호사]는 정말 힘든 직업이야.",
+      "example_mean":"[Nurse] is such a hard job."
+   },
+   {
+      "stence_id":588,
+      "word_id":406,
+      "_word_name":"간호사",
+      "example":"우리 언니는 [간호사]라서 밤낮이 없어.",
+      "example_mean":"My sister is a [nurse], so she doesn't have a day and night."
+   },
+   {
+      "stence_id":589,
+      "word_id":407,
+      "_word_name":"약사",
+      "example":"나는 [약사]가 되려고 이 학교에 편입했어.",
+      "example_mean":"I transferred to this school to become a [pharmacist]."
+   },
+   {
+      "stence_id":590,
+      "word_id":407,
+      "_word_name":"약사",
+      "example":"그 [약사]는 직접 처방을 하는 걸로 유명해.",
+      "example_mean":"The [pharmacist] is known for giving prescriptions himself"
+   },
+   {
+      "stence_id":591,
+      "word_id":408,
+      "_word_name":"판사",
+      "example":"[판사]는 정말 명예로운 직업 중 하나야.",
+      "example_mean":"[Judge] is one of the most honorable jobs."
+   },
+   {
+      "stence_id":592,
+      "word_id":408,
+      "_word_name":"판사",
+      "example":"이번 재판에서 [판사]들은 판결을 미뤘습니다.",
+      "example_mean":"In this trial, the [judges] postponed the ruling."
+   },
+   {
+      "stence_id":593,
+      "word_id":409,
+      "_word_name":"변호사",
+      "example":"저는 어릴적부터 꾸던 [변호사]의 꿈을 이뤘습니다.",
+      "example_mean":"I have achieved my dream of becoming a [lawyer] since I was young."
+   },
+   {
+      "stence_id":594,
+      "word_id":409,
+      "_word_name":"변호사",
+      "example":"나는 전에 [변호사]를 했다.",
+      "example_mean":"i was a [lawyer] before."
+   },
+   {
+      "stence_id":595,
+      "word_id":410,
+      "_word_name":"검사",
+      "example":"[검사]는 증인을 심문하기 위해 준비했다.",
+      "example_mean":"The [prosecutor] arranged to question the witnes."
+   },
+   {
+      "stence_id":596,
+      "word_id":410,
+      "_word_name":"검사",
+      "example":"[검사]와 변호사의 치열한 논쟁이 오갔다.",
+      "example_mean":"There was a fierce debate between the [prosecutor] and the lawyer."
+   },
+   {
+      "stence_id":597,
+      "word_id":411,
+      "_word_name":"경찰",
+      "example":"[경찰]이 음주운전 단속중입니다.",
+      "example_mean":"The [police] are on a [drunk driving] check."
+   },
+   {
+      "stence_id":598,
+      "word_id":411,
+      "_word_name":"경찰",
+      "example":"[경찰]이 현재 출동 중 입니다.",
+      "example_mean":"The [police] are currently on the move."
+   },
+   {
+      "stence_id":599,
+      "word_id":412,
+      "_word_name":"소방관",
+      "example":"나는 [소방관]이 되고 수많은 구조 훈련을 했어.",
+      "example_mean":"After I became a [firefighter], I did a lot of rescue training."
+   },
+   {
+      "stence_id":600,
+      "word_id":412,
+      "_word_name":"소방관",
+      "example":"아버지는 자신보다 시민의 안전을 생각한 존경받는 [소방관]이다.",
+      "example_mean":"My father is a respected [firefighter] who considers citizens' safety more than himself."
+   },
+   {
+      "stence_id":601,
+      "word_id":529,
+      "_word_name":"초등학생",
+      "example":"나는 상대방이 [초등학생] 일지라도 최선을 다하지.",
+      "example_mean":"I do my best even if my opponent is an [elementary school student]."
+   },
+   {
+      "stence_id":602,
+      "word_id":529,
+      "_word_name":"초등학생",
+      "example":"조카가 벌써 [초등학생]이야.",
+      "example_mean":"My nephew is already an [elementary school student]."
+   },
+   {
+      "stence_id":603,
+      "word_id":530,
+      "_word_name":"중학생",
+      "example":"한국에서는 교복을 입은 [중학생]들이 많이 보인다.",
+      "example_mean":"In Korea, there are many [middle school students] wearing school uniforms."
+   },
+   {
+      "stence_id":604,
+      "word_id":530,
+      "_word_name":"중학생",
+      "example":"요새는 [중학생]이 되고나서 학원을 보내면 늦어.",
+      "example_mean":"These days, It's late if I send an academy after my child become a [middle school student]."
+   },
+   {
+      "stence_id":605,
+      "word_id":531,
+      "_word_name":"고등학생",
+      "example":"3월부터는 나도 [고등학생]이야!",
+      "example_mean":"I am also a [high school student] from March!"
+   },
+   {
+      "stence_id":606,
+      "word_id":531,
+      "_word_name":"고등학생",
+      "example":"한국 [고등학생]들의 학업량은 유명하다.",
+      "example_mean":"The amount of Korean [high school students] studying is famous."
+   },
+   {
+      "stence_id":607,
+      "word_id":413,
+      "_word_name":"군인",
+      "example":"내 남동생은 [군인]이 되고 싶어 한다.",
+      "example_mean":"My younger brother hopes to be a [soldier]."
+   },
+   {
+      "stence_id":608,
+      "word_id":413,
+      "_word_name":"군인",
+      "example":"휴가를 나온 군인분들 대상으로 할인 이벤트를 진행합니다.",
+      "example_mean":"We hold a discount event for [soldiers] who are on vacation."
+   },
+   {
+      "stence_id":609,
+      "word_id":414,
+      "_word_name":"공무원",
+      "example":"난 [공무원]이 되기 위해서 4년동안 시험을 봐왔다.",
+      "example_mean":"I have been taking exams for four years to become a [public official]."
+   },
+   {
+      "stence_id":610,
+      "word_id":414,
+      "_word_name":"공무원",
+      "example":"[공무원]의 임금이 인상되었습니다.",
+      "example_mean":"Salaries for [public officials] have been increased."
+   },
+   {
+      "stence_id":611,
+      "word_id":415,
+      "_word_name":"기사",
+      "example":"우리 아버지는 택시 [기사]야.",
+      "example_mean":"My father is a taxi [driver]."
+   },
+   {
+      "stence_id":612,
+      "word_id":415,
+      "_word_name":"기사",
+      "example":"전문 [기사]를 고용해야 할 것 같아.",
+      "example_mean":"I think we should hire a professional [engineer]."
+   },
+   {
+      "stence_id":613,
+      "word_id":416,
+      "_word_name":"교수",
+      "example":"[교수]님 연락처 좀 알려줄 수 있어?",
+      "example_mean":"Can you give me the [professor]'s contact number?"
+   },
+   {
+      "stence_id":614,
+      "word_id":201,
+      "_word_name":"배우",
+      "example":"이번 작품으로 그는 대한민국 최고의 [배우]가 되었다.",
+      "example_mean":"With this film, he became the best [actor] in Korea."
+   },
+   {
+      "stence_id":615,
+      "word_id":417,
+      "_word_name":"화가",
+      "example":"우리 아빠는 동네에서 유명한 [화가]에요.",
+      "example_mean":"My dad is a famous [painter] in the neighborhood."
+   },
+   {
+      "stence_id":616,
+      "word_id":418,
+      "_word_name":"예술가",
+      "example":"그녀는 스스로를 상업 작가라고 했지만, 사람들은 그녀를 [예술가]라고 말한다. ",
+      "example_mean":"She calls herself a commercial writer, but people say she is an artist."
+   },
+   {
+      "stence_id":617,
+      "word_id":419,
+      "_word_name":"감독",
+      "example":"대한민국에서 오스카 상을 받은 [감독]이 나온 것은 정말 기쁜 일입니다.",
+      "example_mean":"It is a great pleasure to have an Oscar-winning [director] in Korea."
+   },
+   {
+      "stence_id":618,
+      "word_id":420,
+      "_word_name":"직장인",
+      "example":"지하철이 출근하는 [직장인]들로 혼잡하다.",
+      "example_mean":"The subway is crowded with [office workers] going to work."
+   },
+   {
+      "stence_id":619,
+      "word_id":421,
+      "_word_name":"알바",
+      "example":"[알바]를 가야해서 목요일은 어려울 것 같아요.",
+      "example_mean":"I have to go to a [part-time job], so I think Thursday will be difficult."
+   },
+   {
+      "stence_id":620,
+      "word_id":422,
+      "_word_name":"남자",
+      "example":"[남자] 화장실은 어디 있나요?",
+      "example_mean":"Where is the [men]'s restroom?"
+   },
+   {
+      "stence_id":621,
+      "word_id":423,
+      "_word_name":"여자",
+      "example":"비밀은 [여자]를 진정한 [여자]로 만들어요.",
+      "example_mean":"A Secret Makes A Woman Woman."
+   },
+   {
+      "stence_id":622,
+      "word_id":424,
+      "_word_name":"계절",
+      "example":"이 [계절]이 끝나기 전에 다시 널 만나고 싶어.",
+      "example_mean":"I want to see you again before this [season] is over."
+   },
+   {
+      "stence_id":623,
+      "word_id":425,
+      "_word_name":"봄",
+      "example":"날이 따뜻한 게 [봄]이 오려나 보다.",
+      "example_mean":"It's warm. I guess [spring] is coming."
+   },
+   {
+      "stence_id":624,
+      "word_id":426,
+      "_word_name":"여름",
+      "example":"[여름]이었다.",
+      "example_mean":"It was [summer]."
+   },
+   {
+      "stence_id":625,
+      "word_id":427,
+      "_word_name":"가을",
+      "example":"[가을] 바람에 낙엽이 떨어진다.",
+      "example_mean":"Fall leaves fall in the [autumn] wind."
+   },
+   {
+      "stence_id":626,
+      "word_id":428,
+      "_word_name":"겨울",
+      "example":"[겨울]이 오면 같이 고향에 가요.",
+      "example_mean":"When [winter] comes, let's go to our hometown together."
+   },
+   {
+      "stence_id":627,
+      "word_id":429,
+      "_word_name":"날씨",
+      "example":"오늘 [날씨]가 좋죠?",
+      "example_mean":"The [weather] is nice today, right?"
+   },
+   {
+      "stence_id":628,
+      "word_id":453,
+      "_word_name":"눈",
+      "example":"[눈]이 오면 시내로 나가기 힘들 거에요.",
+      "example_mean":"If it [snows], it will be hard to go downtown."
+   },
+   {
+      "stence_id":629,
+      "word_id":430,
+      "_word_name":"비",
+      "example":"올 여름에는 [비]가 이례적으로 많이 왔다.",
+      "example_mean":"It [rained] unusually heavily this summer."
+   },
+   {
+      "stence_id":630,
+      "word_id":75,
+      "_word_name":"바람",
+      "example":"[바람]이 차가우니까 겉옷을 입도록 해.",
+      "example_mean":"The [wind] is cold, so put on your outer."
+   },
+   {
+      "stence_id":631,
+      "word_id":431,
+      "_word_name":"더위",
+      "example":"활동 시 [더위]에 의한 탈진을 주의하세요.",
+      "example_mean":"Be careful of exhaustion caused by [heat] during activities."
+   },
+   {
+      "stence_id":632,
+      "word_id":432,
+      "_word_name":"추위",
+      "example":"[추위]를 견디는 것이 가장 힘들었습니다.",
+      "example_mean":"It was the hardest thing to endure the [cold]."
+   },
+   {
+      "stence_id":633,
+      "word_id":433,
+      "_word_name":"태풍",
+      "example":"내일 오전 10시에 [태풍]이 남해안에 상륙할 예정입니다.",
+      "example_mean":"The [typhoon] will land on the southern coast at 10 a.m. tomorrow."
+   },
+   {
+      "stence_id":634,
+      "word_id":434,
+      "_word_name":"황사",
+      "example":"[황사] 때문에 방을 환기 시킬 수 없다.",
+      "example_mean":"I can't ventilate the room because of the [yellow dust]."
+   },
+   {
+      "stence_id":635,
+      "word_id":435,
+      "_word_name":"미세먼지",
+      "example":"[미세먼지] 지수가 나쁨이니 마스크를 껴야겠어.",
+      "example_mean":"I should wear a mask because the [fine dust] index is bad."
+   },
+   {
+      "stence_id":636,
+      "word_id":436,
+      "_word_name":"몸",
+      "example":"온 [몸]에 아프지 않은 곳이 없다.",
+      "example_mean":"There is no part of my [body] that does not hurt."
+   },
+   {
+      "stence_id":637,
+      "word_id":487,
+      "_word_name":"팔",
+      "example":"나는 [팔]이 짧아서 항상 옷을 수선해야 해.",
+      "example_mean":"I always have to repair my clothes because my [arms] are short."
+   },
+   {
+      "stence_id":638,
+      "word_id":437,
+      "_word_name":"다리",
+      "example":"너무 오래 서있어서 [다리]가 저리네.",
+      "example_mean":"My [legs] are numb because I've been standing for so long."
+   },
+   {
+      "stence_id":639,
+      "word_id":438,
+      "_word_name":"발",
+      "example":"많이 걸어서 [발]이 아파요.",
+      "example_mean":"My [feet] hurt because I walked a lot."
+   },
+   {
+      "stence_id":640,
+      "word_id":439,
+      "_word_name":"목",
+      "example":"잠을 잘 못자서 [목]을 움직이기 어렵다. ",
+      "example_mean":"It's hard to move my [neck] because I can't sleep well."
+   },
+   {
+      "stence_id":641,
+      "word_id":440,
+      "_word_name":"손",
+      "example":"[손] 좀 줘봐.",
+      "example_mean":"Give me your [hand]."
+   },
+   {
+      "stence_id":642,
+      "word_id":441,
+      "_word_name":"어깨",
+      "example":"누나는 [어깨] 부상으로 은퇴했습니다.",
+      "example_mean":"My Nuna retired because of a [shoulder] injury."
+   },
+   {
+      "stence_id":643,
+      "word_id":442,
+      "_word_name":"허리",
+      "example":"어제 힘 쓰는 일을 해서 [허리]가 뻐근해.",
+      "example_mean":"My [waist] is stiff because I worked hard yesterday."
+   },
+   {
+      "stence_id":644,
+      "word_id":443,
+      "_word_name":"등",
+      "example":"포대기로 아기를 [등]에 업는 건 어머니의 지혜야.",
+      "example_mean":"It's a mother's wisdom to carry a baby on her [back] with a podaegi."
+   },
+   {
+      "stence_id":645,
+      "word_id":444,
+      "_word_name":"허벅지",
+      "example":"경기 중 [허벅지]에 쥐가 났어.",
+      "example_mean":"I got a cramp in my [thigh] during the game."
+   },
+   {
+      "stence_id":646,
+      "word_id":445,
+      "_word_name":"종아리",
+      "example":"학교에 걸어 다니면서 [종아리]에 알이 뱄어.",
+      "example_mean":"My [calf] muscle have been in a knot since I walked to school."
+   },
+   {
+      "stence_id":647,
+      "word_id":73,
+      "_word_name":"무릎",
+      "example":"치마가 [무릎]까지 내려온다.",
+      "example_mean":"The skirt comes down to the [knees]."
+   },
+   {
+      "stence_id":648,
+      "word_id":446,
+      "_word_name":"팔뚝",
+      "example":"나는 [팔뚝]에 큰 문신이 있어.",
+      "example_mean":"I have a big tattoo on my [forearm]."
+   },
+   {
+      "stence_id":649,
+      "word_id":447,
+      "_word_name":"손목",
+      "example":"컴퓨터를 많이 한다면 [손목] 스트레칭을 자주 하세요.",
+      "example_mean":"If you use the computer a lot, do [wrist] stretching often."
+   },
+   {
+      "stence_id":650,
+      "word_id":448,
+      "_word_name":"손가락",
+      "example":"서류 정리 하다 [손가락]을 베였어.",
+      "example_mean":"I cut my [finger] while organizing the papers."
+   },
+   {
+      "stence_id":651,
+      "word_id":449,
+      "_word_name":"발가락",
+      "example":"계단에 [발가락]을 부딪혔다.",
+      "example_mean":"I stubbed my [toe] against the step."
+   },
+   {
+      "stence_id":652,
+      "word_id":450,
+      "_word_name":"머리",
+      "example":"스트레스 때문에 [머리]가 아프다.",
+      "example_mean":"I have a [head]ache from stress."
+   },
+   {
+      "stence_id":653,
+      "word_id":451,
+      "_word_name":"머리카락",
+      "example":"염색 전, 빗질을 해서 엉킨 [머리카락]을 풀어주세요.",
+      "example_mean":"Before dyeing, brush your [hair] to untangle it"
+   },
+   {
+      "stence_id":654,
+      "word_id":452,
+      "_word_name":"귀",
+      "example":"산책 소리에 [강아지]가 귀를 세웠다.",
+      "example_mean":"The dog had his [ears] perked up at the word "
+   },
+   {
+      "stence_id":655,
+      "word_id":453,
+      "_word_name":"눈",
+      "example":"[눈]에 뭐가 들어갔나 봐, 확인해줄래?",
+      "example_mean":"I think I got something in my [eye], can you check?"
+   },
+   {
+      "stence_id":656,
+      "word_id":454,
+      "_word_name":"코",
+      "example":"어, [코]에서 피가 나요!",
+      "example_mean":"Oh, your [nose] is bleeding!"
+   },
+   {
+      "stence_id":657,
+      "word_id":455,
+      "_word_name":"입",
+      "example":"[입]에 묻은 거 닦아.",
+      "example_mean":"Wipe what's on your [mouth]."
+   },
+   {
+      "stence_id":658,
+      "word_id":456,
+      "_word_name":"발목",
+      "example":"2주간은 [발목]에 무리가 가지 않도록 조심하세요.",
+      "example_mean":"임시입력"
+   },
+   {
+      "stence_id":659,
+      "word_id":457,
+      "_word_name":"배",
+      "example":"며칠동안 매운 음식을 먹어서 배가 아파요.",
+      "example_mean":"I have a [stomach]ache after eating spicy food for a few days."
+   },
+   {
+      "stence_id":660,
+      "word_id":458,
+      "_word_name":"동물",
+      "example":"좋아하는 [동물]이 뭐에요?",
+      "example_mean":"What's your favorite [animal]?"
+   },
+   {
+      "stence_id":661,
+      "word_id":459,
+      "_word_name":"새",
+      "example":"자유로운 [새]처럼 날고 싶어.",
+      "example_mean":"I want to fly like a free [bird]."
+   },
+   {
+      "stence_id":662,
+      "word_id":460,
+      "_word_name":"곤충",
+      "example":"난 [곤충]을 무서워 해.",
+      "example_mean":"I'm afraid of [insects]."
+   },
+   {
+      "stence_id":663,
+      "word_id":15,
+      "_word_name":"고양이",
+      "example":"집에서 [고양이] 두마리 키우고 있어요.",
+      "example_mean":"I have two [cats] at home."
+   },
+   {
+      "stence_id":664,
+      "word_id":461,
+      "_word_name":"개구리",
+      "example":"내 고향에서는 밤마다 [개구리] 소리가 들렸다.",
+      "example_mean":"In my hometown, I heard [frogs] every night."
+   },
+   {
+      "stence_id":665,
+      "word_id":6,
+      "_word_name":"강아지",
+      "example":"[강아지]를 키우는 법을 공부하고 있어.",
+      "example_mean":"I'm studying how to raise a [puppy]."
+   },
+   {
+      "stence_id":666,
+      "word_id":462,
+      "_word_name":"닭",
+      "example":"[닭]은 왜 매일 아침에 우는 걸까?",
+      "example_mean":"Why do [chickens] cry every morning?"
+   },
+   {
+      "stence_id":667,
+      "word_id":463,
+      "_word_name":"말",
+      "example":"2012년, [말] 춤은 전세계적인 유행을 만들었다.",
+      "example_mean":"In 2012, [horse] dance made a worldwide trend."
+   },
+   {
+      "stence_id":668,
+      "word_id":464,
+      "_word_name":"멸치",
+      "example":"냄비에 [멸치]를 넣고 끓여주세요.",
+      "example_mean":"Put [anchovies] in a pot and boil them."
+   },
+   {
+      "stence_id":669,
+      "word_id":465,
+      "_word_name":"개미",
+      "example":"그 애니메이션은 [개미]가 나오는 에피소드가 재일 재미있어.",
+      "example_mean":"The episode with [ants] in the animation is interesting."
+   },
+   {
+      "stence_id":670,
+      "word_id":542,
+      "_word_name":"벌",
+      "example":"[벌]이 사라진다는 건 지구가 아프다는 증거입니다.",
+      "example_mean":"The disappearance of [bees] is evidence that the earth is sick."
+   },
+   {
+      "stence_id":671,
+      "word_id":466,
+      "_word_name":"뱀",
+      "example":"최근에 [뱀]이 많이 나온다고 하니, 수풀 옆은 걷지 마렴.",
+      "example_mean":"There are a lot of [snakes] coming out recently, so don't walk next to the bushes."
+   },
+   {
+      "stence_id":672,
+      "word_id":467,
+      "_word_name":"병아리",
+      "example":"아이들이 줄지어 가는 모습이 꼭 [병아리] 같다.",
+      "example_mean":"The children lined up look exactly like [chicks]."
+   },
+   {
+      "stence_id":673,
+      "word_id":468,
+      "_word_name":"비둘기",
+      "example":"[비둘기]에게 밥을 주지 마세요.",
+      "example_mean":"Don't feed the [pigeons]."
+   },
+   {
+      "stence_id":674,
+      "word_id":469,
+      "_word_name":"사슴",
+      "example":"우리 집 뒷산에는 [사슴] 가족이 살고 있어요. ",
+      "example_mean":"There is a [deer] family living in the mountain behind my house."
+   },
+   {
+      "stence_id":675,
+      "word_id":470,
+      "_word_name":"사자",
+      "example":"우리 아들은 [사자]가 멋지다고 좋아하더라구요.",
+      "example_mean":"My son likes [lions] because they are cool."
+   },
+   {
+      "stence_id":676,
+      "word_id":471,
+      "_word_name":"새우",
+      "example":"갑각류 알러지가 있어서 [새우]는 못 먹어요.",
+      "example_mean":"I can't eat [shrimp] because I'm allergic to crustaceans."
+   },
+   {
+      "stence_id":677,
+      "word_id":472,
+      "_word_name":"소",
+      "example":"역사 속에서 [소]는 항상 사람들에게 큰 도움을 줘왔다.",
+      "example_mean":"In history, [cows] have always been a great help to people."
+   },
+   {
+      "stence_id":678,
+      "word_id":473,
+      "_word_name":"송아지",
+      "example":"그 브랜드는 모든 제품에 [송아지] 가죽을 쓰는 걸로 유명하다.",
+      "example_mean":"That brand is famous for using [calf]skin in all products."
+   },
+   {
+      "stence_id":679,
+      "word_id":137,
+      "_word_name":"원숭이",
+      "example":"[원숭이]가 나무를 올라가고 있다.",
+      "example_mean":"The [monkey] is climbing a tree."
+   },
+   {
+      "stence_id":680,
+      "word_id":474,
+      "_word_name":"잠자리",
+      "example":"가을이 오고 [잠자리]가 보이기 시작했다.",
+      "example_mean":"Autumn has come and the [dragonflies] are in sight."
+   },
+   {
+      "stence_id":681,
+      "word_id":475,
+      "_word_name":"토끼",
+      "example":"[토끼]는 귀가 길다.",
+      "example_mean":"[Rabbits] have long ears."
+   },
+   {
+      "stence_id":682,
+      "word_id":476,
+      "_word_name":"호랑이",
+      "example":"백두산에 [호랑이]가 산다는 얘기를 들었어.",
+      "example_mean":"I heard that [tigers] live in Mt. Baekdu."
+   },
+   {
+      "stence_id":683,
+      "word_id":477,
+      "_word_name":"게",
+      "example":"라면에 [게]를 넣어서 더 맛있어졌다.",
+      "example_mean":"It became more delicious by adding [crab] to ramen."
+   },
+   {
+      "stence_id":684,
+      "word_id":478,
+      "_word_name":"곰",
+      "example":"[곰]은 겨울잠에서 깨어났다.",
+      "example_mean":"The [bear] rose from its hibernation."
+   },
+   {
+      "stence_id":685,
+      "word_id":479,
+      "_word_name":"나비",
+      "example":"표본을 만들 [나비]를 잡아줄래?  ",
+      "example_mean":"Can you catch the [butterfly] to make the specimen?"
+   },
+   {
+      "stence_id":686,
+      "word_id":56,
+      "_word_name":"돼지",
+      "example":"삼촌은 [돼지] 농장을 하고 계셔.",
+      "example_mean":"My Samchon runs a [pig] farm."
+   },
+   {
+      "stence_id":687,
+      "word_id":480,
+      "_word_name":"일",
+      "example":"축하드려요. 대기번호 [일] 번 입니다.",
+      "example_mean":"congratulation. Your waiting number is number one."
+   },
+   {
+      "stence_id":688,
+      "word_id":481,
+      "_word_name":"이",
+      "example":"[이] 번 손님 계세요?",
+      "example_mean":"Is there customer number [two]?"
+   },
+   {
+      "stence_id":689,
+      "word_id":482,
+      "_word_name":"삼",
+      "example":"기획사 [삼]사는 항상 좋은 아이돌을 프로듀싱했다. ",
+      "example_mean":"The [three] agencies always produced good idols."
+   },
+   {
+      "stence_id":690,
+      "word_id":483,
+      "_word_name":"사",
+      "example":"한자 문화권에서 [사]는 죽음을 뜻하는 한자랑 음이 똑같아서 불길한 숫자 취급 받는다.",
+      "example_mean":"In the Chinese character culture, [four] is treated as an ominous number because it has the same sound as the Chinese character meaning 'death'."
+   },
+   {
+      "stence_id":691,
+      "word_id":484,
+      "_word_name":"오",
+      "example":"거긴 [오]인조 아이돌 그룹이야.",
+      "example_mean":"It's a [five] member idol group."
+   },
+   {
+      "stence_id":692,
+      "word_id":485,
+      "_word_name":"육",
+      "example":"인삼 중 [육] 년 근 인삼이 가장 유명하다.",
+      "example_mean":"Among ginseng, ginseng that is [six] years old is the most famous."
+   },
+   {
+      "stence_id":693,
+      "word_id":486,
+      "_word_name":"칠",
+      "example":"그들은 [칠]년동안 문제없이 활동했지만 결국 해체했습니다.",
+      "example_mean":"They were active for [seven] years without a problem, but they eventually disbanded."
+   },
+   {
+      "stence_id":694,
+      "word_id":487,
+      "_word_name":"팔",
+      "example":"나는 [팔]이 무한 기호와 닮아서 좋아해.",
+      "example_mean":"I like [eight] because it resembles an infinite symbol."
+   },
+   {
+      "stence_id":695,
+      "word_id":488,
+      "_word_name":"구",
+      "example":"삼 곱하기 삼은 [구]이다.",
+      "example_mean":"Three times three is [nine]."
+   },
+   {
+      "stence_id":696,
+      "word_id":489,
+      "_word_name":"십",
+      "example":"[십]초만 기다려줘요.",
+      "example_mean":"Please wait for [ten] seconds."
+   },
+   {
+      "stence_id":697,
+      "word_id":490,
+      "_word_name":"하나",
+      "example":"[하나]도 모르겠습니다.",
+      "example_mean":"I don't even know [one] thing."
+   },
+   {
+      "stence_id":698,
+      "word_id":491,
+      "_word_name":"둘",
+      "example":"우리 [둘]은 좋은 친구가 될 거에요.",
+      "example_mean":"[Two] of us will be good friends."
+   },
+   {
+      "stence_id":699,
+      "word_id":492,
+      "_word_name":"셋",
+      "example":"[셋] 세고 시작한다.",
+      "example_mean":"I'll count [three] and start."
+   },
+   {
+      "stence_id":700,
+      "word_id":493,
+      "_word_name":"넷",
+      "example":"그 집은 아이가 [넷]이에요.",
+      "example_mean":"The house has [four] children."
+   },
+   {
+      "stence_id":701,
+      "word_id":494,
+      "_word_name":"다섯",
+      "example":"죄송하지만 시설 이용 최대 인원은 [다섯]명입니다.",
+      "example_mean":"I'm sorry, but the maximum number of people using the facility is [five]."
+   },
+   {
+      "stence_id":702,
+      "word_id":495,
+      "_word_name":"여섯",
+      "example":"내일, [여섯]번째 예고편이 공개 됩니다.",
+      "example_mean":"Tomorrow, the [six]th trailer will be released."
+   },
+   {
+      "stence_id":703,
+      "word_id":496,
+      "_word_name":"일곱",
+      "example":"공주은 [일곱] 명의 난쟁이들과 함께 산다.",
+      "example_mean":"The princess lives with [seven] dwarves."
+   },
+   {
+      "stence_id":704,
+      "word_id":124,
+      "_word_name":"여덟",
+      "example":"한국에는 [여덟] 개의 '도'가 있다.",
+      "example_mean":"There are eight 'do' in Korea."
+   },
+   {
+      "stence_id":705,
+      "word_id":497,
+      "_word_name":"아홉",
+      "example":"내 남동생은 [아홉]살인데 벌써 여자친구가 있대.",
+      "example_mean":"My yeonger brother is [nine] years old and he says he already has a girlfriend."
+   },
+   {
+      "stence_id":706,
+      "word_id":498,
+      "_word_name":"열",
+      "example":"이 중에 [열] 가지만 골라봐요. ",
+      "example_mean":"Choose [ten] of these."
+   },
+   {
+      "stence_id":707,
+      "word_id":499,
+      "_word_name":"프랑스",
+      "example":"전 5년 전에 [프랑스]에서 요리를 배웠어요.",
+      "example_mean":"I learned cooking in [France] five years ago."
+   },
+   {
+      "stence_id":708,
+      "word_id":500,
+      "_word_name":"독일",
+      "example":"다음 달에 [독일]로 출장을 갈 예정입니다.",
+      "example_mean":"I am planning to go on a business trip to [Germany] next month."
+   },
+   {
+      "stence_id":709,
+      "word_id":501,
+      "_word_name":"스페인",
+      "example":"내가 갔었던 [스페인]은 정말 뜨겁고 열정적인 나라였어요.",
+      "example_mean":"[Spain], where I went, was such a hot and passionate country."
+   },
+   {
+      "stence_id":710,
+      "word_id":502,
+      "_word_name":"인도",
+      "example":"2023년, [인도]가 인구 세계 1위 국가 입니다.",
+      "example_mean":"In 2023, [India] is the world's No. 1 country with a population."
+   },
+   {
+      "stence_id":711,
+      "word_id":503,
+      "_word_name":"베트남",
+      "example":"[베트남]의 호이안이 정말 아름다우니 꼭 가보세요.",
+      "example_mean":"Hoi An in [Vietnam] is really beautiful, so make sure to visit it."
+   },
+   {
+      "stence_id":712,
+      "word_id":504,
+      "_word_name":"필리핀",
+      "example":"이번 겨울에 [필리핀]으로 여행을 다녀왔어요.",
+      "example_mean":"I went on a trip to the [Philippines] this winter."
+   },
+   {
+      "stence_id":713,
+      "word_id":505,
+      "_word_name":"태국",
+      "example":"치앙마이는 [태국]의 유명 관광지입니다.",
+      "example_mean":"Chiang Mai is a famous tourist destination in [Thailand]."
+   },
+   {
+      "stence_id":714,
+      "word_id":506,
+      "_word_name":"인도네시아",
+      "example":"8월에 [인도네시아] 자카르타에서 공연합니다.",
+      "example_mean":"It will be held in Jakarta, [Indonesia] in August."
+   },
+   {
+      "stence_id":715,
+      "word_id":507,
+      "_word_name":"몽골",
+      "example":"[몽골]은 채소를 키우기 어려워 고기보다 채소가 비쌉니다.",
+      "example_mean":"Vegetables are more expensive than meat because it is difficult to grow vegetables in [Mongolia]."
+   },
+   {
+      "stence_id":716,
+      "word_id":508,
+      "_word_name":"핀란드",
+      "example":"[핀란드]에서는 눈을 보며 사우나를 하곤했어.",
+      "example_mean":"In [Finland], I used to have a sauna in the snow."
+   },
+   {
+      "stence_id":717,
+      "word_id":509,
+      "_word_name":"스웨덴",
+      "example":"우리 오빠는 기계를 점검하러 [스웨덴]으로 출장을 갔어.",
+      "example_mean":"My brother went on a business trip to [Sweden] to inspect the machine."
+   },
+   {
+      "stence_id":718,
+      "word_id":510,
+      "_word_name":"덴마크",
+      "example":"코펜하겐은 [덴마크]의 수도입니다.",
+      "example_mean":"Copenhagen is the capital of [Denmark]."
+   },
+   {
+      "stence_id":719,
+      "word_id":511,
+      "_word_name":"멕시코",
+      "example":"[멕시코]의 장례문화를 주제로 애니메이션 영화를 만들었어요.",
+      "example_mean":"I made an animation movie with the theme of funeral culture in [Mexico]."
+   },
+   {
+      "stence_id":720,
+      "word_id":512,
+      "_word_name":"버스",
+      "example":"[버스]를 놓칠 뻔 했어.",
+      "example_mean":"I almost missed the [bus]."
+   },
+   {
+      "stence_id":721,
+      "word_id":513,
+      "_word_name":"택시",
+      "example":"[택시] 정류장은 한 블럭 앞에 있어요.",
+      "example_mean":"The [taxi] stop is one block away."
+   },
+   {
+      "stence_id":722,
+      "word_id":514,
+      "_word_name":"지하철",
+      "example":"[지하철] 4호선을 타세요.",
+      "example_mean":"Take [subway] line 4."
+   },
+   {
+      "stence_id":723,
+      "word_id":515,
+      "_word_name":"기차",
+      "example":"부산까지 [기차]를 타고 갈까?",
+      "example_mean":"Should we take the [train] to Busan?"
+   },
+   {
+      "stence_id":724,
+      "word_id":516,
+      "_word_name":"무궁화호",
+      "example":"KTX가 매진되어서 [무궁화호]를 타셔야할 것 같습니다.",
+      "example_mean":"The KTX is sold out, so I think you should take the [Mugunghwa-ho]."
+   },
+   {
+      "stence_id":725,
+      "word_id":517,
+      "_word_name":"고속열차",
+      "example":"KTX는 한국의 [고속열차]에요.",
+      "example_mean":"KTX is a [high-speed train] in Korea."
+   },
+   {
+      "stence_id":726,
+      "word_id":518,
+      "_word_name":"고속버스",
+      "example":"[고속버스] 터미널에서 기다릴게.",
+      "example_mean":"I'll wait at the [express bus] terminal."
+   },
+   {
+      "stence_id":727,
+      "word_id":519,
+      "_word_name":"시외버스",
+      "example":"거긴 [시외버스]를 타고 가야해요.",
+      "example_mean":"You have to take the [intercity bus] there."
+   },
+   {
+      "stence_id":728,
+      "word_id":520,
+      "_word_name":"시내버스",
+      "example":"[시내버스] 노선이 변경되었으니 참고 해주세요.",
+      "example_mean":"Please note that the [city bus] route has been changed."
+   },
+   {
+      "stence_id":729,
+      "word_id":521,
+      "_word_name":"역",
+      "example":"이번 [역]은 이 열차의 종점입니다.",
+      "example_mean":"This station is the [last stop] of this train."
+   },
+   {
+      "stence_id":730,
+      "word_id":522,
+      "_word_name":"정류장",
+      "example":"어느 [정류장]에서 내리면 되나요?",
+      "example_mean":"Which [stop] should I get off at?"
+   },
+   {
+      "stence_id":731,
+      "word_id":523,
+      "_word_name":"공항",
+      "example":"[공항]으로 마중 나갈게요.",
+      "example_mean":"I'll pick you up at the [airport]."
+   },
+   {
+      "stence_id":732,
+      "word_id":524,
+      "_word_name":"비행기",
+      "example":"[비행기] 탈 때 신발 벗고 타야하는 거 알지?",
+      "example_mean":"You know you have to take off your shoes when you get on a [airplane], right?"
+   },
+   {
+      "stence_id":733,
+      "word_id":525,
+      "_word_name":"터미널",
+      "example":"차를 댈 곳이 [터미널]에 있던가?",
+      "example_mean":"Was there a place to park in the [terminal]?"
+   },
+   {
+      "stence_id":734,
+      "word_id":526,
+      "_word_name":"환승",
+      "example":"9호선으로 [환승]하는 분은 이번역에서 내리시길 바랍니다.",
+      "example_mean":"Those who [transfer] to Line 9, please get off at this station."
+   },
+   {
+      "stence_id":735,
+      "word_id":527,
+      "_word_name":"교통카드",
+      "example":"아, [교통카드] 충전 깜빡했다.",
+      "example_mean":"Oh, I forgot to charge my [transportation card]."
+   },
+   {
+      "stence_id":736,
+      "word_id":528,
+      "_word_name":"대학교",
+      "example":"[대학교] 가면 연애 할 수 있다니까.",
+      "example_mean":"You can date when you go to [college]."
+   },
+   {
+      "stence_id":737,
+      "word_id":529,
+      "_word_name":"초등학생",
+      "example":"여보, 이 주변은 [초등학생]들이 많으니 운전 조심해.",
+      "example_mean":"Honey, there are many [elementary school students] around here, so be careful driving."
+   },
+   {
+      "stence_id":738,
+      "word_id":530,
+      "_word_name":"중학생",
+      "example":"아이돌 중에 [중학생]이 많더라구요.",
+      "example_mean":"There are many [middle school students] in idol groups."
+   },
+   {
+      "stence_id":739,
+      "word_id":531,
+      "_word_name":"고등학생",
+      "example":"내 여동생은 [고등학생]이야.",
+      "example_mean":"My younger sister is a [high school student]."
+   },
+   {
+      "stence_id":740,
+      "word_id":532,
+      "_word_name":"백",
+      "example":"이번에 [백]점 맞았어?",
+      "example_mean":"Did you get [hundred] points this time?"
+   },
+   {
+      "stence_id":741,
+      "word_id":533,
+      "_word_name":"천",
+      "example":"옛날엔 [천]원이면 떡볶이를 사먹었는데.",
+      "example_mean":"I used to buy tteokbokki for [thousand] won."
+   },
+   {
+      "stence_id":742,
+      "word_id":534,
+      "_word_name":"만",
+      "example":"만세는 원래 만살까지 장수하라는 뜻이었어.",
+      "example_mean":"Manse originally meant to live a long life until the age of [ten thousand]."
+   },
+   {
+      "stence_id":743,
+      "word_id":535,
+      "_word_name":"억",
+      "example":"그 사람이 [억]대 연봉이라고?",
+      "example_mean":"He's a [hundred million]-won salary?"
+   },
+   {
+      "stence_id":744,
+      "word_id":536,
+      "_word_name":"조",
+      "example":"정부는 이번 재난 복구를 위해 국비 1[조] 이상을 사용할 것 이라고 말했습니다.",
+      "example_mean":"The government said it would use more than 1 [trillion] won of state funds to recover from the disaster."
+   },
+   {
+      "stence_id":745,
+      "word_id":537,
+      "_word_name":"명",
+      "example":"우리가 몇 [명]이지?",
+      "example_mean":"How many [myung] of us are there?"
+   },
+   {
+      "stence_id":746,
+      "word_id":538,
+      "_word_name":"마리",
+      "example":"우리 동물원에는 호랑이가 7[마리] 살아요.",
+      "example_mean":"There are seven [ma-ri] tigers in our zoo."
+   },
+   {
+      "stence_id":747,
+      "word_id":539,
+      "_word_name":"개",
+      "example":"연필이 3[개] 있어",
+      "example_mean":"There are three [gae] of pencils."
+   },
+   {
+      "stence_id":748,
+      "word_id":540,
+      "_word_name":"짝",
+      "example":"젓가락 한 [짝]만 줄래?",
+      "example_mean":"Can you give me a [jjak of] chopsticks?"
+   },
+   {
+      "stence_id":749,
+      "word_id":541,
+      "_word_name":"쌍",
+      "example":"까마귀 한 [쌍]이 날아간다.",
+      "example_mean":"A [ssang of] crows fly away."
+   },
+   {
+      "stence_id":750,
+      "word_id":542,
+      "_word_name":"벌",
+      "example":"옷 몇 [벌]을 보육원으로 보냈어.",
+      "example_mean":"I sent some [bul] of clothes to the nursery."
+   },
+   {
+      "stence_id":751,
+      "word_id":543,
+      "_word_name":"장",
+      "example":"그 책은 200 [장] 정도 됐던 것 같은데?",
+      "example_mean":"I think that book is about 200 [pages] long."
+   },
+   {
+      "stence_id":752,
+      "word_id":544,
+      "_word_name":"송이",
+      "example":"장미 한 [송이]만 보내주세요.",
+      "example_mean":"Please send me a [song-yi] of rose."
+   },
+   {
+      "stence_id":753,
+      "word_id":545,
+      "_word_name":"한-",
+      "example":"[한] 개만 추천해 주세요.",
+      "example_mean":"Please recommend [one] gae."
+   },
+   {
+      "stence_id":754,
+      "word_id":546,
+      "_word_name":"두-",
+      "example":"[두] 벌이면 충분해요.",
+      "example_mean":"[Two] bul is enough."
+   },
+   {
+      "stence_id":755,
+      "word_id":547,
+      "_word_name":"세-",
+      "example":"기회는 [세] 번 입니다.",
+      "example_mean":"You have [three] times of chances."
+   },
+   {
+      "stence_id":756,
+      "word_id":548,
+      "_word_name":"네-",
+      "example":"저는 [네] 살이에요.",
+      "example_mean":"I'm [four] years old."
+   },
+   {
+      "stence_id":757,
+      "word_id":549,
+      "_word_name":"어디",
+      "example":"[어디]로 갈까요?",
+      "example_mean":"[Where] shall we go?"
+   },
+   {
+      "stence_id":758,
+      "word_id":550,
+      "_word_name":"이쪽",
+      "example":"병원은 [이쪽]으로 가면되나요?",
+      "example_mean":"Is the hospital over [here]?"
+   },
+   {
+      "stence_id":759,
+      "word_id":551,
+      "_word_name":"저쪽",
+      "example":"[저쪽]에 가서 이야기 하자.",
+      "example_mean":"Let's go over [there] and talk."
+   },
+   {
+      "stence_id":760,
+      "word_id":552,
+      "_word_name":"그쪽",
+      "example":"[그쪽] 상황은 어때?",
+      "example_mean":"How's the situation over [there]?"
+   },
+   {
+      "stence_id":761,
+      "word_id":553,
+      "_word_name":"어떻게",
+      "example":"[어떻게] 지내고 있어요?",
+      "example_mean":"[How] are you doing?"
+   },
+   {
+      "stence_id":762,
+      "word_id":554,
+      "_word_name":"언제",
+      "example":"예약이 [언제]인가요?",
+      "example_mean":"[When] is the reservation?"
+   },
+   {
+      "stence_id":763,
+      "word_id":555,
+      "_word_name":"월",
+      "example":"[월]별로 지불 가능합니다.",
+      "example_mean":"It can be paid on a [month]ly basis."
+   },
+   {
+      "stence_id":764,
+      "word_id":480,
+      "_word_name":"일",
+      "example":"행사가 몇 [일]이라고 했지?",
+      "example_mean":"What [date] did you say the event was?"
+   },
+   {
+      "stence_id":765,
+      "word_id":556,
+      "_word_name":"시",
+      "example":"9[시]에 강의 시작이니 늦지 마세요.",
+      "example_mean":"The lecture starts at 9 [O'clock], so don't be late."
+   },
+   {
+      "stence_id":766,
+      "word_id":557,
+      "_word_name":"분",
+      "example":"물을 붓고 3[분] 기다려주세요.",
+      "example_mean":"Pour water and wait for 3 [minutes]."
+   },
+   {
+      "stence_id":767,
+      "word_id":558,
+      "_word_name":"초",
+      "example":"10[초] 센다.",
+      "example_mean":"I will count 10 [seconds]."
+   },
+   {
+      "stence_id":768,
+      "word_id":559,
+      "_word_name":"레스토랑",
+      "example":"내가 좋아하는 [레스토랑]을 소개해줄게. ",
+      "example_mean":"Let me introduce my favorite [restaurant]."
+   },
+   {
+      "stence_id":769,
+      "word_id":560,
+      "_word_name":"한식",
+      "example":"[한식]을 좋아해요.",
+      "example_mean":"I like [Korean food]."
+   },
+   {
+      "stence_id":770,
+      "word_id":561,
+      "_word_name":"일식",
+      "example":"오늘 점심으로 [일식] 괜찮아?",
+      "example_mean":"Is [Japanese food] okay for lunch today?"
+   },
+   {
+      "stence_id":771,
+      "word_id":562,
+      "_word_name":"중식",
+      "example":"거기 음식은 내가 먹어본 [중식] 중에 최고였어. ",
+      "example_mean":"The food there was the best [Chinese food] I've ever had."
+   },
+   {
+      "stence_id":772,
+      "word_id":563,
+      "_word_name":"양식",
+      "example":"저녁은 [양식]으로 준비 했는데, 괜찮은가요?",
+      "example_mean":"I prepared [Western food] for dinner, is that okay?"
+   },
+   {
+      "stence_id":773,
+      "word_id":564,
+      "_word_name":"밥",
+      "example":"[밥] 먹었어?",
+      "example_mean":"Did you have a [meal]?"
+   },
+   {
+      "stence_id":774,
+      "word_id":565,
+      "_word_name":"빵",
+      "example":"[빵]을 만드는게 취미에요.",
+      "example_mean":"My hobby is making [bread]."
+   },
+   {
+      "stence_id":775,
+      "word_id":566,
+      "_word_name":"면",
+      "example":"[면] 요리 좋아하세요? ",
+      "example_mean":"Do you like [noodles]?"
+   },
+   {
+      "stence_id":776,
+      "word_id":567,
+      "_word_name":"떡",
+      "example":"옆 집에서 [떡]을 줬어. ",
+      "example_mean":"Neighbor gave us [rice cakes]."
+   },
+   {
+      "stence_id":777,
+      "word_id":568,
+      "_word_name":"맵다",
+      "example":"김치가 너무 [맵다].",
+      "example_mean":"The kimchi is too [spicy]."
+   },
+   {
+      "stence_id":778,
+      "word_id":569,
+      "_word_name":"뜨겁다",
+      "example":"국물이 [뜨겁다].",
+      "example_mean":"The soup is [hot]."
+   },
+   {
+      "stence_id":779,
+      "word_id":570,
+      "_word_name":"차갑다",
+      "example":"아이스크림이 [차갑다].",
+      "example_mean":"The ice cream is [cold]."
+   },
+   {
+      "stence_id":780,
+      "word_id":571,
+      "_word_name":"분식",
+      "example":"떡볶이 시키려고 하는데, [분식] 좋아해?",
+      "example_mean":"I'm going to order tteokbokki, do you like [bunsik]?"
+   },
+   {
+      "stence_id":781,
+      "word_id":572,
+      "_word_name":"맑음",
+      "example":"오늘의 날씨는 [맑음]입니다.",
+      "example_mean":"Today's weather is [sunny]."
+   },
+   {
+      "stence_id":782,
+      "word_id":573,
+      "_word_name":"열대야",
+      "example":"[열대야] 때문에 밤에 자기 힘들어. ",
+      "example_mean":"It's hard to sleep at night because of the [tropical night]."
+   },
+   {
+      "stence_id":783,
+      "word_id":574,
+      "_word_name":"한파",
+      "example":"[한파]에 대비하시길 바랍니다.",
+      "example_mean":"Please be prepared for the [cold wave]."
+   },
+   {
+      "stence_id":784,
+      "word_id":575,
+      "_word_name":"폭우",
+      "example":"[폭우]에 강이 넘쳤습니다.",
+      "example_mean":"The river overflowed because of the [heavy rain]."
+   },
+   {
+      "stence_id":785,
+      "word_id":576,
+      "_word_name":"폭설",
+      "example":"[폭설] 때문에 교통이 마비 되었습니다.",
+      "example_mean":"The [heavy snow] paralyzed the traffic."
+   },
+   {
+      "stence_id":786,
+      "word_id":577,
+      "_word_name":"폭염",
+      "example":"장시간 이어진 [폭염]에 야외 작업자들이 지쳐 있습니다.",
+      "example_mean":"Outdoor workers are exhausted by the long [heat wave]."
+   },
+   {
+      "stence_id":787,
+      "word_id":578,
+      "_word_name":"출구",
+      "example":"[출구]는 정면에 있습니다.",
+      "example_mean":"The [exit] is at the front."
+   },
+   {
+      "stence_id":788,
+      "word_id":579,
+      "_word_name":"막차",
+      "example":"[막차] 시간이 언제죠?",
+      "example_mean":"When is the [last bus]?"
+   },
+   {
+      "stence_id":789,
+      "word_id":580,
+      "_word_name":"혼잡",
+      "example":"[혼잡] 표시를 확인해 주시기 바랍니다.",
+      "example_mean":"Please check the [crowded] mark."
+   },
+   {
+      "stence_id":790,
+      "word_id":581,
+      "_word_name":"여유",
+      "example":"[여유] 표시가 있으면 좌석이 있다는 뜻입니다.",
+      "example_mean":"If there's an [not crowded] mark, It means there are some seats."
+   },
+   {
+      "stence_id":791,
+      "word_id":582,
+      "_word_name":"교통약자석",
+      "example":"[교통약자석]이 법적으로 지정되어 있습니다.",
+      "example_mean":"[Priority seats] are legally designated."
+   },
+   {
+      "stence_id":792,
+      "word_id":583,
+      "_word_name":"임산부 배려석",
+      "example":"[임산부 배려석]을 비워주시길 바랍니다.",
+      "example_mean":"Please empty the [Pregnant woman consideration seat]."
+   },
+   {
+      "stence_id":793,
+      "word_id":584,
+      "_word_name":"약냉방 칸",
+      "example":"조금 더웠던 게 [약냉방칸]이어서 였네.",
+      "example_mean":"The reason it was a little hot was because it was a [weak air-conditioned car]."
+   },
+   {
+      "stence_id":794,
+      "word_id":585,
+      "_word_name":"자리",
+      "example":"사람이 너무 많아서 남는 [자리]가 없어.",
+      "example_mean":"There are no [seats] left because there are so many people."
+   },
+   {
+      "stence_id":795,
+      "word_id":586,
+      "_word_name":"하차",
+      "example":"[하차] 시 꼭 카드를 태그 해 주세요.",
+      "example_mean":"Please tag your card when you [get off]."
+   },
+   {
+      "stence_id":796,
+      "word_id":587,
+      "_word_name":"빠른환승                                                                                                                                                                                                                                                                                                                              ",
+      "example":"지도 어플로 어떤 차량이 [빠른환승] 차량인지 확인 할 수 있어.",
+      "example_mean":"You can check which car is a [quick transfer] car through the map application."
+   },
+   {
+      "stence_id":797,
+      "word_id":588,
+      "_word_name":"빠른하차",
+      "example":"지도 어플에 뜨는 [빠른하차] 차량이 출구와 가장 가깝습니다.",
+      "example_mean":"The [quick get off] car map application is closest to the exit."
+   }
+]

@@ -1,0 +1,3530 @@
+[
+   {
+      "word_id":1,
+      "word":"가방",
+      "word_en":"bag",
+      "means_en":"A tool that allows you to carry or carry things around"
+   },
+   {
+      "word_id":2,
+      "word":"가엾다",
+      "word_en":"pitiful",
+      "means_en":"Be heartbroken and miserable"
+   },
+   {
+      "word_id":3,
+      "word":"가위",
+      "word_en":"scissors",
+      "means_en":"A tool for cutting cloth, paper, etc. with two blades"
+   },
+   {
+      "word_id":4,
+      "word":"감자",
+      "word_en":"potato",
+      "means_en":"A tuberous crop widely used as a food ingredient"
+   },
+   {
+      "word_id":5,
+      "word":"값",
+      "word_en":"cost",
+      "means_en":"The amount charged on goods bought and sold"
+   },
+   {
+      "word_id":6,
+      "word":"강아지",
+      "word_en":"puppy",
+      "means_en":"A baby dog"
+   },
+   {
+      "word_id":7,
+      "word":"같다",
+      "word_en":"same",
+      "means_en":"Be no different from each other"
+   },
+   {
+      "word_id":8,
+      "word":"걔",
+      "word_en":"him,her,they",
+      "means_en":"A word used to refer to a person who is not present"
+   },
+   {
+      "word_id":9,
+      "word":"걷다",
+      "word_en":"walk",
+      "means_en":"Move one's legs alternately"
+   },
+   {
+      "word_id":10,
+      "word":"겉옷",
+      "word_en":"outer clothing",
+      "means_en":"An outer garment"
+   },
+   {
+      "word_id":11,
+      "word":"겉치레",
+      "word_en":"gloss",
+      "means_en":"An good ostensible appearance, even it is not true"
+   },
+   {
+      "word_id":12,
+      "word":"곁눈질",
+      "word_en":"sidelong glance",
+      "means_en":"Look by rolling one's eyes sideways"
+   },
+   {
+      "word_id":13,
+      "word":"계곡",
+      "word_en":"valley",
+      "means_en":"Valley that water flows"
+   },
+   {
+      "word_id":14,
+      "word":"계단",
+      "word_en":"stairs",
+      "means_en":"Floors that are built on a building or slope for people to climb up and down"
+   },
+   {
+      "word_id":15,
+      "word":"고양이",
+      "word_en":"cat",
+      "means_en":"cat"
+   },
+   {
+      "word_id":16,
+      "word":"곡괭이",
+      "word_en":"pickax",
+      "means_en":"A tool used for digging hard ground"
+   },
+   {
+      "word_id":17,
+      "word":"곶감",
+      "word_en":"gotgam",
+      "means_en":"A persimmon that has been peeled, threaded into a skewer, and dried"
+   },
+   {
+      "word_id":18,
+      "word":"과거",
+      "word_en":"past",
+      "means_en":"A time that has passed"
+   },
+   {
+      "word_id":19,
+      "word":"괜찮다",
+      "word_en":"not bad",
+      "means_en":"Not too bad, above average"
+   },
+   {
+      "word_id":20,
+      "word":"괴물",
+      "word_en":"monster",
+      "means_en":"A strange-looking thing"
+   },
+   {
+      "word_id":21,
+      "word":"교육",
+      "word_en":"education",
+      "means_en":"Teaching knowledge and skills to develop someone's character"
+   },
+   {
+      "word_id":22,
+      "word":"교회",
+      "word_en":"church",
+      "means_en":"A community of believers who believe and follow Jesus Christ, or the place"
+   },
+   {
+      "word_id":23,
+      "word":"굵다",
+      "word_en":"thick",
+      "means_en":"The diameter of an object is longer than normal"
+   },
+   {
+      "word_id":24,
+      "word":"굶다",
+      "word_en":"starve",
+      "means_en":"Skip a meal"
+   },
+   {
+      "word_id":25,
+      "word":"궤짝",
+      "word_en":"box",
+      "means_en":"A wooden box for putting things in"
+   },
+   {
+      "word_id":26,
+      "word":"귀마개",
+      "word_en":"earplug",
+      "means_en":"An object that prevents loud noises from being heard or prevents water from entering the ear"
+   },
+   {
+      "word_id":27,
+      "word":"균열",
+      "word_en":"crack",
+      "means_en":"A split like a pattern on a turtle's back"
+   },
+   {
+      "word_id":28,
+      "word":"김밥",
+      "word_en":"gimbap",
+      "means_en":"A dish of rice and side dishes wrapped in seaweed"
+   },
+   {
+      "word_id":29,
+      "word":"김치",
+      "word_en":"kimchi",
+      "means_en":"A food that is fermented after mixing salted cabbage or radish with seasonings such as red pepper powder, green onion, and garlic"
+   },
+   {
+      "word_id":30,
+      "word":"까마귀",
+      "word_en":"crow",
+      "means_en":"A large black bird"
+   },
+   {
+      "word_id":31,
+      "word":"깎다",
+      "word_en":"cut",
+      "means_en":"Cut grass or hair"
+   },
+   {
+      "word_id":32,
+      "word":"깨소금",
+      "word_en":"ground sesame",
+      "means_en":"Ground roasted sesame seeds"
+   },
+   {
+      "word_id":33,
+      "word":"껍질",
+      "word_en":"peel",
+      "means_en":"A non-hard material that wraps around the surface of an object"
+   },
+   {
+      "word_id":34,
+      "word":"꽃다발",
+      "word_en":"bouquet",
+      "means_en":"A bunch of flowers"
+   },
+   {
+      "word_id":35,
+      "word":"꿇다",
+      "word_en":"get down on one's knees",
+      "means_en":"Get down on one's knees"
+   },
+   {
+      "word_id":36,
+      "word":"꿰매다",
+      "word_en":"sew",
+      "means_en":"To needle or tie a loose or perforated part of a garment"
+   },
+   {
+      "word_id":37,
+      "word":"끊다",
+      "word_en":"disconnect",
+      "means_en":"Not keep a relationship afloat"
+   },
+   {
+      "word_id":38,
+      "word":"끓다",
+      "word_en":"boil",
+      "means_en":"Of a liquid, to become very hot and bubbly"
+   },
+   {
+      "word_id":39,
+      "word":"끝",
+      "word_en":"end",
+      "means_en":"The last limit of time, space, things, etc"
+   },
+   {
+      "word_id":40,
+      "word":"나뭇잎",
+      "word_en":"leaf",
+      "means_en":"The leaves of a tree"
+   },
+   {
+      "word_id":41,
+      "word":"낚시",
+      "word_en":"fishing",
+      "means_en":"Catching fishes with various tools"
+   },
+   {
+      "word_id":42,
+      "word":"낡다",
+      "word_en":"(inanimate)old",
+      "means_en":"Of a thing, to become old and loose"
+   },
+   {
+      "word_id":43,
+      "word":"낮잠",
+      "word_en":"nap",
+      "means_en":"Daytime sleep"
+   },
+   {
+      "word_id":44,
+      "word":"낳다",
+      "word_en":"give birth to",
+      "means_en":"To put a baby, a baby, and an egg out of one's stomach"
+   },
+   {
+      "word_id":45,
+      "word":"넋두리",
+      "word_en":"grumble",
+      "means_en":"A long complaining remark"
+   },
+   {
+      "word_id":46,
+      "word":"넓이",
+      "word_en":"area",
+      "means_en":"The size of a space or range that spans a certain plane"
+   },
+   {
+      "word_id":47,
+      "word":"노랗다",
+      "word_en":"yellow",
+      "means_en":"To yellow bright and vivid like a chick or forsythia"
+   },
+   {
+      "word_id":48,
+      "word":"늙다",
+      "word_en":"(living)old",
+      "means_en":"People, animals, plants, etc. grow old"
+   },
+   {
+      "word_id":49,
+      "word":"닫다",
+      "word_en":"close",
+      "means_en":"To put an open door, lid, drawer, etc. back into place"
+   },
+   {
+      "word_id":50,
+      "word":"달력",
+      "word_en":"calendar",
+      "means_en":"A record of the month, day, day of the week, and event date of the year according to the date"
+   },
+   {
+      "word_id":51,
+      "word":"닮다",
+      "word_en":"look like",
+      "means_en":"To have a similar appearance or characteristic of a person or thing"
+   },
+   {
+      "word_id":52,
+      "word":"닿다",
+      "word_en":"reach",
+      "means_en":"To leave no gaps between objects"
+   },
+   {
+      "word_id":53,
+      "word":"동그랗다",
+      "word_en":"round",
+      "means_en":"Be round in shape"
+   },
+   {
+      "word_id":54,
+      "word":"동녘",
+      "word_en":"east",
+      "means_en":"One of the four directions"
+   },
+   {
+      "word_id":55,
+      "word":"돛단배",
+      "word_en":"sailing boat",
+      "means_en":"A boat with sails"
+   },
+   {
+      "word_id":56,
+      "word":"돼지",
+      "word_en":"pig",
+      "means_en":"Pig"
+   },
+   {
+      "word_id":57,
+      "word":"뒷마당",
+      "word_en":"backyard",
+      "means_en":"A garden behind a house"
+   },
+   {
+      "word_id":58,
+      "word":"듣다",
+      "word_en":"hear",
+      "means_en":"To recognize a sound through the sensory organs of a person or animal"
+   },
+   {
+      "word_id":59,
+      "word":"들녘",
+      "word_en":"field",
+      "means_en":"The side of a field or field is located"
+   },
+   {
+      "word_id":60,
+      "word":"따개비",
+      "word_en":"barnacle",
+      "means_en":"Arthropods that live in hard places such as rocks, ships, and marine life"
+   },
+   {
+      "word_id":61,
+      "word":"떡볶이",
+      "word_en":"tteokbokki",
+      "means_en":"A food made by seasoning and frying rice cakes and vegetables"
+   },
+   {
+      "word_id":62,
+      "word":"떫다",
+      "word_en":"astringent",
+      "means_en":"To have a strong and dry taste like a young persimmon"
+   },
+   {
+      "word_id":63,
+      "word":"뚜껑",
+      "word_en":"cap",
+      "means_en":"An object that covers a bowl or box"
+   },
+   {
+      "word_id":64,
+      "word":"뚫다",
+      "word_en":"pierce through",
+      "means_en":"Put in an opening"
+   },
+   {
+      "word_id":65,
+      "word":"많다",
+      "word_en":"a lots of",
+      "means_en":"To exceed a certain standard in number, quantity, or degree"
+   },
+   {
+      "word_id":66,
+      "word":"맑다",
+      "word_en":"clear",
+      "means_en":"The condition of not mixing turbid things"
+   },
+   {
+      "word_id":67,
+      "word":"망원경",
+      "word_en":"telescope",
+      "means_en":"A device that makes you see objects in the distance big and accurate"
+   },
+   {
+      "word_id":68,
+      "word":"맞다",
+      "word_en":"right",
+      "means_en":"The answer to the question is correct"
+   },
+   {
+      "word_id":69,
+      "word":"메뉴",
+      "word_en":"menu",
+      "means_en":"A board that lists the types and prices of food sold in restaurants and restaurants"
+   },
+   {
+      "word_id":70,
+      "word":"목걸이",
+      "word_en":"necklace",
+      "means_en":"An accessory worn around neck"
+   },
+   {
+      "word_id":71,
+      "word":"몫",
+      "word_en":"share",
+      "means_en":"Each part divided into several parts"
+   },
+   {
+      "word_id":72,
+      "word":"무궁화",
+      "word_en":"mugunghwa",
+      "means_en":"The national flower of Korea"
+   },
+   {
+      "word_id":73,
+      "word":"무릎",
+      "word_en":"knee",
+      "means_en":"The part that protrudes forward between the thigh and the shin"
+   },
+   {
+      "word_id":74,
+      "word":"묻다",
+      "word_en":"ask",
+      "means_en":"To say something in a way that asks for an answer or explanation from the other party to reveal or find out"
+   },
+   {
+      "word_id":75,
+      "word":"바람",
+      "word_en":"wind",
+      "means_en":"Changes in air pressure or movement of air caused by people or machines"
+   },
+   {
+      "word_id":76,
+      "word":"받다",
+      "word_en":"take",
+      "means_en":"To have something that someone else gives or sends"
+   },
+   {
+      "word_id":77,
+      "word":"밝다",
+      "word_en":"bright",
+      "means_en":"Have a bright light"
+   },
+   {
+      "word_id":78,
+      "word":"버섯",
+      "word_en":"mushroom",
+      "means_en":"Higher fungi of bile and cystic fungi, non-poisonous ones are used for food"
+   },
+   {
+      "word_id":79,
+      "word":"베개",
+      "word_en":"pillow",
+      "means_en":"An object that rests one's head"
+   },
+   {
+      "word_id":80,
+      "word":"병원",
+      "word_en":"hospital",
+      "means_en":"A place equipped for the examination and treatment of a sick person"
+   },
+   {
+      "word_id":81,
+      "word":"볶음밥",
+      "word_en":"fried rice",
+      "means_en":"Food made by cutting vegetables, meat, rice etc. into small pieces and frying them in oil"
+   },
+   {
+      "word_id":82,
+      "word":"부엌",
+      "word_en":"kitchen",
+      "means_en":"A place where food-related work is done, such as cooking and washing dishes, with certain facilities"
+   },
+   {
+      "word_id":83,
+      "word":"빚",
+      "word_en":"debt",
+      "means_en":"Money to pay a person back"
+   },
+   {
+      "word_id":84,
+      "word":"빛",
+      "word_en":"light",
+      "means_en":"Light"
+   },
+   {
+      "word_id":85,
+      "word":"빻다",
+      "word_en":"crush",
+      "means_en":"Crush a dry thing into powder"
+   },
+   {
+      "word_id":86,
+      "word":"빼다",
+      "word_en":"take out",
+      "means_en":"To let something that is embedded, trapped, or embedded out"
+   },
+   {
+      "word_id":87,
+      "word":"뻐꾸기",
+      "word_en":"cuckoo",
+      "means_en":"A cuckooing bird"
+   },
+   {
+      "word_id":88,
+      "word":"뻔하다",
+      "word_en":"obvious",
+      "means_en":"To be as clear as the eye can see the consequences of something"
+   },
+   {
+      "word_id":89,
+      "word":"뽀뽀",
+      "word_en":"kiss",
+      "means_en":"Put lips on cheeks or lips"
+   },
+   {
+      "word_id":90,
+      "word":"사과",
+      "word_en":"apple",
+      "means_en":"Red sweet fruit"
+   },
+   {
+      "word_id":91,
+      "word":"삶",
+      "word_en":"life",
+      "means_en":"A living"
+   },
+   {
+      "word_id":92,
+      "word":"상권",
+      "word_en":"business district",
+      "means_en":"The spatial extent to which commercial transactions are being conducted"
+   },
+   {
+      "word_id":93,
+      "word":"새벽녘",
+      "word_en":"around dawn",
+      "means_en":"At the crack of dawn"
+   },
+   {
+      "word_id":94,
+      "word":"샤워",
+      "word_en":"shower",
+      "means_en":"Washing oneself with showery water"
+   },
+   {
+      "word_id":95,
+      "word":"섞다",
+      "word_en":"mix",
+      "means_en":"Put two or more things together"
+   },
+   {
+      "word_id":96,
+      "word":"섟",
+      "word_en":"a fit of emotion",
+      "means_en":"A fit of emotion"
+   },
+   {
+      "word_id":97,
+      "word":"선생님",
+      "word_en":"teacher",
+      "means_en":"A person who teaches students"
+   },
+   {
+      "word_id":98,
+      "word":"세모",
+      "word_en":"triangle",
+      "means_en":"Flat shape surrounded by three line segments"
+   },
+   {
+      "word_id":99,
+      "word":"소금",
+      "word_en":"salt",
+      "means_en":"Salty white seasoning"
+   },
+   {
+      "word_id":100,
+      "word":"솥밥",
+      "word_en":"Sotbap",
+      "means_en":"Rice cooked in a crockpot"
+   },
+   {
+      "word_id":101,
+      "word":"수레",
+      "word_en":"cart",
+      "means_en":"An object on wheels that rolls."
+   },
+   {
+      "word_id":102,
+      "word":"수박",
+      "word_en":"watermelon",
+      "means_en":"Fleshy red fruit with stripes"
+   },
+   {
+      "word_id":103,
+      "word":"숫자",
+      "word_en":"number",
+      "means_en":"Letters to represent numbers"
+   },
+   {
+      "word_id":104,
+      "word":"시계",
+      "word_en":"clock",
+      "means_en":"A machine or device that measures time or indicates time"
+   },
+   {
+      "word_id":105,
+      "word":"신호등",
+      "word_en":"traffic light",
+      "means_en":"lanterns that are placed on the road to provide information to passing vehicles and people"
+   },
+   {
+      "word_id":106,
+      "word":"싫다",
+      "word_en":"hate",
+      "means_en":"Don't like"
+   },
+   {
+      "word_id":107,
+      "word":"쌀밥",
+      "word_en":"rice",
+      "means_en":"Cooked rice"
+   },
+   {
+      "word_id":108,
+      "word":"쌍꺼풀",
+      "word_en":"double eyelid",
+      "means_en":"Layered eyelids"
+   },
+   {
+      "word_id":109,
+      "word":"쌍둥이",
+      "word_en":"twins",
+      "means_en":"Two children born at the same time to the same mother"
+   },
+   {
+      "word_id":110,
+      "word":"쌓다",
+      "word_en":"stack",
+      "means_en":"Layering and stacking multiple objects"
+   },
+   {
+      "word_id":111,
+      "word":"씨앗",
+      "word_en":"seed",
+      "means_en":"Grain or vegetable seeds"
+   },
+   {
+      "word_id":112,
+      "word":"아들",
+      "word_en":"son",
+      "means_en":"Male child"
+   },
+   {
+      "word_id":113,
+      "word":"아이돌",
+      "word_en":"idol",
+      "means_en":"Young celebrities popular with teens"
+   },
+   {
+      "word_id":114,
+      "word":"앉다",
+      "word_en":"sit",
+      "means_en":"A person or animal stands on their toes and puts their weight on their hips to place their body on an object or the floor"
+   },
+   {
+      "word_id":115,
+      "word":"앞치마",
+      "word_en":"apron",
+      "means_en":"Skirts that cover the front of the body when doing kitchen work"
+   },
+   {
+      "word_id":116,
+      "word":"야구",
+      "word_en":"baseball",
+      "means_en":"A ball game played by two teams with a bat and ball"
+   },
+   {
+      "word_id":117,
+      "word":"얇다",
+      "word_en":"thin",
+      "means_en":"Not thick enough"
+   },
+   {
+      "word_id":118,
+      "word":"양치",
+      "word_en":"brushing teeth",
+      "means_en":"Brush your teeth and gargle with water"
+   },
+   {
+      "word_id":119,
+      "word":"얘기",
+      "word_en":"story",
+      "means_en":"Synonyms for 'story'"
+   },
+   {
+      "word_id":120,
+      "word":"언짢다",
+      "word_en":"unpleasant",
+      "means_en":"Don't like something or it's not good"
+   },
+   {
+      "word_id":121,
+      "word":"얹다",
+      "word_en":"put on",
+      "means_en":"Place on top"
+   },
+   {
+      "word_id":122,
+      "word":"얼굴",
+      "word_en":"face",
+      "means_en":"Front of the head with eyes, nose, and mouth"
+   },
+   {
+      "word_id":123,
+      "word":"없다",
+      "word_en":"have no",
+      "means_en":"People, animals, and objects don't actually exist"
+   },
+   {
+      "word_id":124,
+      "word":"여덟",
+      "word_en":"eight",
+      "means_en":"eight, 8"
+   },
+   {
+      "word_id":125,
+      "word":"연필",
+      "word_en":"pencil",
+      "means_en":"A writing instrument with a slender nib made by baking a mixture of graphite and clay"
+   },
+   {
+      "word_id":126,
+      "word":"열쇠",
+      "word_en":"key",
+      "means_en":"Objects used to lock or unlock locks"
+   },
+   {
+      "word_id":127,
+      "word":"옆",
+      "word_en":"side, next to",
+      "means_en":"The side of an object on the right or left"
+   },
+   {
+      "word_id":128,
+      "word":"온도계",
+      "word_en":"thermometer",
+      "means_en":"An instrument to measure the temperature of an object"
+   },
+   {
+      "word_id":129,
+      "word":"옰",
+      "word_en":"",
+      "means_en":"Payback for doing things wrong"
+   },
+   {
+      "word_id":130,
+      "word":"옳다",
+      "word_en":"right",
+      "means_en":"Be reasonable and appropriate"
+   },
+   {
+      "word_id":131,
+      "word":"옻닭",
+      "word_en":"Otdak",
+      "means_en":"Health food cooked by boiling chicken and lacquer bark together"
+   },
+   {
+      "word_id":132,
+      "word":"왜가리",
+      "word_en":"heron",
+      "means_en":"Birds with long legs, necks, and beaks"
+   },
+   {
+      "word_id":133,
+      "word":"외곬",
+      "word_en":"one way",
+      "means_en":"Only one way to go"
+   },
+   {
+      "word_id":134,
+      "word":"요리",
+      "word_en":"cooking",
+      "means_en":"Making food through the process"
+   },
+   {
+      "word_id":135,
+      "word":"우유",
+      "word_en":"milk",
+      "means_en":"Cow's milk"
+   },
+   {
+      "word_id":136,
+      "word":"운동화",
+      "word_en":"sneakers",
+      "means_en":"Shoes you wear to exercise"
+   },
+   {
+      "word_id":137,
+      "word":"원숭이",
+      "word_en":"monkey",
+      "means_en":"monkey"
+   },
+   {
+      "word_id":138,
+      "word":"웨이터",
+      "word_en":"waiter",
+      "means_en":"Male servers at hotels, western restaurants, bars, tea houses, etc."
+   },
+   {
+      "word_id":139,
+      "word":"위험",
+      "word_en":"danger",
+      "means_en":"There is a risk of harm or loss"
+   },
+   {
+      "word_id":140,
+      "word":"윷놀이",
+      "word_en":"yut",
+      "means_en":"A traditional Korean game in which players take sides and compete in yuks"
+   },
+   {
+      "word_id":141,
+      "word":"읊다",
+      "word_en":"recite",
+      "means_en":"Read poetry aloud with intonation"
+   },
+   {
+      "word_id":142,
+      "word":"응급실",
+      "word_en":"casualty",
+      "means_en":"A room, such as a hospital, equipped to provide first aid to a patient"
+   },
+   {
+      "word_id":143,
+      "word":"의사",
+      "word_en":"doctor",
+      "means_en":"A person whose profession is to cure diseases with medicine and medical techniques"
+   },
+   {
+      "word_id":144,
+      "word":"의심",
+      "word_en":"Suspicion",
+      "means_en":"Unwillingness to trust because you can't be sure"
+   },
+   {
+      "word_id":145,
+      "word":"이의",
+      "word_en":"objection",
+      "means_en":"A different opinion or discussion"
+   },
+   {
+      "word_id":146,
+      "word":"인사",
+      "word_en":"greeting",
+      "means_en":"greeting"
+   },
+   {
+      "word_id":147,
+      "word":"입술",
+      "word_en":"lip",
+      "means_en":"The thin, soft flesh that lines the upper and lower edges of a mammal's mouth"
+   },
+   {
+      "word_id":148,
+      "word":"있다",
+      "word_en":"be",
+      "means_en":"A person, animal, or object actually exists."
+   },
+   {
+      "word_id":149,
+      "word":"잊다",
+      "word_en":"forget",
+      "means_en":"Don't remember or remember what I knew"
+   },
+   {
+      "word_id":150,
+      "word":"쟤",
+      "word_en":"",
+      "means_en":"Synonyms for "
+   },
+   {
+      "word_id":151,
+      "word":"젊다",
+      "word_en":"young",
+      "means_en":"Be at the height of one's age"
+   },
+   {
+      "word_id":152,
+      "word":"점심",
+      "word_en":"lunch",
+      "means_en":"From noon to half a day"
+   },
+   {
+      "word_id":153,
+      "word":"젓가락",
+      "word_en":"chopstick",
+      "means_en":"A pair of sticks used to pick up food or objects"
+   },
+   {
+      "word_id":154,
+      "word":"주의",
+      "word_en":"caution",
+      "means_en":"Keep it in mind and be careful"
+   },
+   {
+      "word_id":155,
+      "word":"지갑",
+      "word_en":"purse",
+      "means_en":"Small containers made to hold money, cards, certificates, etc."
+   },
+   {
+      "word_id":156,
+      "word":"직업",
+      "word_en":"job",
+      "means_en":"What one does for a certain period of time according to one's aptitude and ability to make a living"
+   },
+   {
+      "word_id":157,
+      "word":"짊어지다",
+      "word_en":"carry",
+      "means_en":"To take one's burden in a lump"
+   },
+   {
+      "word_id":158,
+      "word":"짜장면",
+      "word_en":"jjajangmyun",
+      "means_en":"Chinese food made by stir-frying noodles, chunjang, vegetables, and meat"
+   },
+   {
+      "word_id":159,
+      "word":"짧다",
+      "word_en":"short",
+      "means_en":"The two ends of a contiguous space or object are close together"
+   },
+   {
+      "word_id":160,
+      "word":"짬뽕",
+      "word_en":"jjambbong",
+      "means_en":"Chinese food made with spicy soup and stir-fried noodles and seafood or vegetables"
+   },
+   {
+      "word_id":161,
+      "word":"쪽지",
+      "word_en":"note",
+      "means_en":"Small pieces of paper"
+   },
+   {
+      "word_id":162,
+      "word":"참외",
+      "word_en":"oriental melon",
+      "means_en":"Small yellow melon with a sweet taste"
+   },
+   {
+      "word_id":163,
+      "word":"창문",
+      "word_en":"window",
+      "means_en":"A door in a wall or roof that lets in air or sunlight and allows you to look out"
+   },
+   {
+      "word_id":164,
+      "word":"체조",
+      "word_en":"gymnastics",
+      "means_en":"Move body in a structured way to promote even development and health of each part of the body"
+   },
+   {
+      "word_id":165,
+      "word":"축구",
+      "word_en":"football",
+      "means_en":"A sport in which the main objective is to kick the ball into the opponent's goal as many times as possible"
+   },
+   {
+      "word_id":166,
+      "word":"친구",
+      "word_en":"friend",
+      "means_en":"Someone have been close to for a long time"
+   },
+   {
+      "word_id":167,
+      "word":"침대",
+      "word_en":"bed",
+      "means_en":"Furniture made for people to lie down and sleep on"
+   },
+   {
+      "word_id":168,
+      "word":"칫솔",
+      "word_en":"toothbrush",
+      "means_en":"A brush for brushing your teeth"
+   },
+   {
+      "word_id":169,
+      "word":"카드",
+      "word_en":"card",
+      "means_en":"Thick paper or plastic cut into small pieces of consistent size"
+   },
+   {
+      "word_id":170,
+      "word":"카레",
+      "word_en":"curry",
+      "means_en":"A dish of meat, potatoes, onions and other vegetables cooked in a broth and flavoured with turmeric"
+   },
+   {
+      "word_id":171,
+      "word":"카메라",
+      "word_en":"camera",
+      "means_en":"A machine that takes pictures"
+   },
+   {
+      "word_id":172,
+      "word":"커피",
+      "word_en":"coffee",
+      "means_en":"Black, bitter tea made by adding coffee powder to boiled water"
+   },
+   {
+      "word_id":173,
+      "word":"코끼리",
+      "word_en":"elephant",
+      "means_en":"Large animals with long noses and large ears"
+   },
+   {
+      "word_id":174,
+      "word":"콜라",
+      "word_en":"coke",
+      "means_en":"A soft drink made from the seeds of the kola tree and the leaves of coca"
+   },
+   {
+      "word_id":175,
+      "word":"탈락",
+      "word_en":"drop out",
+      "means_en":"Falling out or missing of range"
+   },
+   {
+      "word_id":176,
+      "word":"태권도",
+      "word_en":"taekwondo",
+      "means_en":"Exercises based on traditional Korean martial arts"
+   },
+   {
+      "word_id":177,
+      "word":"통곬",
+      "word_en":"",
+      "means_en":"Where multiple streams of water converge into a single pool"
+   },
+   {
+      "word_id":178,
+      "word":"튜브",
+      "word_en":"tube",
+      "means_en":"An inflatable rubber tube that floats on water"
+   },
+   {
+      "word_id":179,
+      "word":"펭귄",
+      "word_en":"penguin",
+      "means_en":"A flightless bird that lives in flocks on beaches, mainly in Antarctica"
+   },
+   {
+      "word_id":180,
+      "word":"표범",
+      "word_en":"leopard",
+      "means_en":"A large feline animal with a black, rounded pattern on its body"
+   },
+   {
+      "word_id":181,
+      "word":"품삯",
+      "word_en":"wages for  labor",
+      "means_en":"Money received or given for work done"
+   },
+   {
+      "word_id":182,
+      "word":"학교",
+      "word_en":"school",
+      "means_en":"An institution that provides education to students on a continuous basis, in accordance with certain purposes, curricula, facilities, institutions and laws"
+   },
+   {
+      "word_id":183,
+      "word":"한국",
+      "word_en":"Korea",
+      "means_en":"Korea"
+   },
+   {
+      "word_id":184,
+      "word":"한글",
+      "word_en":"Hangeul",
+      "means_en":"Korean characters"
+   },
+   {
+      "word_id":185,
+      "word":"핥다",
+      "word_en":"lick",
+      "means_en":"Run your tongue over the surface of the object, lightly touching it"
+   },
+   {
+      "word_id":186,
+      "word":"해질녘",
+      "word_en":"sunset",
+      "means_en":"When the sun goes down"
+   },
+   {
+      "word_id":187,
+      "word":"헝겊",
+      "word_en":"patch",
+      "means_en":"A piece of fabric"
+   },
+   {
+      "word_id":188,
+      "word":"훑다",
+      "word_en":"skim",
+      "means_en":"Grope or sweep through a range of porridge, starting on one side"
+   },
+   {
+      "word_id":189,
+      "word":"훼방꾼",
+      "word_en":"disruptor",
+      "means_en":"A person who interferes with a person's work"
+   },
+   {
+      "word_id":190,
+      "word":"휴지",
+      "word_en":"toilet roll",
+      "means_en":"Thin piece of papers that are used in any way"
+   },
+   {
+      "word_id":191,
+      "word":"대학생",
+      "word_en":"university(college) student, undergraduate, collegian",
+      "means_en":"Student in university(college)"
+   },
+   {
+      "word_id":192,
+      "word":"학생",
+      "word_en":"student",
+      "means_en":"A person who is studying at a school, college, or university etc."
+   },
+   {
+      "word_id":193,
+      "word":"일학년",
+      "word_en":"first-year student, freshmen",
+      "means_en":"First year student"
+   },
+   {
+      "word_id":194,
+      "word":"이학년",
+      "word_en":"second-year student, sophomore",
+      "means_en":"Second year student"
+   },
+   {
+      "word_id":195,
+      "word":"삼학년",
+      "word_en":"third-year student",
+      "means_en":"Third year student"
+   },
+   {
+      "word_id":196,
+      "word":"사학년",
+      "word_en":"fourth-year student",
+      "means_en":"Fourth year student"
+   },
+   {
+      "word_id":197,
+      "word":"경영학도",
+      "word_en":"an business student",
+      "means_en":"A student in business administration"
+   },
+   {
+      "word_id":198,
+      "word":"미술학도",
+      "word_en":"an art student",
+      "means_en":"A student in art"
+   },
+   {
+      "word_id":199,
+      "word":"공학도",
+      "word_en":"an engineering student",
+      "means_en":"A student in engineering"
+   },
+   {
+      "word_id":200,
+      "word":"가수",
+      "word_en":"singer",
+      "means_en":"A person who makes singing a profession"
+   },
+   {
+      "word_id":201,
+      "word":"배우",
+      "word_en":"actor, actress",
+      "means_en":"The occupation of acting in a play, television, film, etc"
+   },
+   {
+      "word_id":202,
+      "word":"라면",
+      "word_en":"ramyeon",
+      "means_en":"Instant food made by steam-cooking and frying noodles in oil"
+   },
+   {
+      "word_id":203,
+      "word":"오뎅",
+      "word_en":"oden",
+      "means_en":"Food made by mashing fish flesh, mixing it with flour, and then cooking it to coagulate it"
+   },
+   {
+      "word_id":204,
+      "word":"순대",
+      "word_en":"sundae",
+      "means_en":"A dish made by boiling steel noodles in the intestines of a pig"
+   },
+   {
+      "word_id":205,
+      "word":"찹쌀",
+      "word_en":"sticky rice",
+      "means_en":"Rice made from pounded glutinous rice"
+   },
+   {
+      "word_id":206,
+      "word":"호떡",
+      "word_en":"hotteok",
+      "means_en":"Food made by kneading flour or glutinous rice flour, adding sugar, and baking in oil"
+   },
+   {
+      "word_id":207,
+      "word":"쫄면",
+      "word_en":"jjolmyeon",
+      "means_en":"Noodles mixed with vegetables and red pepper paste seasoning"
+   },
+   {
+      "word_id":208,
+      "word":"만두",
+      "word_en":"dumpling",
+      "means_en":"Food made by kneading wheat flour, etc., and adding stuffing to it"
+   },
+   {
+      "word_id":209,
+      "word":"튀김",
+      "word_en":"fried dish",
+      "means_en":"food stuffed in flour and fried in oil"
+   },
+   {
+      "word_id":210,
+      "word":"백반",
+      "word_en":"backban",
+      "means_en":"A one-sang food that is sold with rice, soup, and a few side dishes"
+   },
+   {
+      "word_id":211,
+      "word":"김치찌개",
+      "word_en":"Kimchi Jjigae",
+      "means_en":"Jjigae made with kimchi, like stew"
+   },
+   {
+      "word_id":212,
+      "word":"된장찌개",
+      "word_en":"Doenjang-jjigae",
+      "means_en":"Jjigae made with Doenjang(soy paste), like stew"
+   },
+   {
+      "word_id":213,
+      "word":"돈가스",
+      "word_en":"pork cuttlet",
+      "means_en":"Breaded pork fried in oil"
+   },
+   {
+      "word_id":214,
+      "word":"갈비탕",
+      "word_en":"galbitang",
+      "means_en":"Boiled soup with beef ribs"
+   },
+   {
+      "word_id":215,
+      "word":"제육볶음",
+      "word_en":"Jeyuk-bokkeum",
+      "means_en":"Stir-fried pork with spicy seasoning and vegetables"
+   },
+   {
+      "word_id":216,
+      "word":"냉면",
+      "word_en":"naengmyeon",
+      "means_en":"cold noodles."
+   },
+   {
+      "word_id":217,
+      "word":"김치볶음밥",
+      "word_en":"kimchi fried rice",
+      "means_en":"Stir-fried kimchi and other ingredients with rice"
+   },
+   {
+      "word_id":218,
+      "word":"오무라이스",
+      "word_en":"omurice",
+      "means_en":"Stir-fried vegetables and ham with rice and topped with an omelet"
+   },
+   {
+      "word_id":219,
+      "word":"삼계탕",
+      "word_en":"samgyetang",
+      "means_en":"Food that has been boiled for a long time with various aphrodisiacs and ingredients together with chicken"
+   },
+   {
+      "word_id":220,
+      "word":"국밥",
+      "word_en":"rice soup",
+      "means_en":"Food eaten by rolling rice in soup that has been simmered for a long time"
+   },
+   {
+      "word_id":221,
+      "word":"파닭",
+      "word_en":"green onion chicken",
+      "means_en":"Chicken topped with thinly sliced ​​scallions"
+   },
+   {
+      "word_id":222,
+      "word":"순살치킨",
+      "word_en":"boneless chicken",
+      "means_en":"Boneless Fried Chicken"
+   },
+   {
+      "word_id":223,
+      "word":"양념치킨",
+      "word_en":"seasoned chicken",
+      "means_en":"Chicken mixed with seasoning sauce"
+   },
+   {
+      "word_id":224,
+      "word":"마늘닭",
+      "word_en":"garlic chicken",
+      "means_en":"Grilled chicken stuffed with garlic inside the chicken belly"
+   },
+   {
+      "word_id":225,
+      "word":"후라이드치킨",
+      "word_en":"fried chicken",
+      "means_en":"Food fried in oil with chicken in batter"
+   },
+   {
+      "word_id":226,
+      "word":"반반치킨",
+      "word_en":"half and half chicken",
+      "means_en":"Two flavors of chicken with different seasonings for each half"
+   },
+   {
+      "word_id":227,
+      "word":"핫윙",
+      "word_en":"hot wing",
+      "means_en":"Fried chicken raw crab mixed with spicy seasoning"
+   },
+   {
+      "word_id":228,
+      "word":"맵떡치킨",
+      "word_en":"maple rice cake chicken",
+      "means_en":"Chicken and rice cake mixed with spicy seasoning"
+   },
+   {
+      "word_id":229,
+      "word":"닭개장",
+      "word_en":"dak gaejang",
+      "means_en":"Chicken stewed for a long time with various vegetables such as bracken and bean sprouts"
+   },
+   {
+      "word_id":230,
+      "word":"찜닭",
+      "word_en":"steamed chicken",
+      "means_en":"A dish made by steaming chicken with soy sauce and various ingredients"
+   },
+   {
+      "word_id":231,
+      "word":"닭도리탕",
+      "word_en":"chicken doritang",
+      "means_en":"Food made by adding red pepper paste with various ingredients and steaming chicken"
+   },
+   {
+      "word_id":232,
+      "word":"닭봉조림",
+      "word_en":"braised chicken",
+      "means_en":"Chicken wings stewed in soy sauce"
+   },
+   {
+      "word_id":233,
+      "word":"샐러드",
+      "word_en":"salad",
+      "means_en":"Food mixed with vegetables and ingredients that can be eaten lightly"
+   },
+   {
+      "word_id":234,
+      "word":"샌드위치",
+      "word_en":"sandwich",
+      "means_en":"Food eaten with fresh ingredients between bread"
+   },
+   {
+      "word_id":235,
+      "word":"피자",
+      "word_en":"pizza",
+      "means_en":"A food that is eaten by putting various ingredients on top of dough and grilling them"
+   },
+   {
+      "word_id":236,
+      "word":"스파게티",
+      "word_en":"spaghetti",
+      "means_en":"A type of pasta that is eaten by adding various sauces to flour noodles and mixing them together"
+   },
+   {
+      "word_id":237,
+      "word":"베이글",
+      "word_en":"bagel",
+      "means_en":"Donut-shaped bread made by adding yeast to wheat flour and adding boiling water to it"
+   },
+   {
+      "word_id":238,
+      "word":"스테이크",
+      "word_en":"steak",
+      "means_en":"Grill thick meat or cook in a earthquake"
+   },
+   {
+      "word_id":239,
+      "word":"햄버거",
+      "word_en":"hamburger",
+      "means_en":"A dish in which toasted bread is stacked with patties, vegetables, etc."
+   },
+   {
+      "word_id":240,
+      "word":"나물",
+      "word_en":"namul",
+      "means_en":"Korean style seasoned vegetables "
+   },
+   {
+      "word_id":241,
+      "word":"깍두기",
+      "word_en":"kkakdugi",
+      "means_en":"Sliced radish kimchi"
+   },
+   {
+      "word_id":242,
+      "word":"반찬",
+      "word_en":"banchan",
+      "means_en":"A side dish served with a meal; Korean restaurants basically serve several side dishes"
+   },
+   {
+      "word_id":243,
+      "word":"떡국",
+      "word_en":"tteokguk",
+      "means_en":"Korean rice cake soup"
+   },
+   {
+      "word_id":244,
+      "word":"삼겹살",
+      "word_en":"samgyeopsal",
+      "means_en":"The most popular pork part in Korea"
+   },
+   {
+      "word_id":245,
+      "word":"맥주",
+      "word_en":"beer",
+      "means_en":"Beer; lager is more common in Korea than ale"
+   },
+   {
+      "word_id":246,
+      "word":"소주",
+      "word_en":"soju",
+      "means_en":"Korean distilled liquor; most popular liquor with beer"
+   },
+   {
+      "word_id":247,
+      "word":"막걸리",
+      "word_en":"makgeolli",
+      "means_en":"Korean traditional raw rice wine"
+   },
+   {
+      "word_id":248,
+      "word":"소맥",
+      "word_en":"somaek",
+      "means_en":"cocktail made with soju and beer"
+   },
+   {
+      "word_id":249,
+      "word":"힙합",
+      "word_en":"hiphop",
+      "means_en":"Dynamic dance and music that became popular in the U.S. in the 1980s; in Korea, usually means rap"
+   },
+   {
+      "word_id":250,
+      "word":"케이팝",
+      "word_en":"k-pop",
+      "means_en":"Korean pop music, mainly dance and hip-hop"
+   },
+   {
+      "word_id":251,
+      "word":"애교",
+      "word_en":"aegyo",
+      "means_en":"Gestures, facial expressions, and voices made to look cute to others"
+   },
+   {
+      "word_id":252,
+      "word":"고시원",
+      "word_en":"gosiwon",
+      "means_en":"Cheap dormitories where people preparing for bar exams and civil service exams stayed and studied"
+   },
+   {
+      "word_id":253,
+      "word":"고수",
+      "word_en":"gosu",
+      "means_en":"Someone who's good at something, especially in games"
+   },
+   {
+      "word_id":254,
+      "word":"팬",
+      "word_en":"fan",
+      "means_en":"A person who is enthusiastic about sports events, athletes, plays, movies, music, actors, singers, etc"
+   },
+   {
+      "word_id":255,
+      "word":"팬클럽",
+      "word_en":"fan club",
+      "means_en":"A group of fans; especially fans who pay membership fees to their favorite entertainer's agency"
+   },
+   {
+      "word_id":256,
+      "word":"본진",
+      "word_en":"Ult",
+      "means_en":"Favorite k-pop group"
+   },
+   {
+      "word_id":257,
+      "word":"최애",
+      "word_en":"bias",
+      "means_en":"Favorite person (or character)"
+   },
+   {
+      "word_id":258,
+      "word":"차애",
+      "word_en":"second bias",
+      "means_en":"Second favorite person (or character)"
+   },
+   {
+      "word_id":259,
+      "word":"입덕",
+      "word_en":"crush",
+      "means_en":"To become a mania for something"
+   },
+   {
+      "word_id":260,
+      "word":"안티팬",
+      "word_en":"anti fan",
+      "means_en":"Haters ; someone who hates certain celebrities or athletes for no particular reason, and tries to hurt their popularity"
+   },
+   {
+      "word_id":261,
+      "word":"주접",
+      "word_en":"jujup",
+      "means_en":"Exaggerated words and actions that come out because someone like something so much"
+   },
+   {
+      "word_id":262,
+      "word":"음반 깡패",
+      "word_en":"digital monster",
+      "means_en":"digital monster; Idols(singers) with Very High Record Sales"
+   },
+   {
+      "word_id":263,
+      "word":"연습생",
+      "word_en":"trainee",
+      "means_en":"Someone who is trained to dance and sing for several years before debut as an idol; For short, 'Yeonsaeng'"
+   },
+   {
+      "word_id":264,
+      "word":"데뷔",
+      "word_en":"debut",
+      "means_en":"First appearance in a certain field of activity; for idols, the release of their first single album, the first stage, etc"
+   },
+   {
+      "word_id":265,
+      "word":"컴백",
+      "word_en":"comeback",
+      "means_en":"an artist’s return to music after a long break or after they’ve been cancelled; idol or a group releases a new song"
+   },
+   {
+      "word_id":266,
+      "word":"엔딩요정",
+      "word_en":"ending fairy",
+      "means_en":"The member who gets caught on the screen at the end of a K-pop group's live performance"
+   },
+   {
+      "word_id":267,
+      "word":"리더",
+      "word_en":"Leader",
+      "means_en":"The member who leads the group, also often speaks on behalf of the group at award ceremonies or interviews"
+   },
+   {
+      "word_id":268,
+      "word":"비주얼",
+      "word_en":"Visual",
+      "means_en":"The most attractive member of a group based on Korean beauty standards"
+   },
+   {
+      "word_id":269,
+      "word":"센터",
+      "word_en":"Center",
+      "means_en":"The member who is most often in the center of a group’s choreography"
+   },
+   {
+      "word_id":270,
+      "word":"성덕",
+      "word_en":"Seongdeok",
+      "means_en":"A successful fan; a successful person in one's favorite field"
+   },
+   {
+      "word_id":271,
+      "word":"탈덕",
+      "word_en":"Taldeok",
+      "means_en":"leave a fan club; cease liking someone or something"
+   },
+   {
+      "word_id":272,
+      "word":"직캠",
+      "word_en":"FanCam",
+      "means_en":"An idol video filmed by a fan"
+   },
+   {
+      "word_id":273,
+      "word":"소속사",
+      "word_en":"Agency",
+      "means_en":"Entertainment companies that manages celebrities"
+   },
+   {
+      "word_id":274,
+      "word":"음방",
+      "word_en":"EumBang",
+      "means_en":"Music Broadcasting that many singers and idol stars show performances"
+   },
+   {
+      "word_id":275,
+      "word":"공방",
+      "word_en":"GongBang",
+      "means_en":"Public broadcasting; the act of attending pre-recordings of concerts and events broadcast on music broadcasts"
+   },
+   {
+      "word_id":276,
+      "word":"스밍",
+      "word_en":"seuming",
+      "means_en":"Short for 'streaming'; playing music files or videos in real time while connected to the Internet"
+   },
+   {
+      "word_id":277,
+      "word":"총공",
+      "word_en":"chonggong",
+      "means_en":"Short for 'total attack'; showing group action under the leadership of the management team to achieve the desired purpose in the idol fandom"
+   },
+   {
+      "word_id":278,
+      "word":"남돌",
+      "word_en":"namdol",
+      "means_en":"Idol boy group"
+   },
+   {
+      "word_id":279,
+      "word":"여돌",
+      "word_en":"yeodol",
+      "means_en":"Idol girl group"
+   },
+   {
+      "word_id":280,
+      "word":"음식",
+      "word_en":"food",
+      "means_en":"something that people and animals eat"
+   },
+   {
+      "word_id":281,
+      "word":"불고기",
+      "word_en":"bulgogi",
+      "means_en":"Korean food that is marinated and grilled with thin slices of lean meat"
+   },
+   {
+      "word_id":282,
+      "word":"비빔밥",
+      "word_en":"bibimbap",
+      "means_en":"Korean food mixed with meat, vegetables, and other spices"
+   },
+   {
+      "word_id":283,
+      "word":"식재료",
+      "word_en":"(food) ingredient",
+      "means_en":"Ingredients used to make food"
+   },
+   {
+      "word_id":284,
+      "word":"양파",
+      "word_en":"onion",
+      "means_en":"onion"
+   },
+   {
+      "word_id":285,
+      "word":"마늘",
+      "word_en":"garlic",
+      "means_en":"garlic"
+   },
+   {
+      "word_id":286,
+      "word":"파",
+      "word_en":"spring onion",
+      "means_en":"spring onion"
+   },
+   {
+      "word_id":287,
+      "word":"고추",
+      "word_en":"chili",
+      "means_en":"chili"
+   },
+   {
+      "word_id":288,
+      "word":"당근",
+      "word_en":"carrot",
+      "means_en":"carrot"
+   },
+   {
+      "word_id":289,
+      "word":"고구마",
+      "word_en":"sweet potato",
+      "means_en":"sweet potato"
+   },
+   {
+      "word_id":290,
+      "word":"채소",
+      "word_en":"vegetable",
+      "means_en":"vegetable"
+   },
+   {
+      "word_id":291,
+      "word":"과일",
+      "word_en":"fruits",
+      "means_en":"fruits"
+   },
+   {
+      "word_id":292,
+      "word":"양상추",
+      "word_en":"lettuce",
+      "means_en":"lettuce"
+   },
+   {
+      "word_id":293,
+      "word":"양배추",
+      "word_en":"cabbage",
+      "means_en":"cabbage"
+   },
+   {
+      "word_id":294,
+      "word":"딸기",
+      "word_en":"strawberry",
+      "means_en":"strawberry"
+   },
+   {
+      "word_id":295,
+      "word":"복숭아",
+      "word_en":"peach",
+      "means_en":"peach"
+   },
+   {
+      "word_id":296,
+      "word":"귤",
+      "word_en":"tangerine",
+      "means_en":"tangerine"
+   },
+   {
+      "word_id":297,
+      "word":"포도",
+      "word_en":"grape",
+      "means_en":"grape"
+   },
+   {
+      "word_id":298,
+      "word":"고기",
+      "word_en":"meat",
+      "means_en":"meat"
+   },
+   {
+      "word_id":299,
+      "word":"소고기",
+      "word_en":"beef",
+      "means_en":"beef"
+   },
+   {
+      "word_id":300,
+      "word":"돼지고기",
+      "word_en":"pork",
+      "means_en":"pork"
+   },
+   {
+      "word_id":301,
+      "word":"닭고기",
+      "word_en":"chicken meat",
+      "means_en":"chicken meat"
+   },
+   {
+      "word_id":302,
+      "word":"생선",
+      "word_en":"fish",
+      "means_en":"fish"
+   },
+   {
+      "word_id":303,
+      "word":"계란",
+      "word_en":"egg",
+      "means_en":"egg"
+   },
+   {
+      "word_id":304,
+      "word":"간장",
+      "word_en":"soy sauce",
+      "means_en":"Soy sauce"
+   },
+   {
+      "word_id":305,
+      "word":"고추장",
+      "word_en":"gochujang",
+      "means_en":"Red pepper paste"
+   },
+   {
+      "word_id":306,
+      "word":"설탕",
+      "word_en":"sugar",
+      "means_en":"sugar"
+   },
+   {
+      "word_id":307,
+      "word":"식용유",
+      "word_en":"cooking oil",
+      "means_en":"cooking oil"
+   },
+   {
+      "word_id":308,
+      "word":"밀가루",
+      "word_en":"flour",
+      "means_en":"flour"
+   },
+   {
+      "word_id":309,
+      "word":"땅콩",
+      "word_en":"peanut",
+      "means_en":"peanut"
+   },
+   {
+      "word_id":310,
+      "word":"고춧가루",
+      "word_en":"Red pepper powder",
+      "means_en":"Red pepper powder"
+   },
+   {
+      "word_id":311,
+      "word":"된장",
+      "word_en":"doenjang",
+      "means_en":"A type of paste fermented bean lumps in salt water; soybean paste"
+   },
+   {
+      "word_id":312,
+      "word":"쌈장",
+      "word_en":"ssamjang",
+      "means_en":"a paste made by mixing soybean paste and red pepper paste; usually eaten with Korean BBQ"
+   },
+   {
+      "word_id":313,
+      "word":"후추",
+      "word_en":"pepper",
+      "means_en":"pepper"
+   },
+   {
+      "word_id":314,
+      "word":"미국",
+      "word_en":"America, US",
+      "means_en":"America, US"
+   },
+   {
+      "word_id":315,
+      "word":"영국",
+      "word_en":"The Great Britain, United Kingdom",
+      "means_en":"The Great Britain, United Kingdom"
+   },
+   {
+      "word_id":316,
+      "word":"중국",
+      "word_en":"China",
+      "means_en":"China"
+   },
+   {
+      "word_id":317,
+      "word":"일본",
+      "word_en":"Japan",
+      "means_en":"Japan"
+   },
+   {
+      "word_id":318,
+      "word":"사람",
+      "word_en":"person, man,people",
+      "means_en":"human"
+   },
+   {
+      "word_id":319,
+      "word":"학년",
+      "word_en":"school year, grade",
+      "means_en":"school year, grade"
+   },
+   {
+      "word_id":320,
+      "word":"경영학",
+      "word_en":"business (academic discipline)",
+      "means_en":"The study of corporate management"
+   },
+   {
+      "word_id":321,
+      "word":"국제학",
+      "word_en":"international studies",
+      "means_en":"The study of international relations systematically"
+   },
+   {
+      "word_id":322,
+      "word":"생물학",
+      "word_en":"biology",
+      "means_en":"The study of life phenomena and the physical structure, chemical processes, molecular interactions, physiological mechanisms, occurrence and evolution of living life"
+   },
+   {
+      "word_id":323,
+      "word":"심리학",
+      "word_en":"psychology (study)",
+      "means_en":"The scientific study of human behavior and psychological processes"
+   },
+   {
+      "word_id":324,
+      "word":"대학원생",
+      "word_en":"graduate student ",
+      "means_en":"A person who holds a bachelor's degree or equivalent degree conducting advanced academic theory and experimental research"
+   },
+   {
+      "word_id":325,
+      "word":"문화",
+      "word_en":"culture",
+      "means_en":"The main mode of action or symbolic system of a society"
+   },
+   {
+      "word_id":326,
+      "word":"서울",
+      "word_en":"Seoul",
+      "means_en":"Capital of Korea"
+   },
+   {
+      "word_id":327,
+      "word":"인천",
+      "word_en":"Incheon",
+      "means_en":"City in northwestern part of Korea"
+   },
+   {
+      "word_id":328,
+      "word":"대전",
+      "word_en":"Daejeon",
+      "means_en":"City in the center of Korea"
+   },
+   {
+      "word_id":329,
+      "word":"광주",
+      "word_en":"Gwangju",
+      "means_en":"City in southwestern part of Korea"
+   },
+   {
+      "word_id":330,
+      "word":"대구",
+      "word_en":"Daegu",
+      "means_en":"City in southeastern part of Korea"
+   },
+   {
+      "word_id":331,
+      "word":"울산",
+      "word_en":"Ulsan",
+      "means_en":"City in southeastern part of Korea"
+   },
+   {
+      "word_id":332,
+      "word":"부산",
+      "word_en":"Busan",
+      "means_en":"City in southern part of Korea"
+   },
+   {
+      "word_id":333,
+      "word":"수학",
+      "word_en":"math",
+      "means_en":"A study dealing with the concepts of number, quantity, structure, space, change, etc"
+   },
+   {
+      "word_id":334,
+      "word":"역사",
+      "word_en":"history",
+      "means_en":"A study on the process of transformation and rise and fall of human society and the records left in the past"
+   },
+   {
+      "word_id":335,
+      "word":"영어",
+      "word_en":"English",
+      "means_en":"English"
+   },
+   {
+      "word_id":336,
+      "word":"음악",
+      "word_en":"music",
+      "means_en":"The art of expressing thoughts or feelings through the voice or instrument"
+   },
+   {
+      "word_id":337,
+      "word":"일본어",
+      "word_en":"Japanese",
+      "means_en":"Japanese"
+   },
+   {
+      "word_id":338,
+      "word":"정치학",
+      "word_en":"political science",
+      "means_en":"political science"
+   },
+   {
+      "word_id":339,
+      "word":"중국어",
+      "word_en":"Chinese",
+      "means_en":"Chinese"
+   },
+   {
+      "word_id":340,
+      "word":"한국어",
+      "word_en":"Korean",
+      "means_en":"Korean"
+   },
+   {
+      "word_id":341,
+      "word":"기숙사",
+      "word_en":"dormitory",
+      "means_en":"dormitory"
+   },
+   {
+      "word_id":342,
+      "word":"노래",
+      "word_en":"song",
+      "means_en":"song"
+   },
+   {
+      "word_id":343,
+      "word":"망고",
+      "word_en":"mango",
+      "means_en":"mango"
+   },
+   {
+      "word_id":344,
+      "word":"바다",
+      "word_en":"sea, ocean",
+      "means_en":"sea, ocean"
+   },
+   {
+      "word_id":345,
+      "word":"아이스크림",
+      "word_en":"ice cream",
+      "means_en":"ice cream"
+   },
+   {
+      "word_id":346,
+      "word":"언어",
+      "word_en":"language",
+      "means_en":"language"
+   },
+   {
+      "word_id":347,
+      "word":"영화",
+      "word_en":"movie",
+      "means_en":"movie"
+   },
+   {
+      "word_id":348,
+      "word":"이탈리아",
+      "word_en":"Italy",
+      "means_en":"Italy"
+   },
+   {
+      "word_id":349,
+      "word":"치즈",
+      "word_en":"cheese",
+      "means_en":"cheese"
+   },
+   {
+      "word_id":350,
+      "word":"장소",
+      "word_en":"place",
+      "means_en":"place"
+   },
+   {
+      "word_id":351,
+      "word":"법원",
+      "word_en":"court",
+      "means_en":"court"
+   },
+   {
+      "word_id":352,
+      "word":"경찰서",
+      "word_en":"police station",
+      "means_en":"police station"
+   },
+   {
+      "word_id":353,
+      "word":"소방서",
+      "word_en":"fire Station",
+      "means_en":"fire Station"
+   },
+   {
+      "word_id":354,
+      "word":"초등학교",
+      "word_en":"elementary school",
+      "means_en":"elementary school"
+   },
+   {
+      "word_id":355,
+      "word":"중학교",
+      "word_en":"middle school",
+      "means_en":"middle school"
+   },
+   {
+      "word_id":356,
+      "word":"고등학교",
+      "word_en":"high school",
+      "means_en":"high school"
+   },
+   {
+      "word_id":357,
+      "word":"미용실",
+      "word_en":"hair salon",
+      "means_en":"hair salon"
+   },
+   {
+      "word_id":358,
+      "word":"이발소",
+      "word_en":"barbershop",
+      "means_en":"barbershop"
+   },
+   {
+      "word_id":359,
+      "word":"식당",
+      "word_en":"restaurant",
+      "means_en":"restaurant"
+   },
+   {
+      "word_id":360,
+      "word":"공원",
+      "word_en":"park",
+      "means_en":"park"
+   },
+   {
+      "word_id":361,
+      "word":"도서관",
+      "word_en":"library",
+      "means_en":"library"
+   },
+   {
+      "word_id":362,
+      "word":"미술관",
+      "word_en":"art museum",
+      "means_en":"art museum"
+   },
+   {
+      "word_id":363,
+      "word":"박물관",
+      "word_en":"museum",
+      "means_en":"museum"
+   },
+   {
+      "word_id":364,
+      "word":"영화관",
+      "word_en":"cinema",
+      "means_en":"cinema"
+   },
+   {
+      "word_id":365,
+      "word":"극장",
+      "word_en":"theater",
+      "means_en":"theater"
+   },
+   {
+      "word_id":366,
+      "word":"방향",
+      "word_en":"direction",
+      "means_en":"direction"
+   },
+   {
+      "word_id":367,
+      "word":"위",
+      "word_en":"Above, on, up",
+      "means_en":"Above, on, up"
+   },
+   {
+      "word_id":368,
+      "word":"아래",
+      "word_en":"under",
+      "means_en":"under"
+   },
+   {
+      "word_id":369,
+      "word":"왼쪽",
+      "word_en":"left",
+      "means_en":"left"
+   },
+   {
+      "word_id":370,
+      "word":"오른쪽",
+      "word_en":"right",
+      "means_en":"right"
+   },
+   {
+      "word_id":371,
+      "word":"뒤",
+      "word_en":"back",
+      "means_en":"back"
+   },
+   {
+      "word_id":372,
+      "word":"앞",
+      "word_en":"front",
+      "means_en":"front"
+   },
+   {
+      "word_id":373,
+      "word":"월요일",
+      "word_en":"Monday",
+      "means_en":"Monday"
+   },
+   {
+      "word_id":374,
+      "word":"화요일",
+      "word_en":"Tuesday",
+      "means_en":"Tuesday"
+   },
+   {
+      "word_id":375,
+      "word":"수요일",
+      "word_en":"Wednesday",
+      "means_en":"Wednesday"
+   },
+   {
+      "word_id":376,
+      "word":"목요일",
+      "word_en":"Thursday",
+      "means_en":"Thursday"
+   },
+   {
+      "word_id":377,
+      "word":"금요일",
+      "word_en":"Friday",
+      "means_en":"Friday"
+   },
+   {
+      "word_id":378,
+      "word":"토요일",
+      "word_en":"Saturday",
+      "means_en":"Saturday"
+   },
+   {
+      "word_id":379,
+      "word":"일요일",
+      "word_en":"Sunday",
+      "means_en":"Sunday"
+   },
+   {
+      "word_id":380,
+      "word":"가족",
+      "word_en":"family",
+      "means_en":"family"
+   },
+   {
+      "word_id":381,
+      "word":"엄마",
+      "word_en":"mom",
+      "means_en":"mom"
+   },
+   {
+      "word_id":382,
+      "word":"아빠",
+      "word_en":"dad",
+      "means_en":"dad"
+   },
+   {
+      "word_id":383,
+      "word":"어머니",
+      "word_en":"mother",
+      "means_en":"mother"
+   },
+   {
+      "word_id":384,
+      "word":"아버지",
+      "word_en":"father",
+      "means_en":"father"
+   },
+   {
+      "word_id":385,
+      "word":"딸",
+      "word_en":"daughter",
+      "means_en":"daughter"
+   },
+   {
+      "word_id":386,
+      "word":"언니",
+      "word_en":"sister",
+      "means_en":"The word when younger female speaking to an older female"
+   },
+   {
+      "word_id":387,
+      "word":"오빠",
+      "word_en":"brother",
+      "means_en":"The word when younger female speaking to an older male"
+   },
+   {
+      "word_id":388,
+      "word":"누나",
+      "word_en":"sister",
+      "means_en":"The word when younger male speaking to an older female"
+   },
+   {
+      "word_id":389,
+      "word":"형",
+      "word_en":"brother",
+      "means_en":"The word when younger male speaking to an older male"
+   },
+   {
+      "word_id":390,
+      "word":"여동생",
+      "word_en":"younger sister",
+      "means_en":"younger sister"
+   },
+   {
+      "word_id":391,
+      "word":"남동생",
+      "word_en":"younger brother",
+      "means_en":"younger brother"
+   },
+   {
+      "word_id":392,
+      "word":"막내",
+      "word_en":"the youngest",
+      "means_en":"the youngest"
+   },
+   {
+      "word_id":393,
+      "word":"할머니",
+      "word_en":"grandma",
+      "means_en":"grandma"
+   },
+   {
+      "word_id":394,
+      "word":"할아버지",
+      "word_en":"grandpa",
+      "means_en":"grandpa"
+   },
+   {
+      "word_id":395,
+      "word":"이모",
+      "word_en":"aunt",
+      "means_en":"Mother's sister; a friendly term for a middle-aged woman"
+   },
+   {
+      "word_id":396,
+      "word":"이모부",
+      "word_en":"uncle",
+      "means_en":"Mother's sister's husband"
+   },
+   {
+      "word_id":397,
+      "word":"삼촌",
+      "word_en":"uncle",
+      "means_en":"Mother's brother; unmarried father's brother;  a friendly term for a middle-aged man"
+   },
+   {
+      "word_id":398,
+      "word":"고모",
+      "word_en":"aunt",
+      "means_en":"Father's sister"
+   },
+   {
+      "word_id":399,
+      "word":"고모부",
+      "word_en":"uncle",
+      "means_en":"Father's sister's husband"
+   },
+   {
+      "word_id":400,
+      "word":"아내",
+      "word_en":"wife",
+      "means_en":"wife"
+   },
+   {
+      "word_id":401,
+      "word":"남편",
+      "word_en":"husband",
+      "means_en":"husband"
+   },
+   {
+      "word_id":402,
+      "word":"조카",
+      "word_en":"Nephew",
+      "means_en":"Nephew"
+   },
+   {
+      "word_id":403,
+      "word":"손주",
+      "word_en":"grandchild",
+      "means_en":"grandchild"
+   },
+   {
+      "word_id":404,
+      "word":"손녀",
+      "word_en":"granddaughter",
+      "means_en":"granddaughter"
+   },
+   {
+      "word_id":405,
+      "word":"손자",
+      "word_en":"grandson",
+      "means_en":"grandson"
+   },
+   {
+      "word_id":406,
+      "word":"간호사",
+      "word_en":"nurse",
+      "means_en":"nurse"
+   },
+   {
+      "word_id":407,
+      "word":"약사",
+      "word_en":"pharmacist",
+      "means_en":"pharmacist"
+   },
+   {
+      "word_id":408,
+      "word":"판사",
+      "word_en":"Judge",
+      "means_en":"Judge"
+   },
+   {
+      "word_id":409,
+      "word":"변호사",
+      "word_en":"lawyer",
+      "means_en":"lawyer"
+   },
+   {
+      "word_id":410,
+      "word":"검사",
+      "word_en":"prosecutor",
+      "means_en":"prosecutor"
+   },
+   {
+      "word_id":411,
+      "word":"경찰",
+      "word_en":"police",
+      "means_en":"police"
+   },
+   {
+      "word_id":412,
+      "word":"소방관",
+      "word_en":"fire fighter",
+      "means_en":"fire fighter"
+   },
+   {
+      "word_id":413,
+      "word":"군인",
+      "word_en":"army",
+      "means_en":"army"
+   },
+   {
+      "word_id":414,
+      "word":"공무원",
+      "word_en":"public official",
+      "means_en":"public official"
+   },
+   {
+      "word_id":415,
+      "word":"기사",
+      "word_en":"driver, engineer",
+      "means_en":"driver, engineer"
+   },
+   {
+      "word_id":416,
+      "word":"교수",
+      "word_en":"Professor",
+      "means_en":"Professor"
+   },
+   {
+      "word_id":417,
+      "word":"화가",
+      "word_en":"painter",
+      "means_en":"painter"
+   },
+   {
+      "word_id":418,
+      "word":"예술가",
+      "word_en":"artist",
+      "means_en":"artist"
+   },
+   {
+      "word_id":419,
+      "word":"감독",
+      "word_en":"Director",
+      "means_en":"Director"
+   },
+   {
+      "word_id":420,
+      "word":"직장인",
+      "word_en":"office worker",
+      "means_en":"A salaried worker. White walkers usually belong to this"
+   },
+   {
+      "word_id":421,
+      "word":"알바",
+      "word_en":"part-time job, part-timer",
+      "means_en":"Short for a part-time job"
+   },
+   {
+      "word_id":422,
+      "word":"남자",
+      "word_en":"man",
+      "means_en":"man"
+   },
+   {
+      "word_id":423,
+      "word":"여자",
+      "word_en":"woman",
+      "means_en":"woman"
+   },
+   {
+      "word_id":424,
+      "word":"계절",
+      "word_en":"season",
+      "means_en":"season"
+   },
+   {
+      "word_id":425,
+      "word":"봄",
+      "word_en":"spring",
+      "means_en":"spring"
+   },
+   {
+      "word_id":426,
+      "word":"여름",
+      "word_en":"summer",
+      "means_en":"summer"
+   },
+   {
+      "word_id":427,
+      "word":"가을",
+      "word_en":"autumn",
+      "means_en":"autumn"
+   },
+   {
+      "word_id":428,
+      "word":"겨울",
+      "word_en":"winter",
+      "means_en":"winter"
+   },
+   {
+      "word_id":429,
+      "word":"날씨",
+      "word_en":"weather",
+      "means_en":"weather"
+   },
+   {
+      "word_id":430,
+      "word":"비",
+      "word_en":"rain",
+      "means_en":"rain"
+   },
+   {
+      "word_id":431,
+      "word":"더위",
+      "word_en":"heat",
+      "means_en":"heat"
+   },
+   {
+      "word_id":432,
+      "word":"추위",
+      "word_en":"cold",
+      "means_en":"cold"
+   },
+   {
+      "word_id":433,
+      "word":"태풍",
+      "word_en":"Typhoon",
+      "means_en":"A stormy tropical depression. It occurs a lot in summer in Korea"
+   },
+   {
+      "word_id":434,
+      "word":"황사",
+      "word_en":"Yellow dust",
+      "means_en":"A phenomenon in which sand and dust in the deserts of China and Mongolia rise in spring and fly far away in a westerly wind and sink slowly"
+   },
+   {
+      "word_id":435,
+      "word":"미세먼지",
+      "word_en":"fine dust",
+      "means_en":"Dust so small that it is invisible to the eye. In Korea, air quality is generally expressed by the concentration of fine dust in the air."
+   },
+   {
+      "word_id":436,
+      "word":"몸",
+      "word_en":"body",
+      "means_en":"body"
+   },
+   {
+      "word_id":437,
+      "word":"다리",
+      "word_en":"leg",
+      "means_en":"leg"
+   },
+   {
+      "word_id":438,
+      "word":"발",
+      "word_en":"foot",
+      "means_en":"foot"
+   },
+   {
+      "word_id":439,
+      "word":"목",
+      "word_en":"neck",
+      "means_en":"neck"
+   },
+   {
+      "word_id":440,
+      "word":"손",
+      "word_en":"hand",
+      "means_en":"hand"
+   },
+   {
+      "word_id":441,
+      "word":"어깨",
+      "word_en":"shoulder",
+      "means_en":"shoulder"
+   },
+   {
+      "word_id":442,
+      "word":"허리",
+      "word_en":"waist",
+      "means_en":"waist"
+   },
+   {
+      "word_id":443,
+      "word":"등",
+      "word_en":"back(body)",
+      "means_en":"back(body)"
+   },
+   {
+      "word_id":444,
+      "word":"허벅지",
+      "word_en":"thigh",
+      "means_en":"thigh"
+   },
+   {
+      "word_id":445,
+      "word":"종아리",
+      "word_en":"calf",
+      "means_en":"calf"
+   },
+   {
+      "word_id":446,
+      "word":"팔뚝",
+      "word_en":"forearm",
+      "means_en":"forearm"
+   },
+   {
+      "word_id":447,
+      "word":"손목",
+      "word_en":"wrist",
+      "means_en":"wrist"
+   },
+   {
+      "word_id":448,
+      "word":"손가락",
+      "word_en":"finger",
+      "means_en":"finger"
+   },
+   {
+      "word_id":449,
+      "word":"발가락",
+      "word_en":"toe",
+      "means_en":"toe"
+   },
+   {
+      "word_id":450,
+      "word":"머리",
+      "word_en":"head",
+      "means_en":"head"
+   },
+   {
+      "word_id":451,
+      "word":"머리카락",
+      "word_en":"hair",
+      "means_en":"hair"
+   },
+   {
+      "word_id":452,
+      "word":"귀",
+      "word_en":"ear",
+      "means_en":"ear"
+   },
+   {
+      "word_id":453,
+      "word":"눈",
+      "word_en":"eye",
+      "means_en":"eye"
+   },
+   {
+      "word_id":454,
+      "word":"코",
+      "word_en":"nose",
+      "means_en":"nose"
+   },
+   {
+      "word_id":455,
+      "word":"입",
+      "word_en":"mouth",
+      "means_en":"mouth"
+   },
+   {
+      "word_id":456,
+      "word":"발목",
+      "word_en":"Ankle",
+      "means_en":"Ankle"
+   },
+   {
+      "word_id":457,
+      "word":"배",
+      "word_en":"stomach",
+      "means_en":"stomach"
+   },
+   {
+      "word_id":458,
+      "word":"동물",
+      "word_en":"animal",
+      "means_en":"animal"
+   },
+   {
+      "word_id":459,
+      "word":"새",
+      "word_en":"bird",
+      "means_en":"bird"
+   },
+   {
+      "word_id":460,
+      "word":"곤충",
+      "word_en":"insect",
+      "means_en":"insect"
+   },
+   {
+      "word_id":461,
+      "word":"개구리",
+      "word_en":"frog",
+      "means_en":"frog"
+   },
+   {
+      "word_id":462,
+      "word":"닭",
+      "word_en":"chicken",
+      "means_en":"chicken"
+   },
+   {
+      "word_id":463,
+      "word":"말",
+      "word_en":"horse",
+      "means_en":"horse"
+   },
+   {
+      "word_id":464,
+      "word":"멸치",
+      "word_en":"anchovy",
+      "means_en":"anchovy"
+   },
+   {
+      "word_id":465,
+      "word":"개미",
+      "word_en":"ant",
+      "means_en":"ant"
+   },
+   {
+      "word_id":466,
+      "word":"뱀",
+      "word_en":"snake",
+      "means_en":"snake"
+   },
+   {
+      "word_id":467,
+      "word":"병아리",
+      "word_en":"chick",
+      "means_en":"chick"
+   },
+   {
+      "word_id":468,
+      "word":"비둘기",
+      "word_en":"pigeon",
+      "means_en":"pigeon"
+   },
+   {
+      "word_id":469,
+      "word":"사슴",
+      "word_en":"deer",
+      "means_en":"deer"
+   },
+   {
+      "word_id":470,
+      "word":"사자",
+      "word_en":"lion",
+      "means_en":"lion"
+   },
+   {
+      "word_id":471,
+      "word":"새우",
+      "word_en":"shrimp",
+      "means_en":"shrimp"
+   },
+   {
+      "word_id":472,
+      "word":"소",
+      "word_en":"cow",
+      "means_en":"cow"
+   },
+   {
+      "word_id":473,
+      "word":"송아지",
+      "word_en":"calf",
+      "means_en":"calf"
+   },
+   {
+      "word_id":474,
+      "word":"잠자리",
+      "word_en":"dragonfly",
+      "means_en":"dragonfly"
+   },
+   {
+      "word_id":475,
+      "word":"토끼",
+      "word_en":"rabbit",
+      "means_en":"rabbit"
+   },
+   {
+      "word_id":476,
+      "word":"호랑이",
+      "word_en":"tiger",
+      "means_en":"tiger"
+   },
+   {
+      "word_id":477,
+      "word":"게",
+      "word_en":"crab",
+      "means_en":"crab"
+   },
+   {
+      "word_id":478,
+      "word":"곰",
+      "word_en":"bear",
+      "means_en":"bear"
+   },
+   {
+      "word_id":479,
+      "word":"나비",
+      "word_en":"butterfly",
+      "means_en":"butterfly"
+   },
+   {
+      "word_id":480,
+      "word":"일",
+      "word_en":"one,day",
+      "means_en":"1"
+   },
+   {
+      "word_id":481,
+      "word":"이",
+      "word_en":"two",
+      "means_en":"2"
+   },
+   {
+      "word_id":482,
+      "word":"삼",
+      "word_en":"three",
+      "means_en":"3"
+   },
+   {
+      "word_id":483,
+      "word":"사",
+      "word_en":"four",
+      "means_en":"4"
+   },
+   {
+      "word_id":484,
+      "word":"오",
+      "word_en":"five",
+      "means_en":"5"
+   },
+   {
+      "word_id":485,
+      "word":"육",
+      "word_en":"six",
+      "means_en":"6"
+   },
+   {
+      "word_id":486,
+      "word":"칠",
+      "word_en":"seven",
+      "means_en":"7"
+   },
+   {
+      "word_id":487,
+      "word":"팔",
+      "word_en":"eight",
+      "means_en":"8"
+   },
+   {
+      "word_id":488,
+      "word":"구",
+      "word_en":"nine",
+      "means_en":"9"
+   },
+   {
+      "word_id":489,
+      "word":"십",
+      "word_en":"ten",
+      "means_en":"10"
+   },
+   {
+      "word_id":490,
+      "word":"하나",
+      "word_en":"one",
+      "means_en":"1"
+   },
+   {
+      "word_id":491,
+      "word":"둘",
+      "word_en":"two",
+      "means_en":"2"
+   },
+   {
+      "word_id":492,
+      "word":"셋",
+      "word_en":"three",
+      "means_en":"3"
+   },
+   {
+      "word_id":493,
+      "word":"넷",
+      "word_en":"four",
+      "means_en":"4"
+   },
+   {
+      "word_id":494,
+      "word":"다섯",
+      "word_en":"five",
+      "means_en":"5"
+   },
+   {
+      "word_id":495,
+      "word":"여섯",
+      "word_en":"six",
+      "means_en":"6"
+   },
+   {
+      "word_id":496,
+      "word":"일곱",
+      "word_en":"seven",
+      "means_en":"7"
+   },
+   {
+      "word_id":497,
+      "word":"아홉",
+      "word_en":"nine",
+      "means_en":"9"
+   },
+   {
+      "word_id":498,
+      "word":"열",
+      "word_en":"ten",
+      "means_en":"10"
+   },
+   {
+      "word_id":499,
+      "word":"프랑스",
+      "word_en":"France",
+      "means_en":"France"
+   },
+   {
+      "word_id":500,
+      "word":"독일",
+      "word_en":"Germany",
+      "means_en":"Germany"
+   },
+   {
+      "word_id":501,
+      "word":"스페인",
+      "word_en":"Spain",
+      "means_en":"Spain"
+   },
+   {
+      "word_id":502,
+      "word":"인도",
+      "word_en":"India",
+      "means_en":"India"
+   },
+   {
+      "word_id":503,
+      "word":"베트남",
+      "word_en":"Vietnam",
+      "means_en":"Vietnam"
+   },
+   {
+      "word_id":504,
+      "word":"필리핀",
+      "word_en":"Philippines",
+      "means_en":"Philippines"
+   },
+   {
+      "word_id":505,
+      "word":"태국",
+      "word_en":"Thailand",
+      "means_en":"Thailand"
+   },
+   {
+      "word_id":506,
+      "word":"인도네시아",
+      "word_en":"Indonesia",
+      "means_en":"Indonesia"
+   },
+   {
+      "word_id":507,
+      "word":"몽골",
+      "word_en":"Mongolia",
+      "means_en":"Mongolia"
+   },
+   {
+      "word_id":508,
+      "word":"핀란드",
+      "word_en":"Finland",
+      "means_en":"Finland"
+   },
+   {
+      "word_id":509,
+      "word":"스웨덴",
+      "word_en":"Sweden",
+      "means_en":"Sweden"
+   },
+   {
+      "word_id":510,
+      "word":"덴마크",
+      "word_en":"Denmark",
+      "means_en":"Denmark"
+   },
+   {
+      "word_id":511,
+      "word":"멕시코",
+      "word_en":"Mexico",
+      "means_en":"Mexico"
+   },
+   {
+      "word_id":512,
+      "word":"버스",
+      "word_en":"bus",
+      "means_en":"bus"
+   },
+   {
+      "word_id":513,
+      "word":"택시",
+      "word_en":"taxi",
+      "means_en":"taxi"
+   },
+   {
+      "word_id":514,
+      "word":"지하철",
+      "word_en":"subway",
+      "means_en":"subway"
+   },
+   {
+      "word_id":515,
+      "word":"기차",
+      "word_en":"train",
+      "means_en":"train"
+   },
+   {
+      "word_id":516,
+      "word":"무궁화호",
+      "word_en":"mugunghwa-ho",
+      "means_en":"One type of train in South Korea. Slower than a high speed train, but stops at more stations"
+   },
+   {
+      "word_id":517,
+      "word":"고속열차",
+      "word_en":"high-speed train",
+      "means_en":"Train faster than a regular train. There are KTX and SRT in Korea"
+   },
+   {
+      "word_id":518,
+      "word":"고속버스",
+      "word_en":"express bus",
+      "means_en":"A fast-moving bus on the highway.  Also used in the same sense as an intercity bus."
+   },
+   {
+      "word_id":519,
+      "word":"시외버스",
+      "word_en":"intercity bus",
+      "means_en":"A bus that runs from downtown to a particular area outside the city"
+   },
+   {
+      "word_id":520,
+      "word":"시내버스",
+      "word_en":"city bus",
+      "means_en":"A local bus"
+   },
+   {
+      "word_id":521,
+      "word":"역",
+      "word_en":"station",
+      "means_en":"station"
+   },
+   {
+      "word_id":522,
+      "word":"정류장",
+      "word_en":"stop",
+      "means_en":"stop"
+   },
+   {
+      "word_id":523,
+      "word":"공항",
+      "word_en":"air port",
+      "means_en":"air port"
+   },
+   {
+      "word_id":524,
+      "word":"비행기",
+      "word_en":"airplane",
+      "means_en":"airplane"
+   },
+   {
+      "word_id":525,
+      "word":"터미널",
+      "word_en":"terminal",
+      "means_en":"An end point or stop on a bus, railway, or air route. Usually used to shorten the bus terminal"
+   },
+   {
+      "word_id":526,
+      "word":"환승",
+      "word_en":"transfer",
+      "means_en":"transfer"
+   },
+   {
+      "word_id":527,
+      "word":"교통카드",
+      "word_en":"transportation card",
+      "means_en":"transportation card"
+   },
+   {
+      "word_id":528,
+      "word":"대학교",
+      "word_en":"college, university",
+      "means_en":"college, university"
+   },
+   {
+      "word_id":529,
+      "word":"초등학생",
+      "word_en":"elementary school student",
+      "means_en":"elementary school student"
+   },
+   {
+      "word_id":530,
+      "word":"중학생",
+      "word_en":"middle school student",
+      "means_en":"middle school student"
+   },
+   {
+      "word_id":531,
+      "word":"고등학생",
+      "word_en":"high school student",
+      "means_en":"high school student"
+   },
+   {
+      "word_id":532,
+      "word":"백",
+      "word_en":"hundred",
+      "means_en":"hundred"
+   },
+   {
+      "word_id":533,
+      "word":"천",
+      "word_en":"thousand",
+      "means_en":"thousand"
+   },
+   {
+      "word_id":534,
+      "word":"만",
+      "word_en":"ten thousand",
+      "means_en":"ten thousand"
+   },
+   {
+      "word_id":535,
+      "word":"억",
+      "word_en":"hundred million",
+      "means_en":"hundred million"
+   },
+   {
+      "word_id":536,
+      "word":"조",
+      "word_en":"millet",
+      "means_en":"millet"
+   },
+   {
+      "word_id":537,
+      "word":"명",
+      "word_en":"myung",
+      "means_en":"A unit noun that counts people"
+   },
+   {
+      "word_id":538,
+      "word":"마리",
+      "word_en":"ma-ri",
+      "means_en":"A unit noun that counts animals"
+   },
+   {
+      "word_id":539,
+      "word":"개",
+      "word_en":"gae",
+      "means_en":"A unit noun that counts things"
+   },
+   {
+      "word_id":540,
+      "word":"짝",
+      "word_en":"jjak",
+      "means_en":"A unit noun that counts each things of pair "
+   },
+   {
+      "word_id":541,
+      "word":"쌍",
+      "word_en":"ssang",
+      "means_en":"A unit noun that counts two together"
+   },
+   {
+      "word_id":542,
+      "word":"벌",
+      "word_en":"bul",
+      "means_en":"A unit noun that counts count clothes"
+   },
+   {
+      "word_id":543,
+      "word":"장",
+      "word_en":"page",
+      "means_en":"A unit noun that counts thin and wide objects such as paper or glass"
+   },
+   {
+      "word_id":544,
+      "word":"송이",
+      "word_en":"song-yi",
+      "means_en":"A unit noun that counts flowers or fruits on a stem"
+   },
+   {
+      "word_id":545,
+      "word":"한-",
+      "word_en":"one",
+      "means_en":"A number determiner for one quantity"
+   },
+   {
+      "word_id":546,
+      "word":"두-",
+      "word_en":"two",
+      "means_en":"A number determiner for two quantities"
+   },
+   {
+      "word_id":547,
+      "word":"세-",
+      "word_en":"three",
+      "means_en":"A number determiner for three quantities"
+   },
+   {
+      "word_id":548,
+      "word":"네-",
+      "word_en":"four",
+      "means_en":"A number determiner for four quantities"
+   },
+   {
+      "word_id":549,
+      "word":"어디",
+      "word_en":"where",
+      "means_en":"where"
+   },
+   {
+      "word_id":550,
+      "word":"이쪽",
+      "word_en":"here",
+      "means_en":"An indication pronoun indicating a place or direction close to the speaker"
+   },
+   {
+      "word_id":551,
+      "word":"저쪽",
+      "word_en":"there",
+      "means_en":"An indication pronoun indicating a place or direction away from the speaker and the listener"
+   },
+   {
+      "word_id":552,
+      "word":"그쪽",
+      "word_en":"there",
+      "means_en":"An indication pronoun indicating a place or direction close to the listener"
+   },
+   {
+      "word_id":553,
+      "word":"어떻게",
+      "word_en":"how",
+      "means_en":"how"
+   },
+   {
+      "word_id":554,
+      "word":"언제",
+      "word_en":"when",
+      "means_en":"when"
+   },
+   {
+      "word_id":555,
+      "word":"월",
+      "word_en":"month",
+      "means_en":"month"
+   },
+   {
+      "word_id":556,
+      "word":"시",
+      "word_en":"hour, O'clock",
+      "means_en":"hour, O'clock"
+   },
+   {
+      "word_id":557,
+      "word":"분",
+      "word_en":"minute",
+      "means_en":"minute"
+   },
+   {
+      "word_id":558,
+      "word":"초",
+      "word_en":"second",
+      "means_en":"second(time)"
+   },
+   {
+      "word_id":559,
+      "word":"레스토랑",
+      "word_en":"restaurant",
+      "means_en":"restaurant; In Korea, it is often used to talk about Western restaurants."
+   },
+   {
+      "word_id":560,
+      "word":"한식",
+      "word_en":"Korean food",
+      "means_en":"Korean food"
+   },
+   {
+      "word_id":561,
+      "word":"일식",
+      "word_en":"Japanese food",
+      "means_en":"Japanese food"
+   },
+   {
+      "word_id":562,
+      "word":"중식",
+      "word_en":"Chinese food",
+      "means_en":"Chinese food"
+   },
+   {
+      "word_id":563,
+      "word":"양식",
+      "word_en":"western food",
+      "means_en":"western food"
+   },
+   {
+      "word_id":564,
+      "word":"밥",
+      "word_en":"rice/meal",
+      "means_en":"Food made by steaming rice, etc; In Korea, it also means meal"
+   },
+   {
+      "word_id":565,
+      "word":"빵",
+      "word_en":"bread",
+      "means_en":"bread"
+   },
+   {
+      "word_id":566,
+      "word":"면",
+      "word_en":"noodle",
+      "means_en":"noodle"
+   },
+   {
+      "word_id":567,
+      "word":"떡",
+      "word_en":"rice cake",
+      "means_en":"rice cake"
+   },
+   {
+      "word_id":568,
+      "word":"맵다",
+      "word_en":"spicy, hot",
+      "means_en":"(flavor) spicy, hot"
+   },
+   {
+      "word_id":569,
+      "word":"뜨겁다",
+      "word_en":"hot",
+      "means_en":"(temperature) hot"
+   },
+   {
+      "word_id":570,
+      "word":"차갑다",
+      "word_en":"cold",
+      "means_en":"(temperature) cold"
+   },
+   {
+      "word_id":571,
+      "word":"분식",
+      "word_en":"bunsik",
+      "means_en":"Foods such as tteokbokki, kimbap, sundae, and fish cake that are often prepared and sold at snack bars because they are cheap."
+   },
+   {
+      "word_id":572,
+      "word":"맑음",
+      "word_en":"sunny",
+      "means_en":"sunny"
+   },
+   {
+      "word_id":573,
+      "word":"열대야",
+      "word_en":"tropical night",
+      "means_en":"tropical night"
+   },
+   {
+      "word_id":574,
+      "word":"한파",
+      "word_en":"cold wave",
+      "means_en":"cold wave"
+   },
+   {
+      "word_id":575,
+      "word":"폭우",
+      "word_en":"heavy rain",
+      "means_en":"heavy rain"
+   },
+   {
+      "word_id":576,
+      "word":"폭설",
+      "word_en":"heavy snow",
+      "means_en":"heavy snow"
+   },
+   {
+      "word_id":577,
+      "word":"폭염",
+      "word_en":"heat wave",
+      "means_en":"heat wave"
+   },
+   {
+      "word_id":578,
+      "word":"출구",
+      "word_en":"exit",
+      "means_en":"exit"
+   },
+   {
+      "word_id":579,
+      "word":"막차",
+      "word_en":"last train, last bus",
+      "means_en":"short for "
+   },
+   {
+      "word_id":580,
+      "word":"혼잡",
+      "word_en":"crowded",
+      "means_en":"crowded indoors or in a closed place"
+   },
+   {
+      "word_id":581,
+      "word":"여유",
+      "word_en":"not crowded",
+      "means_en":"Fewer people indoors or in closed places"
+   },
+   {
+      "word_id":582,
+      "word":"교통약자석",
+      "word_en":"priority seat ",
+      "means_en":"Seats for people who have difficulty moving around in their daily lives, such as the disabled, the elderly, pregnant women, those accompanying infants and young children, and children."
+   },
+   {
+      "word_id":583,
+      "word":"임산부 배려석",
+      "word_en":"Pregnant woman consideration seat",
+      "means_en":"Seats(usually pink) reserved for pregnant women on public transportation in Korea"
+   },
+   {
+      "word_id":584,
+      "word":"약냉방 칸",
+      "word_en":"weak air-conditioned car",
+      "means_en":"Among the cars in the Korean subway, the cars with weaker air conditioning and heating than other cars"
+   },
+   {
+      "word_id":585,
+      "word":"자리",
+      "word_en":"seat",
+      "means_en":"seat"
+   },
+   {
+      "word_id":586,
+      "word":"하차",
+      "word_en":"getting off",
+      "means_en":"getting off"
+   },
+   {
+      "word_id":587,
+      "word":"빠른환승                                                                                                                                                                                                                                                                                                                              ",
+      "word_en":"quick transfer",
+      "means_en":"quick transfer"
+   },
+   {
+      "word_id":588,
+      "word":"빠른하차",
+      "word_en":"quick get off",
+      "means_en":"quick get off"
+   }
+]

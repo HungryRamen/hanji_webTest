@@ -1,0 +1,215 @@
+[
+   {
+      "no": "1",
+      "letter": "가",
+      "word": "가방",
+      "mean": "물건을 넣어 들거나 메고 다닐 수 있게 만든 것.",
+      "mean_en": "bag, sack.",
+      "sentence1": "입학선물은 책가방으로 주세요.",
+      "sentence1_en": "Please give me a school bag as an entrance gift.",
+      "sentence2": "아버지가 쓰시던 가죽가방이야.",
+      "sentence2_en": "It's the leather bag my father used.",
+      "sentence3": "이 가방은 얼마죠?",
+      "sentence3_en": "How much is this bag?",
+      "sentence4": "종이가방 말고 천으로 된 가방은 없나요?",
+      "sentence4_en": "Do you have a cloth bag other than a paper bag?"
+   },
+   {
+      "no": "2",
+      "letter": "가",
+      "word": "가족",
+      "mean": "친족 관계에 있는 사람들의 집단. 또는 그 구성.",
+      "mean_en": "family(members)",
+      "sentence1": "우리 가족이야.",
+      "sentence1_en": "This is my family.",
+      "sentence2": "여름방학땐 가족여행을 갈거야.",
+      "sentence2_en": "I will go on a family trip during summer vacation.",
+      "sentence3": "내일 가족이랑 부산 여행을 가기로 했어.",
+      "sentence3_en": "I'm going on a trip to Busan with my family tomorrow."
+   },
+   {
+      "no": "3",
+      "letter": "나",
+      "word": "나비",
+      "mean": "날개달린 곤충의 일종",
+      "mean_en": "butterfly",
+      "sentence1": "꽃에 나비가 앉아있어.",
+      "sentence1_en": "There's a butterfly on the flower.",
+      "sentence2": "이건 호랑나비야.",
+      "sentence2_en": "It's a tiger swallowtail."
+   },
+   {
+      "no": "4",
+      "letter": "다",
+      "word": "다과",
+      "mean": "차와 과자.",
+      "mean_en": "refreshments",
+      "sentence1": "내 방에 오면 다과를 대접할게.",
+      "sentence1_en": "I'll treat you to refreshments when you come to my room."
+   },
+   {
+      "no": "5",
+      "letter": "다",
+      "word": "다시마",
+      "mean": "갈조류 다시맛과의 하나.",
+      "mean_en": "kelp",
+      "sentence1": "다시마를 넣어서 끓이면 국물이 더 맛있어져.",
+      "sentence1_en": "If you boil it with kelp, the soup tastes better.",
+      "sentence2": "물이 끓으면 다시마를 넣어주세요.",
+      "sentence2_en": "When the water boils, add kelp."
+   },
+   {
+      "no": "6",
+      "letter": "라",
+      "word": "라면",
+      "mean": "한국인의 소울푸드.",
+      "mean_en": "ramen, (instant) noodles.",
+      "sentence1": "라면에 달걀 넣어줄까?",
+      "sentence1_en": "Do you want eggs in ramen?",
+      "sentence2": "라면 먹고 갈래?",
+      "sentence2_en": "Do you want to eat ramen?",
+      "sentence3": "오늘 저녁은 라면이야."
+   },
+   {
+      "no": "7",
+      "letter": "마",
+      "word": "마리",
+      "mean": "짐승이나 물고기, 벌레 따위를 세는 단위.",
+      "mean_en": "a kind of counting unit",
+      "sentence1": "개 두 마리.",
+      "sentence1_en": "two dogs.",
+      "sentence2": "고양이 세 마리.",
+      "sentence2_en": "three cats.",
+      "sentence3": "물고기 두 마리.",
+      "sentence3_en": "two fish."
+   },
+   {
+      "no": "8",
+      "letter": "바",
+      "word": "바다",
+      "mean": "지구 위에서 육지를 제외한 부분.",
+      "mean_en": "sea"
+   },
+   {
+      "no": "9",
+      "letter": "사",
+      "word": "사람",
+      "mean": "",
+      "mean_en": "human"
+   },
+   {
+      "no": "10",
+      "letter": "아",
+      "word": "아침",
+      "mean": "",
+      "mean_en": "morning"
+   },
+   {
+      "no": "11",
+      "letter": "아",
+      "word": "아주머니",
+      "mean": "아줌마.",
+      "mean_en": "middle aged woman, tannie, aunt.",
+      "sentence1": "안녕하세요, 아주머니.",
+      "sentence1_en": "Hello, ma'am.",
+      "sentence2": "아주머니, 이거 얼마에요?",
+      "sentence2_en": "Ma'am, how much is this?",
+      "sentence3": "아줌마, 짜파구리 할 줄 아시죠?",
+      "sentence3_en": "Listen, do you know how to make Chapaguri?"
+   },
+   {
+      "no": "12",
+      "letter": "자",
+      "word": "자전거",
+      "mean": "",
+      "mean_en": "bicycle",
+      "sentence1": "자전거로 통학하고 있어.",
+      "sentence1_en": "I'm cycling to school."
+   },
+   {
+      "no": "13",
+      "letter": "차",
+      "word": "차표",
+      "mean": "",
+      "mean_en": "ticket",
+      "sentence1": "차표 보여주세요.",
+      "sentence1_en": "Please show me your ticket."
+   },
+   {
+      "no": "14",
+      "letter": "차",
+      "word": "차선",
+      "mean": "",
+      "mean_en": "(traffic) lane",
+      "sentence1": "차선 넘어가면 안돼.",
+      "sentence1_en": "You can't cross the lane."
+   },
+   {
+      "no": "15",
+      "letter": "카",
+      "word": "카드",
+      "mean": "",
+      "mean_en": "card",
+      "sentence1": "교통카드 있어?",
+      "sentence1_en": "Do you have a transportation card?"
+   },
+   {
+      "no": "16",
+      "letter": "카",
+      "word": "카레",
+      "mean": "",
+      "mean_en": "curry",
+      "sentence1": "3분카레 먹을래?",
+      "sentence1_en": "Do you want a 3-minute curry?"
+   },
+   {
+      "no": "17",
+      "letter": "타",
+      "word": "타성",
+      "mean": "오래되어 굳어진 좋지 않은 버릇",
+      "mean_en": "rut, force of habit",
+      "sentence1": "타성에서 벗어나려면 노력을 해야지.",
+      "sentence1_en": "You need to make a conscious effort to get out of a rut."
+   },
+   {
+      "no": "18",
+      "letter": "파",
+      "word": "파도",
+      "mean": "",
+      "mean_en": "wave",
+      "sentence1": "바다의 파도를 보면 생각이 많아져.",
+      "sentence1_en": "I have a lot of thoughts when I see the waves in the sea."
+   },
+   {
+      "no": "19",
+      "letter": "하",
+      "word": "하품",
+      "mean": "",
+      "mean_en": "yawn",
+      "sentence1": "하루종일 하품이구나.",
+      "sentence1_en": "You've been yawning all day."
+   },
+   {
+      "no": "20",
+      "letter": "하",
+      "word": "하루",
+      "mean": "",
+      "mean_en": "day",
+      "sentence1": "오늘 하루는 어땠어?",
+      "sentence1_en": "How was your day?"
+   },
+   {
+      "no": "21",
+      "letter": "사",
+      "word": "사이다",
+      "mean": "탄산이 들어간 음료",
+      "mean_en": "Soda"
+   },
+   {
+      "no": "22",
+      "letter": "고",
+      "word": "고구마",
+      "mean": "달달한 감자",
+      "mean_en": "Sweet Potato"
+   }
+]
