@@ -121,6 +121,12 @@
   	  }
 	  onWindowResize();
 	}
+     function vibrate(milliseconds) {
+       if (window.navigator && window.navigator.vibrate) {
+         window.navigator.vibrate(milliseconds);
+       }
+     }
+      
       loadingBar.style.display = "block";
 
       var script = document.createElement("script");
